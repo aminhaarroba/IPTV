@@ -1,15 +1,16 @@
 #EXTM3U
 
 
-#EXTINF:-1, By: REIVAN 15/09/2015 
+#EXTINF:-1, 
+Adapetação By: REIVAN  de tvdigitalsbl.iptvglobal.com.br 
 http://0.0.0.1234
 
-#EXTINF:-1, smartv app_SSiptv
+#EXTINF:-1, 15/09/2015 smartv app_SSiptv 
 http://0.0.0.1234
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="TV Aberta",[COLOR blue][I][B]Â» TV ABERTA Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, TV Aberta
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-id="jonasiptv-BANDn" tvg-logo="Band.jpg" tvg-logo="http://logos.iptvglobal.com.br/Band.jpg" group-title="TV Aberta",BAND SP
 http://109.236.88.32/hls-live/livepkgr/_definst_/liveevent/bandsp.m3u8
@@ -659,9 +660,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_it.m3u8?
 rtmp://flash.midiaip.com.br:1935/recordnewses/ playpath=recordnewses swfUrl=http://www.supertvonline.org/player/jwplayer.flash.swf pageUrl=http://www.supertvonline.org/tv/record-news-online-5597c416c0a1d
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Canais Latinos",[COLOR blue][I][B]Â» Canais Latinos Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
-
+#EXTINF:-1,  Latinos
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="latinoss.jpg" tvg-logo="http://logos.iptvglobal.com.br/latinoss.jpg" group-title="Canais Latinos",Telemundo HD
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
@@ -1179,8 +1179,10 @@ http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/pla
 
 #############################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Canais USA",[COLOR blue][I][B]Â» Canais USA Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1 Canais USA
+http://0.0.0.1234
+
+
 #EXTINF:-1 tvg-logo="us.jpg" tvg-logo="http://logos.iptvglobal.com.br/us.jpg" group-title="Canais USA",WSB Channel
 http://cmgdigitalhd2-lh.akamaihd.net/i/88246163001_1@131098/master.m3u8?hack=tmp.m3u8
 #EXTINF:-1 tvg-logo="us.jpg" tvg-logo="http://logos.iptvglobal.com.br/us.jpg" group-title="Canais USA",Discovery channel
@@ -1314,8 +1316,9 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 #EXTINF:-1 tvg-logo="us.jpg" tvg-logo="http://logos.iptvglobal.com.br/us.jpg" group-title="Canais USA",BASKET UNI.(Oregon)
 http://xrxs.net/video/live-p12oreg-1164.m3u8
  
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="PORTUGAL",[COLOR blue][I][B]Â» PORTUGAL Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, PORTUGAL
+http://0.0.0.1234
+
 
 #EXTINF:-1 tvg-logo="abolatv.jpg" tvg-logo="http://logos.iptvglobal.com.br/abolatv.jpg" group-title="PORTUGAL",A BOLA TV
 rtmp://31.220.0.199/privatestream/ playpath=bolatv362e941?keys=0XvGQZg1Vh8f7mVhcCyUDw&keyt=1439139624 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/ timeout=15 conn=S:OK
@@ -1342,8 +1345,6 @@ rtmp://213.13.26.11/live playpath=sicnoticias swfUrl=http://imgs.sapo.pt/sapovid
 
 #EXTINF:-1 tvg-logo="sporttv.jpg" tvg-logo="http://logos.iptvglobal.com.br/sporttv.jpg" group-title="PORTUGAL",SPORT TV 1
 
-
-
 #EXTINF:-1 tvg-logo="sporttv.jpg" tvg-logo="http://logos.iptvglobal.com.br/sporttv.jpg" group-title="PORTUGAL",SPORT TV 2
 
 #EXTINF:-1 tvg-logo="tvi.jpg" tvg-logo="http://logos.iptvglobal.com.br/tvi.jpg" group-title="PORTUGAL",TVI
@@ -1360,8 +1361,11 @@ http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/chunkli
 #EXTINF:-1 tvg-logo="portugal.png" tvg-logo="http://logos.iptvglobal.com.br/portugal.png" group-title="PORTUGAL",RTP InformaÃ§ao
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Filmes HD",[COLOR blue][I][B]Â» FILMES HD Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+
+
+
+#EXTINF:, Filmes HD
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="globalfilmes.jpg" tvg-logo="http://logos.iptvglobal.com.br/globalfilmes.jpg" group-title="Filmes HD",CoraÃ§Ãµes de Ferro (2015) 720p
 http://apkmania.com.br/marco/filmes/CoracaoesdeFerro2015.mp4
@@ -1830,7 +1834,6 @@ http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4
 http://media-br-am.crackle.com/1/2/f6/o7ylf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="globalfilmes.jpg" tvg-logo="http://logos.iptvglobal.com.br/globalfilmes.jpg" group-title="Filmes HD",O Policial do Futuro
 http://media-br-am.crackle.com/1/o/d6/y2vlf_480p_1mbps.mp4
-
 #EXTINF:-1 tvg-logo="globalfilmes.jpg" tvg-logo="http://logos.iptvglobal.com.br/globalfilmes.jpg" group-title="Filmes HD",Rocky Balboa
 http://media-br-am.crackle.com/1/x/f6/23ylf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="globalfilmes.jpg" tvg-logo="http://logos.iptvglobal.com.br/globalfilmes.jpg" group-title="Filmes HD",Ruslan Vinganca Explosiva
@@ -1951,8 +1954,8 @@ http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4
 #EXTINF:-1 tvg-logo="globalfilmes.jpg" tvg-logo="http://logos.iptvglobal.com.br/globalfilmes.jpg" group-title="Filmes HD",Wasabi
 http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="As Aventuras de Jackie Chan",[COLOR skyblue][I][B]Â»As Aventuras de Jackie ChanÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, jackie
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="jackie.jpg" tvg-logo="http://logos.iptvglobal.com.br/jackie.jpg" group-title="As Aventuras de Jackie Chan",S2-E1
 http://media-br-am.crackle.com/1/w/j6/azulf_480p.mp4
@@ -2115,8 +2118,9 @@ http://media-br-am.crackle.com/1/f/r6/yevlf_480p.mp4
 #EXTINF:-1 tvg-logo="jackie.jpg" tvg-logo="http://logos.iptvglobal.com.br/jackie.jpg" group-title="As Aventuras de Jackie Chan",S5-E13
 http://media-br-am.crackle.com/1/f/r6/wevlf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Undercover",[COLOR skyblue][I][B]Â»UndercoverÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, undecorver
+http://0.0.0.1234
+
 #EXTINF:-1 tvg-logo="undecorver.jpg" tvg-logo="http://logos.iptvglobal.com.br/undecorver.jpg" group-title="Undercover",Undercover 101 fi
 http://media-br-am.crackle.com/1/i/r6/c42lf_480p.mp4
 #EXTINF:-1 tvg-logo="undecorver.jpg" tvg-logo="http://logos.iptvglobal.com.br/undecorver.jpg" group-title="Undercover",Undercover 102 fi
@@ -2142,8 +2146,9 @@ http://media-br-am.crackle.com/1/j/r6/f42lf_480p.mp4
 #EXTINF:-1 tvg-logo="undecorver.jpg" tvg-logo="http://logos.iptvglobal.com.br/undecorver.jpg" group-title="Undercover",Undercover 112 fi
 http://media-br-am.crackle.com/1/j/r6/e42lf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Transformers Anime",[COLOR skyblue][I][B]Â»Transformers AnimeÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, transformes
+http://0.0.0.1234
+
 #EXTINF:-1 tvg-logo="transformes.jpg" tvg-logo="http://logos.iptvglobal.com.br/transformes.jpg" group-title="Transformers Anime",Transformers Anime 01 fi
 http://media-br-am.crackle.com/1/k/j6/t0ulf_480p.mp4
 #EXTINF:-1 tvg-logo="transformes.jpg" tvg-logo="http://logos.iptvglobal.com.br/transformes.jpg" group-title="Transformers Anime",Transformers Anime 02 fi
@@ -2171,8 +2176,9 @@ http://media-br-am.crackle.com/1/h/j6/j0ulf_480p.mp4
 #EXTINF:-1 tvg-logo="transformes.jpg" tvg-logo="http://logos.iptvglobal.com.br/transformes.jpg" group-title="Transformers Anime",Transformers Anime 13 fi
 http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Spiderman Anime",[COLOR skyblue][I][B]Â»Spiderman AnimeÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, SpiderMan
+http://0.0.0.1234
+
 #EXTINF:-1 tvg-logo="spider.jpg" tvg-logo="http://logos.iptvglobal.com.br/spider.jpg" group-title="Spiderman Anime",Spiderman Anime 01 fi
 http://media-br-am.crackle.com/1/i/p6/5kwlf_480p.mp4
 #EXTINF:-1 tvg-logo="spider.jpg" tvg-logo="http://logos.iptvglobal.com.br/spider.jpg" group-title="Spiderman Anime",Spiderman Anime 02 fi
@@ -2201,8 +2207,8 @@ http://media-br-am.crackle.com/1/l/p6/klwlf_480p.mp4
 http://media-br-am.crackle.com/1/l/p6/jlwlf_480p.mp4
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Godzilla",[COLOR skyblue][I][B]Â»GodzillaÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, godzilla
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="godzilla.jpg" tvg-logo="http://logos.iptvglobal.com.br/godzilla.jpg" group-title="Godzilla",S1-E1
 http://media-br-am.crackle.com/1/q/z6/tuvlf_480p.mp4
@@ -2285,8 +2291,8 @@ http://media-br-am.crackle.com/1/c/l6/6fwlf_480p.mp4
 #EXTINF:-1 tvg-logo="godzilla.jpg" tvg-logo="http://logos.iptvglobal.com.br/godzilla.jpg" group-title="Godzilla",S1-E40
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="THE FLASH",[COLOR skyblue][I][B]Â» THE FLASH Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, TheFlash
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="TheFlash.jpg" tvg-logo="http://logos.iptvglobal.com.br/TheFlash.jpg" group-title="THE FLASH",The Flash E01T01
 https://r17---sn-gpv7enel.googlevideo.com/videoplayback?id=53cec26b516e52c7&itag=22&source=picasa&requiressl=yes&mm=30&mn=sn-gpv7enel&ms=nxu&mv=m&pl=18&gir=yes&clen=582927976&dur=2673&lmt=1433544106834449&mime=video/mp4&mt=1439387622&ip=201.59.200.151&ipbits=0&expire=1439416489&sparams=ip,ipbits,expire,id,itag,source,requiressl,mm,mn,ms,mv,pl,gir,clen,dur,lmt,mime&signature=64DCA3A178B26D126358B66E6C6A64FEF894716D.8BBF6981F3BACCE4FB67F1E8D917DAC87438CD49&key=ck2
@@ -2357,8 +2363,8 @@ http://www.blogger.com/video-play.mp4?contentId=55adb74d5ad70d69&itag=18&source=
 
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Beast Wars/Machines",[COLOR skyblue][I][B]Â» Beast Wars Â«[/B][/I][/COLOR]
-http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
+#EXTINF:-1, Beast Wars/Machines
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="BeastMachines.jpg" tvg-logo="http://logos.iptvglobal.com.br/BeastMachines.jpg" group-title="Beast Wars/Machines",S1-E1
 http://media-br-am.crackle.com/1/k/j6/t0ulf_480p.mp4
@@ -2395,9 +2401,10 @@ http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
 http://download1474.mediafire.com/f0qo1x7czwzg/rmta2cgxytj8j7z/BeastWars12vitoria.mp4
 
 
+#EXTINF:-1, A Besta
+http://0.0.0.1234
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="A Besta",[COLOR skyblue][I][B]Â» A Besta Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+
 
 #EXTINF:-1 tvg-logo="abesta.jpeg" tvg-logo="http://logos.iptvglobal.com.br/abesta.jpeg" group-title="A Besta",S1-E1
 http://media-br-am.crackle.com/1/e/h6/38vlf_480p.mp4
@@ -2426,8 +2433,10 @@ http://media-br-am.crackle.com/1/c/h6/s8vlf_480p.mp4
 #EXTINF:-1 tvg-logo="abesta.jpeg" tvg-logo="http://logos.iptvglobal.com.br/abesta.jpeg" group-title="A Besta",S1-E13
 http://media-br-am.crackle.com/1/b/h6/r8vlf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Death Note",[COLOR skyblue][I][B]Â» Death Note Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural DeathNote
+http://0.0.0.1234
+
+
 
 #EXTINF:-1 tvg-logo="DeathNote.jpg" tvg-logo="http://logos.iptvglobal.com.br/DeathNote.jpg" group-title="Death Note",S1-E01
 http://media-br-am.crackle.com/1/g/l6/ldwlf_480p.mp4
@@ -2506,9 +2515,9 @@ http://media-br-am.crackle.com/1/z/l6/ufwlf_480p.mp4
 
 
 
+#EXTINF:-1, Supernatural 1
+http://0.0.0.1234
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Spider Man",[COLOR skyblue][I][B]Â» Spider Man Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
 
 #EXTINF:-1 tvg-logo="SpiderMan.jpg" tvg-logo="http://logos.iptvglobal.com.br/SpiderMan.jpg" group-title="Spider Man",S1-E1
 http://media-br-am.crackle.com/1/i/p6/5kwlf_480p.mp4
@@ -2539,8 +2548,9 @@ http://media-br-am.crackle.com/1/l/p6/jlwlf_480p.mp4
 
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 2Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 2
+http://0.0.0.1234
+
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T02
 http://www.blogger.com/video-play.mp4?contentId=8b762e9b8db1d829&itag=18&source=blogger&app=blogger&cmo=sensitive_content%3Dyes&ip=0.0.0.0&ipbits=0&expire=1436691831&sparams=id,itag,source,ip,ipbits,expire&signature=4BCB4B402F0D26E9AAFFFBA969DBBEB3AE67BEE8.BC02C9134B5F37339F6380B987DC2FB3FF05CD5A&key=ck2
@@ -2659,8 +2669,9 @@ http://www.blogger.com/video-play.mp4?contentId=ede21685f21e5865&itag=18&source=
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E16T03
 http://www.blogger.com/video-play.mp4?contentId=b9371aaa82c89169&itag=18&source=blogger&app=blogger&cmo=sensitive_content%3Dyes&ip=0.0.0.0&ipbits=0&expire=1436692846&sparams=id,itag,source,ip,ipbits,expire&signature=69334D09670094AE075A0D2EBD005A1DA541AAA6.2ACBA7F76755B286EB973EF4055E2F7187F50FE1&key=ck2
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 4Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 4
+http://0.0.0.1234
+
 
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T04
@@ -2729,8 +2740,9 @@ http://www.blogger.com/video-play.mp4?contentId=037c60cb421ca8a8&itag=18&source=
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E22T04
 http://www.blogger.com/video-play.mp4?contentId=2e1680fb3d694d47&itag=18&source=blogger&app=blogger&cmo=sensitive_content%3Dyes&ip=0.0.0.0&ipbits=0&expire=1436694409&sparams=id,itag,source,ip,ipbits,expire&signature=8BF00846445609C42C5C5AB53E492ADF4D9DBE26.8A701ED2BAC3D36D840F5F4163D1F583C17B1407&key=ck2
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 5Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+
+#EXTINF:-1, Supernatural 5
+http://0.0.0.1234
 
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T05
@@ -2799,8 +2811,8 @@ http://www.blogger.com/video-play.mp4?contentId=9059af3979c90440&itag=18&source=
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E22T05
 http://www.blogger.com/video-play.mp4?contentId=49df266c7f35bda5&itag=18&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434661581&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5333C85408880D5AC2E9E26E2FB3DC1EBC5085E4.729DA23CCB8CB79C4EE207E5D5734ADF912E00F1&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1432514069&mv=m&pl=20
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 6Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 6
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T06
 http://www.blogger.com/video-play.mp4?contentId=49d4f603b1ac0849&itag=5&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434651800&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=17A06300A8A9047E18D079CED2F6DA79AD4A64B4.5ACE5388AA9A8FA102B9629770B5AE03F7AF17E5&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7e&ms=nxu&mt=1432519711&mv=m&pl=20
@@ -2868,8 +2880,9 @@ http://www.blogger.com/video-play.mp4?contentId=85cabb3c60a128e5&itag=5&source=b
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E22T06
 http://www.blogger.com/video-play.mp4?contentId=fcb76be55b9ce75c&itag=5&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434651718&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=65507A93143F986436A72501397E1C4E282B6ADC.650DA1ABD87378A90F00D1E1BF7ADABD09347DA5&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07yn7l&ms=nxu&mt=1432519832&mv=m&pl=20
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 7Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 7
+http://0.0.0.1234
+
 
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T07
@@ -2941,8 +2954,8 @@ http://www.blogger.com/video-play.mp4?contentId=ef7eee858d0dd2b5&itag=5&source=b
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E23T07
 http://www.blogger.com/video-play.mp4?contentId=14f35eb3b5397123&itag=5&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434651985&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=5E71B8FE61EB59C0DA692DB8FAB243A33F731276.3E65BB2CE76ABBD9B1FBF7A6AEF825508391EB3E&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1432521148&mv=m&pl=20
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 8Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 8
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E01T08
 http://www.blogger.com/video-play.mp4?contentId=e6c0cdc7f6a95ea4&itag=18&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434669095&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=6B06F4727A33FBDE5B056F25F7FA3B23CD504179.812F4BE1F75FDF08D00D158611D94A9802B38553&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mt=1432521567&mv=m&pl=20
@@ -3014,8 +3027,9 @@ http://www.blogger.com/video-play.mp4?contentId=92ab9f8c23569bdc&itag=18&source=
 http://www.blogger.com/video-play.mp4?contentId=077259d6ee3abbb0&itag=18&source=blogger&app=blogger&ip=177.132.88.107&ipbits=0&expire=1434669222&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,pl,source&signature=601D6BF182D3AC782E46FEE9AA92933A47CA4BAE.55E281F87048367BB747E5D9EABC982DA55F1983&key=cms1&cms_redirect=yes&mm=30&mn=sn-bg07dnle&ms=nxu&mt=1432521687&mv=m&pl=20
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="SUPERNATURAL",[COLOR skyblue][I][B]Â» SUPERNATURAL 10Âª Temporada Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Supernatural 10
+http://0.0.0.1234
+
 
 #EXTINF:-1 tvg-logo="supernaturall.jpg" tvg-logo="http://logos.iptvglobal.com.br/supernaturall.jpg" group-title="SUPERNATURAL",Supernatural E00T10
 http://www.blogger.com/video-play.mp4?contentId=d3cd8d1fd45c80c5
@@ -3090,8 +3104,8 @@ http://tet.fairytaill.com/Supernatural/S10E22.MP4
 http://tet.fairytaill.com/Supernatural/S10E23.MP4
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Bleach",[COLOR skyblue][I][B]Â»BleachÂ«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Bleach
+http://0.0.0.1234
 
 
 #EXTINF:-1 tvg-logo="Bleach.jpg" tvg-logo="http://logos.iptvglobal.com.br/Bleach.jpg" group-title="Bleach",S1-E1
@@ -3313,8 +3327,8 @@ http://media-br-am.crackle.com/1/3/56/vw1lf_480p.mp4
 #EXTINF:-1 tvg-logo="Bleach.jpg" tvg-logo="http://logos.iptvglobal.com.br/Bleach.jpg" group-title="Bleach",S1-E109
 http://media-br-am.crackle.com/1/4/56/ww1lf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="A Feiticeira",[COLOR skyblue][I][B]Â» A Feiticeira Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, A feiticeira
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="AFeceira.jpg" tvg-logo="http://logos.iptvglobal.com.br/AFeceira.jpg" group-title="A Feiticeira",S1-E1
 http://media-br-am.crackle.com/1/h/r6/6bvlf_480p.mp4
@@ -3389,8 +3403,8 @@ http://media-br-am.crackle.com/1/f/d6/v1vlf_480p.mp4
 #EXTINF:-1 tvg-logo="AFeceira.jpg" tvg-logo="http://logos.iptvglobal.com.br/AFeceira.jpg" group-title="A Feiticeira",S1-E36
 http://media-br-am.crackle.com/1/f/d6/u1vlf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="CRASH",[COLOR skyblue][I][B]Â» CRASH Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Crash
+http://0.0.0.1234
 
 
 #EXTINF:-1 tvg-logo="crash.jpg" tvg-logo="http://logos.iptvglobal.com.br/crash.jpg" group-title="CRASH",S1-E1
@@ -3474,8 +3488,9 @@ http://media-br-am.crackle.com/1/r/v6/mnvlf_480p.mp4
 #EXTINF:-1 tvg-logo="arnold.jpg" tvg-logo="http://logos.iptvglobal.com.br/arnold.jpg" group-title="Arnold",S1-E13
 http://media-br-am.crackle.com/1/r/v6/lnvlf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Last Resort",[COLOR skyblue][I][B]Â» Last Resort Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, LastResort
+http://0.0.0.1234
+
 #EXTINF:-1 tvg-logo="LastResort.jpg" tvg-logo="http://logos.iptvglobal.com.br/LastResort.jpg" group-title="Last Resort",S1-E1
 http://media-br-am.crackle.com/1/f/56/6q1lf_480p.mp4
 #EXTINF:-1 tvg-logo="LastResort.jpg" tvg-logo="http://logos.iptvglobal.com.br/LastResort.jpg" group-title="Last Resort",S1-E2
@@ -3503,8 +3518,8 @@ http://media-br-am.crackle.com/1/f/56/4q1lf_480p.mp4
 #EXTINF:-1 tvg-logo="LastResort.jpg" tvg-logo="http://logos.iptvglobal.com.br/LastResort.jpg" group-title="Last Resort",S1-E13
 http://media-br-am.crackle.com/1/d/56/wq1lf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Os Novos Cacafantasmas",[COLOR skyblue][I][B]Â» Os Novos Cacafantasmas Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, osnovocacafantasmas
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="osnovocacafantasmas.jpg" tvg-logo="http://logos.iptvglobal.com.br/osnovocacafantasmas.jpg" group-title="Os Novos Cacafantasmas",S1-E1
 http://media-br-am.crackle.com/1/3/j6/02ulf_480p.mp4
@@ -3547,8 +3562,8 @@ http://media-br-am.crackle.com/1/a/n6/16ulf_480p.mp4
 #EXTINF:-1 tvg-logo="osnovocacafantasmas.jpg" tvg-logo="http://logos.iptvglobal.com.br/osnovocacafantasmas.jpg" group-title="Os Novos Cacafantasmas",S1-E20
 http://media-br-am.crackle.com/1/a/n6/06ulf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Astroboy",[COLOR skyblue][I][B]Â» Astroboy Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Astroboy
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="astroboy.jpg" tvg-logo="http://logos.iptvglobal.com.br/astroboy.jpg" group-title="Astroboy",S1-E1
 http://media-br-am.crackle.com/1/_/r6/kivlf_480p.mp4
@@ -3602,8 +3617,10 @@ http://media-br-am.crackle.com/1/6/r6/0hvlf_480p.mp4
 http://media-br-am.crackle.com/1/6/r6/zhvlf_480p.mp4
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Karate Kid",[COLOR skyblue][I][B]Â» Karate Kid Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1 Karate Kid
+http://0.0.0.1234
+
+
 
 #EXTINF:-1 tvg-logo="TheKarateKid.jpg" tvg-logo="http://logos.iptvglobal.com.br/TheKarateKid.jpg" group-title="Karate Kid",S1-E1
 http://media-br-am.crackle.com/1/m/r6/scvlf_480p.mp4
@@ -3635,9 +3652,8 @@ http://media-br-am.crackle.com/1/k/r6/hcvlf_480p.mp4
 
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Iron man",[COLOR skyblue][I][B]Â» Iron man Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
-
+#EXTINF:-1, Iron Man
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="iroman.jpg" tvg-logo="http://logos.iptvglobal.com.br/iroman.jpg" group-title="Iron man",S1-E1
 http://media-br-am.crackle.com/1/h/h6/f9vlf_480p.mp4
@@ -3665,8 +3681,9 @@ http://media-br-am.crackle.com/1/f/h6/58vlf_480p.mp4
 http://media-br-am.crackle.com/1/e/h6/48vlf_480p.mp4
 
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Anger Management",[COLOR skyblue][I][B]Â» Anger Management Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Anger Management
+http://0.0.0.1234
+
 #EXTINF:-1 tvg-logo="AngerManagement.jpg" tvg-logo="http://logos.iptvglobal.com.br/AngerManagement.jpg" group-title="Anger Management",S1-E1
 http://media-br-am.crackle.com/1/q/h6/f7vlf_480p.mp4
 #EXTINF:-1 tvg-logo="AngerManagement.jpg" tvg-logo="http://logos.iptvglobal.com.br/AngerManagement.jpg" group-title="Anger Management",S1-E2
@@ -3688,8 +3705,9 @@ http://media-br-am.crackle.com/1/q/h6/h7vlf_480p.mp4
 #EXTINF:-1 tvg-logo="AngerManagement.jpg" tvg-logo="http://logos.iptvglobal.com.br/AngerManagement.jpg" group-title="Anger Management",S1-E10
 http://media-br-am.crackle.com/1/q/h6/g7vlf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Missing Persons Unit",[COLOR skyblue][I][B]Â» Missing Persons Unit Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Missing Persons Unit
+http://0.0.0.1234
+
 
 #EXTINF:-1 tvg-logo="MissingPersonsUnit.jpg" tvg-logo="http://logos.iptvglobal.com.br/MissingPersonsUnit.jpg" group-title="Missing Persons Unit",S1-E1
 http://media-br-am.crackle.com/1/j/r6/g12lf_480p.mp4
@@ -3732,8 +3750,9 @@ http://media-br-am.crackle.com/1/f/r6/002lf_480p.mp4
 #EXTINF:-1 tvg-logo="MissingPersonsUnit.jpg" tvg-logo="http://logos.iptvglobal.com.br/MissingPersonsUnit.jpg" group-title="Missing Persons Unit",S1-20
 http://media-br-am.crackle.com/1/e/r6/y02lf_480p.mp4
 
-#EXTINF:-1 tvg-logo="Perfil.jpg" tvg-logo="http://logos.iptvglobal.com.br/Perfil.jpg" group-title="Leverage",[COLOR skyblue][I][B]Â» Leverage Â«[/B][/I][/COLOR]
-http://tvdigitalsbl.iptvglobal.com.br/Filmes.mp4
+#EXTINF:-1, Leverage
+http://0.0.0.1234
+
 
 #EXTINF:-1 tvg-logo="Leverage.jpg" tvg-logo="http://logos.iptvglobal.com.br/Leverage.jpg" group-title="Leverage",S1-E1
 http://media-br-am.crackle.com/1/e/r6/w02lf_480p.mp4
@@ -3826,9 +3845,9 @@ http://media-br-am.crackle.com/1/-/n6/9z2lf_480p.mp4
 
 
 
-##################################################################################RÃDIOS####################################################################################
 
-#Radio
+#EXTINF:-1, Radios
+http://0.0.0.1234
 
 #EXTINF:-1 tvg-logo="acor.jpg" tvg-logo="http://logos.iptvglobal.com.br/acor.jpg" group-title="RÃ¡dios" radio=true,A cor da vida
 rtmp://flash.midiaip.com.br/cordavida.stream playpath=default.stream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.15.swf pageUrl=http://www.acordavidafm.com/capa/aovivo/play_audio.html
