@@ -1,0 +1,461 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title=" 10.30 e 13.00 superbike GP FRANCE gara 1 e 2 ",eurosport de ace
+acestream://bf4a62c2c294d997a65fce0c69952f0104dcdd8e
+#EXTINF:-1 group-title=" 10.30 e 13.00 superbike GP FRANCE gara 1 e 2 ",eurosport uk ace
+acestream://268877735d560d2fe78f44bc763e40e2b23b13e4
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",futboll 2 ukr ace
+acestream://0b5abae68a960d159bc07fb4d721da82adec4dd7
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",arenavision 1
+acestream://ddb663867ee6e6f37e9543e49030712e1821e690
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",arenavision 2
+acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",sky sports 3 uk ace
+acestream://2e8b87e0595573cf9cc422899d0e4c86fbd83081
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 12.00 esp RAYO VALLECANO - REAL BETIS ",silk sport 4 ge
+http://188.93.94.133/silk_sport4/index.m3u8
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",arenavision 8
+acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",arenavision 9
+acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",arena sport 4 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",beIN FR 2 ace
+acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132679 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132679&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 12.30 ita EMPOLI - SASSUOLO ",digi sport 1 ro ace
+acestream://7525fc778e3f751b430d4cf626e187268e67a1d5
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",sky sports 2 uk ace
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",sport 1 ukr ace
+acestream://7c71c34c1d42ff78144d0903301de867ce2b86de
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 12.30 ned DE GRAAFSCHAP - FEYENOORD ",silk sport 1 ge
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 group-title=" 13.00 eng.cha CHARLTON ATHLETIC - FULHAM ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 13.00 eng.cha CHARLTON ATHLETIC - FULHAM ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 13.00 eng.cha CHARLTON ATHLETIC - FULHAM ",sky sports 2 uk ace
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:-1 group-title=" 13.30 sco HAMILTON ACADEMICAL - CELTIC ",[COLOR green]13.30 sco HAMILTON ACADEMICAL - CELTIC[/COLOR]
+http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
+#EXTINF:-1 group-title=" 13.30 sco HAMILTON ACADEMICAL - CELTIC ",bt sport 1 uk ace
+acestream://dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
+#EXTINF:-1 group-title=" 13.30 sco HAMILTON ACADEMICAL - CELTIC ",setanta eurasia ace
+acestream://4f341d4014b588016bdc636b906b880af6a26e63
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",arena sport 2 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130751 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",arena sport 2 sr ace
+acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",beIN FR 1 ace
+acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",arenavision 1
+acestream://ddb663867ee6e6f37e9543e49030712e1821e690
+#EXTINF:-1 group-title=" 14.00 fra MONACO - RENNES ",arenavision 2
+acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
+#EXTINF:-1 group-title=" 14.00 ita.lega.pro CARRARESE - ANCONA ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube01live-live/stream1?token=0388bda8eb08a0642143b
+#EXTINF:-1 group-title=" 14.00 ita.lega.pro CARRARESE - ANCONA ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube01live-live/stream2?token=0755a187f91a599ba2498
+#EXTINF:-1 group-title=" 14.30 ita.leg.pro CATANZARO - COSENZA ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube02live-live/stream1?token=00a863be9be119b293a07
+#EXTINF:-1 group-title=" 14.30 ita.leg.pro CATANZARO - COSENZA ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube02live-live/stream2?token=0919df3daa25f6f5dfd2e
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",c+sport pl ace
+acestream://63139e95f3c2caf9b8df9782a359ec9050711219
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",futboll 2 ukr ace
+acestream://0b5abae68a960d159bc07fb4d721da82adec4dd7
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",futboll 2 HD ukr ace
+acestream://570972d842056f7a676e3e8c41e36c14236c5bb3
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",sky sports 1 uk ace
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",viasat football swe ace
+acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 14.30 eng EVERTON - LIVERPOOL ",silk sport 4 ge
+http://188.93.94.133/silk_sport4/index.m3u8
+#EXTINF:-1 group-title=" 14.30 bel GENT - CLUB BRUGGE ",arena sport 5 sr_2
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130754 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130754&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 14.30 bel GENT - CLUB BRUGGE ",ntv sport tr
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",polsat sport extra ace
+acestream://ed20cc93e89e6b232ee9e515b7cdeed57fd773b5
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sky sports 2 uk ace
+acestream://e9969669eeed0adb1c68072e977283222ac9572e
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sport 1 ukr ace
+acestream://7c71c34c1d42ff78144d0903301de867ce2b86de
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sport 2 cz ace
+acestream://923bfb351663df55f2708a82eeadb50225bc213d
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",sportklub 1 sr ace
+acestream://c80a1b61077511d8d3859d869c17d104db50e1e3
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",viasat sport swe ace
+acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd
+#EXTINF:-1 group-title=" 14.30 ned AJAX - PSV EINDHOVEN ",silk sport 1 ge
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",arena sport 3 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",arena sport 3 sr ace
+acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132679 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132679&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",digi sport 1 ro ace
+acestream://7525fc778e3f751b430d4cf626e187268e67a1d5
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",setanta eurasia + ace
+acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",sport 1 cz ace
+acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",arenavision 3
+acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac
+#EXTINF:-1 group-title=" 15.00 ita SAMPDORIA - INTER ",arenavision 4
+acestream://9953ba235a8c972d0b162c6f3bddc92eaa9ee110
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",arenavision 8
+acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",arenavision 9
+acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",supersport 1 al
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",arena sport 4 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 15.00 ita PALERMO - ROMA ",digi sport 3 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132686&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 15.00 ita UDINESE - GENOA ",arena sport 1 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130750 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130750&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 15.00 ita UDINESE - GENOA ",arena sport 1 sr ace
+acestream://d33479c1c47dc23420fb5894cc71cedf650754eb
+#EXTINF:-1 group-title=" 15.00 cycling GIRO di LOMBARDIA ",rai3 it
+http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title=" 15.00 cycling GIRO di LOMBARDIA ",rai3 it_2
+http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
+#EXTINF:-1 group-title=" 15.00 cycling GIRO di LOMBARDIA ",eurosport uk ace
+acestream://268877735d560d2fe78f44bc763e40e2b23b13e4
+#EXTINF:-1 group-title=" 15.00 cycling GIRO di LOMBARDIA ",eurosport de ace
+acestream://bf4a62c2c294d997a65fce0c69952f0104dcdd8e
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro LUPA ROMA - PISTOIESE ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube03live-live/stream1?token=0b86ab2f5ccf6c89acaa1
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro LUPA ROMA - PISTOIESE ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube03live-live/stream2?token=02b625a67e8813829408f
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro SPAL - L"AQUILA ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube04live-live/stream1?token=00a5f9ba60b1db6ef919c
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro SPAL - L"AQUILA ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube04live-live/stream2?token=0a97330f285602aa32baf
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro MACERATESE - PONTEDERA ",[COLOR green]15.00 ita.leg.pro MACERATESE - PONTEDERA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro MACERATESE - PONTEDERA ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube05live-live/stream1?token=06c2d9bab75fd2a805566
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro MACERATESE - PONTEDERA ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube05live-live/stream1?token=04ebf05f1c7a502ba6fd3
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro TUTTOCUOIO - TERAMO ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube06live-live/stream1?token=040bf23330dd21f975309
+#EXTINF:-1 group-title=" 15.00 ita.leg.pro TUTTOCUOIO - TERAMO ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube06live-live/stream1?token=059147da4c95253f2382a
+#EXTINF:-1 group-title=" 15.30 ger SCHALKE 04 - KOLN ",eurosport 2 north-est ace
+acestream://4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1 group-title=" 15.30 ger SCHALKE 04 - KOLN ",sport 2 ukr ace
+acestream://1d9c2b4aaecfe120d047806b832379dacbe88c37
+#EXTINF:-1 group-title=" 15.30 ger SCHALKE 04 - KOLN ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 15.30 ger SCHALKE 04 - KOLN ",sport tv 2 pt ace
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-1 group-title=" 15.30 rugby.world.cup ARGENTINA - TONGA ",arenavision 7
+acestream://ad2c7efbe14f74abf6ffa489bf4f545889a0688a
+#EXTINF:-1 group-title=" 15.30 rugby.world.cup ARGENTINA - TONGA ",silk sport 2 ge
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 group-title=" 15.30 nfl MIAMI DOLPHINS - NEW YORK JETS ",arenavision 10
+acestream://484f2847fcc055116f8df0ce91f3291bfc2fc8e6
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",f+ bg
+acestream://fa5b5861c31bd312346530c0e0db562d7e6ccfd1
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",futboll 1 ukr ace
+acestream://4c43750dcd6791f9d2a6d745a6279f1894be6af7
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",sky sports 5 uk ace
+acestream://37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",arenavision 1
+acestream://ddb663867ee6e6f37e9543e49030712e1821e690
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",sport tv 3 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",sport tv 3 pt ace
+acestream://2cd965d9c087d1d6be889d54d689a6a6083a6280
+#EXTINF:-1 group-title=" 16.00 esp ATH.BILBAO - VALENCIA ",arenavision 2
+acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",c+sport pl ace
+acestream://63139e95f3c2caf9b8df9782a359ec9050711219
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",futboll 2 ukr ace
+acestream://0b5abae68a960d159bc07fb4d721da82adec4dd7
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",sky sports 1 uk ace
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",sportklub 1 sr ace
+acestream://c80a1b61077511d8d3859d869c17d104db50e1e3
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",viasat football swe ace
+acestream://a38f93b6d18d9c86bfb664d9f17d202cc393401d
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",arenavision 3
+acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",arenavision 4
+acestream://9953ba235a8c972d0b162c6f3bddc92eaa9ee110
+#EXTINF:-1 group-title=" 17.00 eng ARSENAL - MANCHESTER UTD ",silk sport 1 ge
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - TOTTENHAM HOTSPURS ",viasat sport swe ace
+acestream://ac7db4c644c21ca9d72c6724fcb206883a87fbbd
+#EXTINF:-1 group-title=" 17.00 eng SWANSEA CITY - TOTTENHAM HOTSPURS ",silk sport 4 ge
+http://188.93.94.133/silk_sport4/index.m3u8
+#EXTINF:-1 group-title=" 17.00 fra CAEN - ST.ETIENNE ",arena sport 3 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 17.00 fra CAEN - ST.ETIENNE ",arena sport 3 sr ace
+acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
+#EXTINF:-1 group-title=" 17.00 fra CAEN - ST.ETIENNE ",beIN FR 1 ace
+acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
+#EXTINF:-1 group-title=" 17.00 fra CAEN - ST.ETIENNE ",nova sport bg ace
+acestream://7437157eccc3c23fef405bf277e0d635329428cf
+#EXTINF:-1 group-title=" 17.00 por UNIAO MADEIRA - BENFICA ",rtp int pt
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 group-title=" 17.00 por UNIAO MADEIRA - BENFICA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 17.00 por UNIAO MADEIRA - BENFICA ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 17.00 por UNIAO MADEIRA - BENFICA ",sport 1 ukr ace
+acestream://7c71c34c1d42ff78144d0903301de867ce2b86de
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",beIN FR 2 ace
+acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",eurosport 2 north-est ace
+acestream://4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",supersport 1 al
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",sport 2 ukr ace
+acestream://1d9c2b4aaecfe120d047806b832379dacbe88c37
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",sport tv 2 pt ace
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 17.30 ger BAYERN MUNCHEN - BOR.DORTMUND ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro LUCCHESE - PRATO ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube07live-live/stream1?token=0c4132dd425cb7f075272
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro LUCCHESE - PRATO ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube07live-live/stream1?token=097abbfd4a5f8d663bb55
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SIENA - RIMINI ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube08live-live/stream1?token=0f0298f20da76e7c15b1a
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SIENA - RIMINI ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube08live-live/stream2?token=0807e73fd488db474a435
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SANTARCANGELO - PISA ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube09live-live/stream1?token=031bf5ce0f9f2fc2abd88
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SANTARCANGELO - PISA ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube09live-live/stream2?token=0b821e20b92e71323e2cf
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SAVONA - AREZZO ",sportube tv sd
+rtmp://sportubelivefs.fplive.net/sportube10live-live/stream1?token=0da349d7289be40618096
+#EXTINF:-1 group-title=" 17.30 ita.leg.pro SAVONA - AREZZO ",sportube tv hd
+rtmp://sportubelivefs.fplive.net/sportube10live-live/stream2?token=048ad36cef4542dcd0890
+#EXTINF:-1 group-title=" 17.45 rugby.world.cup IRELAND - ITALY ",arenavision 7
+acestream://ad2c7efbe14f74abf6ffa489bf4f545889a0688a
+#EXTINF:-1 group-title=" 17.45 rugby.world.cup IRELAND - ITALY ",silk sport 2 ge
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",arenavision 8
+acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",arenavision 9
+acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",arena sport 4 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",bt sport 2 uk ace
+acestream://7e8a66f8acc92f39e52634761f391693a4134585
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",setanta eurasia ace
+acestream://4f341d4014b588016bdc636b906b880af6a26e63
+#EXTINF:-1 group-title=" 18.00 ita JUVENTUS - BOLOGNA ",sport 1 cz ace
+acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
+#EXTINF:-1 group-title=" 18.00 bel GENK - STANDARD LIEGE ",ntv sport tr
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1 group-title=" 18.00 bel GENK - STANDARD LIEGE ",setanta eurasia + ace
+acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",c+liga es ace
+acestream://dd70dfe213f9cb4bf3d60d9801bfbdd3fcce7efa
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",f+ bg
+acestream://fa5b5861c31bd312346530c0e0db562d7e6ccfd1
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",sky sports 5 uk ace
+acestream://37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",sportklub 2 sr ace
+acestream://dfda4bbd871448e685f9c496285e64e1780d44ea
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",arenavision 1
+acestream://ddb663867ee6e6f37e9543e49030712e1821e690
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",arenavision 2
+acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
+#EXTINF:-1 group-title=" 18.15 esp LEVANTE - VILLAREAL ",silk sport 3 ge
+http://188.93.94.133/silk_sport2/index.m3u8
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",sport 1 ukr ace
+acestream://7c71c34c1d42ff78144d0903301de867ce2b86de
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 19.15 por PORTO - BELENENSES ",silk sport 1 ge
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 group-title=" 20.00 bel ANDERLECHT - MECHELEN ",Sportitalia
+rtmp://spi.hystream.com:1935/spilive/spistream_480
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",beIN FR 1 ace
+acestream://6aee464bcf506d9b72e57e13acead0ba1ef74cfd
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",futboll 2 ukr ace
+acestream://0b5abae68a960d159bc07fb4d721da82adec4dd7
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",sky sports 1 uk ace
+acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",sport tv 2 pt ace
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",supersport 1 al
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",supersport 1 al
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",sportklub 2 sr ace
+acestream://dfda4bbd871448e685f9c496285e64e1780d44ea
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",arenavision 1
+acestream://ddb663867ee6e6f37e9543e49030712e1821e690
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",arenavision 2
+acestream://18ab7b60b79faf3362620a9435ddcdcb4f8020e5
+#EXTINF:-1 group-title=" 20.30 esp ATL.MADRID - REAL MADRID ",silk sport 4 ge
+http://188.93.94.133/silk_sport4/index.m3u8
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",arena sport 4 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130753 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130753&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",beIN FR 2 ace
+acestream://a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",digi sport 3 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132686 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132686&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",setanta eurasia ace
+acestream://4f341d4014b588016bdc636b906b880af6a26e63
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",sport 1 cz ace
+acestream://f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",arenavision 8
+acestream://5b05834daab7f3882645e3871b88eb6c0b74ca1c
+#EXTINF:-1 group-title=" 20.45 ita MILAN - NAPOLI ",arenavision 9
+acestream://3e3f649ffd85942dbfe1d0523c58b510b26c8d09
+#EXTINF:-1 group-title=" 20.45 ita FIORENTINA - ATALANTA ",[COLOR green]20.45 ita FIORENTINA - ATALANTA[/COLOR]
+http://weblinks.altervista.org/SPTV.htm
+#EXTINF:-1 group-title=" 20.45 ita FIORENTINA - ATALANTA ",arena sport 2 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130751 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130751&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 20.45 ita FIORENTINA - ATALANTA ",arena sport 2 sr ace
+acestream://5aa17d1d960dd7cb38a0eebb8126671bfa86db21
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",arena sport 3 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",arena sport 3 sr ace
+acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",setanta eurasia + ace
+acestream://0f7600a4b59199820c0e19bd8457b5a617c5b2cb
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",sport 2 cz ace
+acestream://923bfb351663df55f2708a82eeadb50225bc213d
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",arenavision 3
+acestream://974a62f8f737d84adf1a78c2ea41f219858ad3ac
+#EXTINF:-1 group-title=" 21.00 fra PARIS ST.GERMAIN - MARSEILLE ",arenavision 4
+acestream://9953ba235a8c972d0b162c6f3bddc92eaa9ee110
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - GREMIO ",gazzetta tv it (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - GREMIO ",gazzetta tv it_opz 2 (geo)
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - GREMIO ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 21.00 bra CRUZEIRO - GREMIO ",sport tv 4 pt ace
+acestream://4f256982b213a8b3346b01683b82261db8dcd524
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",f+ bg
+acestream://fa5b5861c31bd312346530c0e0db562d7e6ccfd1
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 21.30 por SPORTING LISBON - VITORIA GUIMARAES ",silk sport 1 ge
+http://188.93.94.133/silk_football/index.m3u8
+#EXTINF:-1 group-title=" 23.00 mls FC DALLAS - HOUSTON DYNAMO ",[COLOR green]23.00 mls FC DALLAS - HOUSTON DYNAMO[/COLOR]
+http://list_made_by_lucaucca_at->http://ListaLuca_m3u_GROUPS.m3u
+#EXTINF:-1 group-title=" 23.00 mls FC DALLAS - HOUSTON DYNAMO ",eurosport 2 north-est ace
+acestream://4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",sport tv 2 pt ace
+acestream://a3776be8c08f52b3366c83fff09609721e28cd69
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",arena sport 3 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130752 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130752&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",arena sport 3 sr ace
+acestream://65fbcb7bf836c7c4db82dd17b04a12404b1105a9
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",arenavision 5
+acestream://44bd912f22320ff39dae4de5aa6778d3c28461f0
+#EXTINF:-1 group-title=" 23.15 arg BOCA JUNIORS - CRUCERO DEL NORTE ",arenavision 6
+acestream://a649e982c6b91bc783b3779ffd03ad6a3be7c696
+#EXTINF:-1 group-title=" 23.30 bra CHAPECOENSE - PALMEIRAS ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132679 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132679&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 23.30 bra CHAPECOENSE - PALMEIRAS ",digi sport 1 ro ace
+acestream://7525fc778e3f751b430d4cf626e187268e67a1d5
+#EXTINF:-1 group-title=" 1.00 mls COLORADO RAPIDS - REAL SALT LAKE ",eurosport 2 north-est ace
+acestream://4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",sport tv 1 pt ace
+acestream://c39db61fd585ebfa446983d0af9d9d637df9678c
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",arena sport 1 sr
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=130750 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=130750&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",arena sport 1 sr ace
+acestream://d33479c1c47dc23420fb5894cc71cedf650754eb
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",c+futbol es ace
+acestream://f0747d9c0eb7e9da0aa83f1a405845c894384852
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",digi sport 2 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.216.55:80/liverepeater playpath=132685 swfUrl=http://cdn.deltatv.pw/players.swf pageUrl=http://deltatv.pw/stream.php?id=132685&width=720&height=420 token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1 group-title=" 2.30 arg INDEPENDIENTE - RIVER PLATE ",digi sport 2 ro ace
+acestream://843675d1c8f68003732db7d73557155dafc5ba03
