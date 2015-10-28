@@ -73,6 +73,8 @@ http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos
 #EXTINF:-1,PT:TV SERIES HD
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2920.ts
 
+#EXTINF:-1,TOROLOBATO TV TOROS
+http://brodcast-2.zuneserver.com:10007/live/jose/S5mmy0qZdM/2.m3u8
 
 #EXTINF:-1 tvg-id="CINE MUNDO" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg",CINE MUNDO 
 http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2709.ts
