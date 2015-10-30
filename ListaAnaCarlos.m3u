@@ -1,0 +1,257 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="Capelinha Santuario Fatima" tvg-logo="http://lediniz.com.br/wp-content/uploads/2013/03/Arautos_NSa-Fatima.png",Capelinha Santuario Fatima
+http://213.13.26.12:1935/live/santuario.stream/PAZ.m3u8
+#EXTINF:-1, tvg-id="RTP INTERNACIONAL" tvg-logo="http://ptbrvirtual.com/images/chanels/RTP_INTERNACIONAL.PNG",RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1, GLOBO PORTUGAL
+
+LISTA CANAIS NOS
+
+CANAIS GENERALISTAS
+
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="http://4.bp.blogspot.com/-EyEgTf5Q3XY/TmqrubFzegI/AAAAAAAAFdA/eaFdRfNaenY/s1600/Logotipo+-+RTP1+%2528HD%2529.png",RTP 1
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="http://static1.squarespace.com/static/5167d655e4b0f72706526744/54f469a7e4b05f851fc33c34/54f469b7e4b03bfe55f4f5c4/1425303992029/Logotipo+-+RTP2+(03).png",RTP 2
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/SIC.png",SIC
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/227.ts
+#EXTINF:-1 tvg-id="tvi.pt" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/TVI.png",TVI
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1, tvg-id="SiC NOTICIAS" tvg-logo="http://1.bp.blogspot.com/_tk5JCNM43cc/TSPCrzWmHQI/AAAAAAAAAIQ/vS-fQxsgqwY/s1600/SIC+Not%25C3%25ADcias+logo.png",SiC NOTICIAS
+http://213.13.26.12:1935/live/sicnoticias/hasbahca.m3u8
+#EXTINF:-1, tvg-id="SiC MULHER" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/a/aa/Sic_mulher.png",SIC MULHER
+
+#EXTINF:-1, tvg-id="TVI 24" tvg-logo="http://1.bp.blogspot.com/-u8qZw-fHrJU/VMqj0QFAmWI/AAAAAAAALLw/QiOL_ODmj6M/s1600/logoTVI24_2011.png",TVI 24
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1, tvg-id="RTP 3" tvg-logo="http://img0.rtp.pt/common/img/channels/logos/color/horizontal/rtp3.png",RTP 3
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/chunklist.m3u8
+#EXTINF:-1, tvg-id="SiC RADICAL" tvg-logo="https://lh3.googleusercontent.com/-5E07hMgLIdk/TYEoAkOnZzI/AAAAAAAAAQA/P8JoYEszowo/s1600/SIC+Radical+logo+peq.png",SIC RADICAL
+
+#EXTINF:-1, tvg-id="RTP MEMORIA" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2011/01/rtp-memoria.jpg",RTP MEMORIA
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1, tvg-id="PORTO CANAL" tvg-logo="http://4.bp.blogspot.com/-w5erJJV5eJQ/TwywLc7HX0I/AAAAAAAAQ6s/S8Z475qx5EY/s1600/Porto-Canal.jpg",PORTO CANAL
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2706.ts
+#EXTINF:-1, tvg-id="ECONOMICO TV" tvg-logo="https://pbs.twimg.com/profile_images/542029594/Captura_de_ecr__-_2009-11-24__18.07.04_400x400.png",ECONOMICO TV
+http://213.13.26.12:1935/live/etv_direto/hasbahca.m3u8
+#EXTINF:-1, tvg-id="AR TV Parlamento" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2013/02/10-anos_canal.jpg",AR TV Parlamento
+rtsp://www.canal.parlamento.pt/Live
+
+CANAIS DO DESPORTO
+
+
+#EXTINF:-1, tvg-id="SPORTV 1.pt" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/229.ts
+#EXTINF:-1, tvg-id="SPORTV 1.pt" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/202.ts
+#EXTINF:-1, tvg-id="SPORT TV2" tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png",SPORT TV2
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/203.ts
+#EXTINF:-1, tvg-id="SPORT TV2" tvg-logo="http://1.bp.blogspot.com/-l53Cf98NGEQ/VOvE3Rw4n6I/AAAAAAAAAnU/73_vULPBk9k/s320/SPT2HD.png",SPORT TV2
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/230.ts
+#EXTINF:-1, tvg-id="SPORT TV3" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png",SPORT TV3
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/204.ts
+#EXTINF:-1, tvg-id="SPORT TV3" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV3.png",SPORT TV3
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/231.ts
+#EXTINF:-1, tvg-id="SPORT TV4" tvg-logo="http://4.bp.blogspot.com/-kITLJJTtFZc/Tw9nNRMF1YI/AAAAAAAABCo/L9vxFb5rCzc/s400/sport_tv_4.png",SPORT TV4
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/205.ts
+#EXTINF:-1, tvg-id="SPORT TV5" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SPTV5.png",SPORT TV5
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/206.ts
+#EXTINF:-1 tvg-id="SPORTV AMERICAS" tvg-logo="http://www.sporttv.pt/img/logo-americas.png",SPORTv Americas
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1 tvg-id="SPORTV AMERICAS" tvg-logo="http://www.sporttv.pt/img/logo-americas.png",SPORTv Americas
+http://sporttvamericas-i.akamaihd.net:80/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
+#EXTINF:-1, tvg-id="BTV 1" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BTV 1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/playlist.m3u8
+#EXTINF:-1, tvg-id="BTV 1" tvg-logo="http://canaisdetv.net/wp-content/uploads/2012/02/benfica_tv.png",BTV 1
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/207.ts
+#EXTINF:-1, tvg-id="BTV 2" tvg-logo="http://portalnacional.com.pt/images/icons/tv/SLB2.png",BTV 2
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/213.ts
+#EXTINF:-1, tvg-id="SPORTING TV" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/11/sportingTV_logo-e1417188921553.png",SPORTING TV
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/208.ts
+
+CANAIS DE FILMES
+
+#EXTINF:-1 tvg-id="TV CINE 1" tvg-logo="http://www.comandotv.com/xbmc/tvcine1.png",TV CINE 1
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/209.ts
+#EXTINF:-1 tvg-id="TV CINE 2" tvg-logo="http://2.bp.blogspot.com/_tk5JCNM43cc/TTDgPJ70I5I/AAAAAAAAAJ0/1rezxU0V1wg/s1600/TVC+2+logo.png",TV CINE 2
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/210.ts
+#EXTINF:-1 tvg-id="TVC3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV-Cine-3_o.jpg",TVC3
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/211.ts
+#EXTINF:-1 tvg-id="TV CINE 4" tvg-logo="http://ptbrvirtual.com/images/chanels/TVCINE4.PNG",TV CINE 4
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/212.ts
+#EXTINF:-1 tvg-id="TV SERIES" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg",TV SERIES
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2920.ts
+#EXTINF:-1 tvg-id="CINE MUNDO" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg",CINE MUNDO 
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2709.ts
+#EXTINF:-1, tvg-id="CANAL HOLLYWOOD" tvg-logo="http://3.bp.blogspot.com/-vRwVHF4JH3c/TyGSd51yreI/AAAAAAAAA9c/kay4KP2LPSI/s1600/533px-Canal_Hollywood.svg_.png",CANAL HOLLYWOOD
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2715.ts
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://www.maxmegatvonlinehd.com/wp-content/uploads/2015/07/axn_logo.jpg",AXN
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1653.ts
+#EXTINF:-1 tvg-id="AXN BLACK" tvg-logo="http://cdn.sptdigital.com/sites/pt.axnblack/files/logo.png",AXN BLACK
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2919.ts
+#EXTINF:-1 tvg-id="AXN WHITE" tvg-logo="http://www.brief.pl/_files/img_sites/KGK/AXN_White12.jpg.png",AXN WHITE
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2712.ts
+#EXTINF:-1 tvg-id="MOV" tvg-logo="http://img3.wikia.nocookie.net/__cb20140112144245/logopedia/images/0/07/Logo_principal0_MOV.png",MOV
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1648.ts
+#EXTINF:-1 tvg-id="FOX" tvg-logo="http://4.bp.blogspot.com/-29NNCGLPlko/Ut72PsTXP4I/AAAAAAAAg_8/QPhH7faHBbI/s1600/fox.png",FOX
+
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png",FOX LIFE
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1650.ts
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-logo="http://www.chicadelatele.com/wp-content/uploads/2010/01/Fox-Crime.jpg",FOX CRIME
+
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="http://www.novidadestv.com/wp-content/uploads/2011/06/fox_movies_destak.png",FOX MOVIES
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1647.ts
+#EXTINF:-1 tvg-id="FX" tvg-logo="https://www.seriesdatv.pt/wp-content/uploads/2013/12/FX.png",FX
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2711.ts
+
+
+CANAIS INFANTIS
+
+
+#EXTINF:-1, tvg-id="DISNEY CHANNEL" tvg-logo="http://www.reporternuovo.it/files/2014/10/Disney_channel_2007.png",DISNEY CHANNEL
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2714.ts
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-logo="http://geronimostilton.com.cdn-immedia.net/upload/assets/files/PT,103,pt,8129/22492.png",CANAL PANDA
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2713.ts
+#EXTINF:-1, tvg-id="DISNEY JUNIOR" tvg-logo="https://cdn.thewaltdisneycompany.com/sites/default/files/Gallery-DisneyJunior_logo_CMYK.jpg",DISNEY JUNIOR
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1646.ts
+#EXTINF:-1, tvg-id="PANDA BIGGS" tvg-logo="http://www.fpm.pt/pt-pt/data/uploads/2014/imagens/panda-biggs.png",PANDA BIGGS
+
+#EXTINF:-1 tvg-id="JIMJAM" tvg-logo="http://cache.ps.yelo.prd.telenet-ops.be/yposter/images/channellogos/sqlogo_MM2B2.png",JIMJAM
+
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://mimosytetablog.com/wp-content/uploads/2014/07/mzl.ikmioaca.png",BABY TV
+
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://img1.wikia.nocookie.net/__cb20111202090722/logopedia/images/2/2b/Cartoon_Network_2010.png",CARTOON NETWORK
+
+#EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="http://vignette4.wikia.nocookie.net/cartoonsandfiction/images/f/fe/Nickelodeon-logo.png",NICKELODEON
+
+
+EXCLUSIVO NOS
+
+#EXTINF:-1 tvg-id="SIC INTERNACIONAL" tvg-logo="http://images.cdn.impresa.pt/sicnot/2014-09-17-sic_internacional.png",SIC INTERNACIONAL
+http://213.13.26.11:1935/live/sic/magellan.m3u8
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2013/10/Log%C3%B3tipo-SIC-Caras.png",SIC CARAS
+
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-logo="http://i.imgur.com/cK4NPF1.jpg",TVI REALITY
+http://62.210.88.244:1935/liverepeat/TVIReality24/playlist.m3u8
+#EXTINF:-1 tvg-id="+TVI" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tvi_mais_pt.png",+TVI
+
+
+CANAIS EXCLUSIVOS MEO
+
+
+#EXTINF:-1 tvg-id="CMTV" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/01/CMTV.jpg",CMTV
+
+#EXTINF:-1 tvg-id="TVI FICCAO" tvg-logo="http://img1.wikia.nocookie.net/__cb20130328095918/logopedia/images/d/d7/TVIFic%C3%A7%C3%A3o.png",TVI FICCAO
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2718.ts
+
+#EXTINF:-1 tvg-id="A BOLA TV" tvg-logo="http://i56.servimg.com/u/f56/14/18/41/69/a_bola10.png",A BOLA TV
+
+#EXTINF:-1 tvg-id="Syfy" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png",Syfy
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/1649.ts
+#EXTINF:-1 tvg-id="SIC KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png",SIC KIDS
+
+
+CANAIS BRASILEIROS
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="http://1.bp.blogspot.com/-Jdhyb5pLEXo/Utv4wJdyg0I/AAAAAAAAg7E/EI1dwkpQf3w/s1600/Telecine+%25282%2529.png",TELECINE PREMIUM
+
+#EXTINF:0, TELECINE CULT
+
+#EXTINF:0, TELECINE FUN
+
+#EXTINF:0, TELECINE PIPOCA
+
+#EXTINF:0, TELECINE TOUCH
+
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://www.tvlatina.tv/img/tvlatinascreenings/videos/Globo_internacional_th.jpg",Globo
+
+#EXTINF:-1 tvg-id="GLOBO PREMIUM" tvg-logo="http://meogo.meo.pt/SiteCollectionImages/Canais_logos/Slider/globo-premium_135x80_guia-tv-meogo.png",GLOBO PREMIUM
+
+#EXTINF:-1 tvg-id="RECORD TV" tvg-logo="http://rd1.ig.com.br/wp-content/uploads/2014/05/reclogo.png",RECORD TV
+
+
+CANAIS MUSICA
+
+#EXTINF:-1 tvg-id="VH1" tvg-logo="http://www.saluto.tv/media/1102/vh1-tran-back.png",VH1
+
+#EXTINF:-1 tvg-id="VH1 CLASSIC" tvg-logo="http://www.vh1.com/franchises/config/themes/vh1classic/281x211_logo.png",VH1 CLASSIC
+
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-logo="http://1.bp.blogspot.com/_bIcbwuf9v-U/StnGbCixNOI/AAAAAAAAKVs/NwNlXv2_ZKg/s400/MTV_Black.png",MTV PORTUGAL
+http://95.211.186.215:8081/loadbalance/18639512978237747375/playlist.m3u8
+#EXTINF:-1 tvg-id="MTV MUSIC" tvg-logo="http://www.electro-tunis.tn/img/cms/MTV_Logo-svg.png",MTV MUSIC´
+.m3u8
+#EXTINF:-1 tvg-id="MTV ROCKS" tvg-logo="http://www.inteligemcia.com.br/wp-content/uploads/2013/07/mtv-rocks.png",MTV ROCKS
+.m3u8
+#EXTINF:-1 tvg-id="MTV DANCE" tvg-logo="http://unidance73.ru/skin/common_files/images/styles/mtv-dance.png",MTV DANCE
+.m3u8
+
+#EXTINF:-1 tvg-id="MCM TOP" tvg-logo="http://img3.wikia.nocookie.net/__cb20100309204504/logopedia/images/thumb/6/6e/MCM_Top.svg/500px-MCM_Top.svg.png",MCM TOP
+
+#EXTINF:-1 tvg-id="MCM POP" tvg-logo="http://cyril.bourreau.free.fr/Vectoriel/MCMPop.png",MCM POP
+
+
+DOCUMENTÁRIOS
+
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://img1.wikia.nocookie.net/__cb20091126085643/logopedia/images/d/d8/Discovery_Channel_HD_2007.png",DISCOVERY CHANNEL
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/736.ts
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" tvg-logo="http://static1.squarespace.com/static/52b26266e4b03c271f22f510/t/52b48a87e4b0d1c471ea38db/1387563657573/logo-NatGeo.png",NATIONAL GEOGRAPHIC
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2719.ts
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-logo="https://yt3.ggpht.com/-sPd3ULIM3zk/AAAAAAAAAAI/AAAAAAAAAAA/tYGKu6gj-nM/s900-c-k-no/photo.jpg",ODISSEIA
+
+#EXTINF:-1 tvg-id="CANAL HISTORIA" tvg-logo="http://img2.wikia.nocookie.net/__cb20100604120138/logopedia/images/a/a2/Canal_de_Historia.png",CANAL HISTORIA
+
+
+CANAIS RTP
+
+#EXTINF:-1, tvg-id="RTP MADEIRA" tvg-logo="https://pbs.twimg.com/profile_images/412007318/logortpMadeira_400x400.jpg",RTP MADEIRA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="RPT ACORES" tvg-logo="http://www.jornalacores9.net/wp-content/uploads/2013/07/RTP-A%C3%A7ores.jpg",RTP ACORES
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1, tvg-id="RTP AFRICA" tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/06/rtp-africa.jpg",RTP AFRICA
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+
+DESPORTO INTERNACIONAL
+
+#EXTINF:-1, tvg-id="EUROSPORT" tvg-logo="http://www.iwf.net/wp-content/uploads/2012/10/eurosport_logo.jpg",EUROSPORT
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2707.ts
+#EXTINF:-1, tvg-id="EUROSPORT 2" tvg-logo="http://bolamarela.pt/wp-content/uploads/2015/04/bild0009.png",EUROSPORT 2
+http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/2708.ts
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/rmfc.jpg",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="BARCA TV" tvg-logo="http://www.creativesatellite.co.uk/contents/media/barca_tv.jpg",BARCA TV
+
+#EXTINF:-1 tvg-id="CHAMPIONS LEAGUE" tvg-logo="http://futbolgrad.com/wp-content/uploads/2015/09/uefa-champions-league.jpg",CHAMPIONS LEAGUE
+
+#EXTINF:-1 tvg-id="EURONEWS" tvg-logo="http://www.userlogos.org/files/logos/Hugo/euronews1.png",EURONEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/pt_vidan750_rtp.sdp
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="http://www.anythingkiss.com/pi_feedback_challenge/graphics/png/NBATV_Logo.png",NBA TV
+
+#EXTINF:-1 tvg-id="FIGHT NETWORK" tvg-logo="http://www.immaf.org/wp-content/uploads/2014/09/Fight-network.png",FIGHT NETWORK
+
+CANAIS USA
+
+
+#EXTINF:-1 tvg-id="DESTINATION AMERICA" tvg-logo="https://cf.press.discovery.com/ugc/logos/2012/04/04/Final_4_color_logo__.jpg",DESTINATION AMERICA
+
+
+#EXTINF:-1 tvg-id="SKY SPORTS 1" tvg-logo="http://3.bp.blogspot.com/-_5hLpXCOCu0/VAW6b9Z5u3I/AAAAAAAAFUY/tiCj5Ilg6Fo/s1600/sky%2Bsports%2B1%2Blive%2Bmykora.png",SKY SPORTS 1
+
+#EXTINF:-1 tvg-id="SKY SPORTS 2" tvg-logo="http://4.bp.blogspot.com/-jYg8ovLGy-g/VAW6cF2XvII/AAAAAAAAFUc/PuxutEG0yto/s1600/sky%2Bsports%2B2%2Blive%2Bmykora.png",SKY SPORTS 2
+
+#EXTINF:-1 tvg-id="SKY SPORTS 3" tvg-logo="http://4.bp.blogspot.com/-7FewPVsDh7A/VAW6c2XPZTI/AAAAAAAAFUg/weBNX1d4Ly4/s1600/sky%2Bsports%2B3%2Blive%2Bmykora.png",SKY SPORTS 3
+
+#EXTINF:-1 tvg-id="SKY SPORTS 4" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-4-Logo.png",SKY SPORTS 4
+
+#EXTINF:-1 tvg-id="SKY SPORTS 5" tvg-logo="http://www.skysports.com/core/img/channels/Sky-Sports-5-Logo.png",SKY SPORTS 5
+
+#EXTINF:-1 tvg-id="SKY SPORTS F1" tvg-logo="https://pbs.twimg.com/profile_images/502483207267164160/wyV8wUFV.png",SKY SPORTS F1
+
+
+RADIO
+
+#EXTINF:-1 tvg-id="Radio RFM" tvg-logo="http://rfmvi.sapo.pt/images/logoDefault.png",Radio RFM
+http://7719.live.streamtheworld.com/RFM_SC
+#EXTINF:-1 tvg-id="Radio comercial" tvg-logo="http://img1.wikia.nocookie.net/__cb20130328112221/logopedia/images/d/d7/Logo_Radio_Comercial.png",Radio Comercial
+mmsh://195.23.102.196/comercialcbr96?referrer=http://radiocomercial.clix.pt/asx/dynamic_channel.aspigrekrndigual80706&MSWMExt=.asf
+#EXTINF:-1 tvg-id="Radio Cidade FM" tvg-logo="http://www.sindiradio.org.br/img/empresas/logo%20cidade.png", Radio Cidade FM
