@@ -1,0 +1,856 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://visionfour.com/images/iptv.jpg" , - IPTV EM SAMRT TV -
+#EXTBG:http://visionfour.com/images/iptv.jpg
+#EXTSIZE:Big
+http://mek4.mekstream.com/eetv/_definst_/smil:gs_wind080301.smil/chunklist_w844681360_b414000.m3u8
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/225.ts
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1_5ch5h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2832" , RTP 1
+#EXTBG:#ffffff
+#EXTSIZE:Small
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp1.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/226.ts
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2_5ch3h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2833" , RTP 2
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtp2.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2850" , RTP AÇORES
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores_5rtpacores.stream/livestream.m3u8
+#EXTINF:-1 channelId="2850" , RTP AÇORES
+#EXTBG:#ff0000
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpacores.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2851" , RTP ÁFRICA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica_5ch27h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2851" , RTP ÁFRICA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpafrica.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg" , RTP 3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn_5ch64h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.movenoticias.com/wp-content/uploads/2015/10/21269795073_33032b74e8_z-640x452.jpg" , RTP 3
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpn.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="372" , RTP INTERNACIONAL
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="372" , RTP INTERNACIONAL
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2643" , RTP MADEIRA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira_5ch1016h264H14.stream/livestream.m3u8
+#EXTINF:-1 channelId="2643" , RTP MADEIRA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmadeira.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2644" , RTP MEMÓRIA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem_5ch80h264.stream/livestream.m3u8
+#EXTINF:-1 channelId="2644" , RTP MEMÓRIA
+#EXTBG:#ffffff
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpmem.smil/chunklist_b600000_slpt.m3u8
+#EXTINF:-1 channelId="2645" , SIC
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/227.ts
+#EXTINF:-1 channelId="2645" , SIC
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01t
+#EXTINF:-1 channelId="2645" , SIC
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:-1 channelId="2646" , SIC NOTÍCIAS
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/livestream.m3u8
+#EXTINF:-1 channelId="2646" , SIC Noticias
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/sicnoticias/inspirationlinks.m3u8
+#EXTINF:-1 channelId="2646" , SIC Noticias
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01u
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/228.ts
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="2647" , TVI
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi+/smil:LIVE_TVI+/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="2651" , +TVI
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2711.ts
+#EXTINF:-1 channelId="2651" , +TVI
+#EXTBG:#ffffff
+http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
+#EXTINF:-1 channelId="2649" , TVI FICÇAO
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2718.ts
+#EXTINF:-1 channelId="2649" , TVI FICÇAO
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a026
+#EXTINF:-1 channelId="-1" tvg-logo="http://natv.pt/img/BB93785A-B161-4DDB-8AA0-1EDB79951AC5/imagem/" , TVI REALITY
+#EXTBG:#ffffff
+http://62.210.82.241:1935/liverepeat/TVIReality24/live.m3u8
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/chunklist_b1564000.m3u8
+#EXTINF:-1 channelId="2648" , TVI 24
+#EXTBG:#ffffff
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_b814000.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.ligateamedia.pt/Backoffice/UserFiles/3.Noticias/Imagens%202012/430/430cmtv.jpg" , CMTV
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01d
+#EXTINF:-1 channelId="2852" , SIC Mulher
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4248.ts
+#EXTINF:-1 channelId="2853" , SIC Radical
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2709.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://2.bp.blogspot.com/-jqwio_cvjYU/Ujg5TXFQPFI/AAAAAAAAEaw/xqmuaXdRSZY/s1600/SIC+Caras+logo.png" , Sic Caras
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4249.ts
+#EXTINF:-1,ARTV
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01m
+#EXTINF:-1 channelId="1031" , TV RECORD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2918.ts
+#EXTINF:-1 channelId="1031" , TV RECORD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01c
+#EXTINF:-1 channelId="2456" , TV RECORD News
+http://195.244.40.135:8000/play/a028
+#EXTINF:-1 channelId="2564" , TerraViva
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3162.ts
+#EXTINF:-1 channelId="2433" , SBT
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3070.ts
+#EXTINF:-1 channelId="2435" , Rede Tv
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3159.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rede_mundial.jpg" , Rede Mundial
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3167.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://2.bp.blogspot.com/-JwUi65WP9Fc/VTvAvNNgROI/AAAAAAAABI0/DWA5WWdfomQ/s1600/alfa-tv-canal-8-en-vivo-cono-norte-lima-peru%2B1152_13464612539-tpfil02aw-26424.jpg" , Alfa
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3164.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://assets.r7.com/assets/schumi_hotsites/tv/a-fazenda-online/OG-96ad4730b37f38a9a1d8b055744a780c.png" , A FAZENDA 8
+#EXTBG:#ffffff
+http://afazendaoitohls1-lh.akamaihd.net:80/i/afazendaoitohls_1@379189/index_604_av-p.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://assets.r7.com/assets/schumi_hotsites/tv/a-fazenda-online/OG-96ad4730b37f38a9a1d8b055744a780c.png" , A FAZENDA 8 HD
+#EXTBG:#ffffff
+http://afazendaoitohls1-lh.akamaihd.net:80/i/afazendaoitohls_1@379189/master.m3u8
+#EXTINF:-1 channelId="2432" , TV GLOBO
+#EXTBG:#ffffff
+http://162.212.176.68:1935/globotv/globotv/live.m3u8
+#EXTINF:0 channelId="2432" , GLOBO TV
+#EXTBG:#ffffff
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:0 channelId="2432" , GLOBO TV
+#EXTBG:#ffffff
+http://167.114.32.20:8979/live/globotv/livestream.m3u8
+#EXTINF:0 channelId="2432" , GLOBO TV
+#EXTBG:#ffffff
+http://m.aliasdns.info:8979/live/globotv/livestream.m3u8
+#EXTINF:-1 channelId="1653" , TV GLOBO PREMIUM
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/18.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.frocus.net/images/logotv/original/tpa-international.jpg" , TPA
+#EXTBG:#ffffff
+http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/etv_direto/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://ilcao.cedilha.net/wp-content/uploads/2014/12/EconomicoTV_logo.png" , ECONOMICO TV
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a025
+
+
+
+
+#EXTINF:-1 channelId="-1" tvg-logo="http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg" , Desporto
+#EXTBG:http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+#EXTSIZE:Big
+http://rtc.cv/admin/imgBD/noticias/desporto01_26_10_2014.jpg
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/207.ts
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_720p/chunklist_b1328000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chunklist_b1328000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_source/chunklist_b1328000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
+#EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/4xZP6
+#EXTINF:-1 channelId="2834" , Benfica HD
+http://vurl.com/68149
+#EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/73Z2A
+#EXTINF:-1 channelId="2834" , Benfica
+http://vurl.com/82Z0o
+#EXTINF:-1 channelId="2834" , Benfica
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.ts
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01i
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://iptv.proff.co:15003/live/One/One/1417.m3u8
+#EXTINF:0 channelId="2835" , BENFICA TV 2
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/202.ts
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="1583" , SPORT TV 1
+http://80.82.78.16:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/203.ts
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01w
+#EXTINF:-1 channelId="2858" , Sport TV  2 HD
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/204.ts
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a020
+#EXTINF:-1 channelId="1585" , Sport TV 3
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1 channelId="1586" , SPORT TV 4
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/205.ts
+#EXTINF:-1 channelId="1586" , SPORT TV 4
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01p
+#EXTINF:-1 channelId="2862" , Sport Tv5
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/206.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SPORT TV Russo
+#EXTBG:#ffffff
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+#EXTINF:-1 channelId="1582" , SPORT TV 1
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/96.ts
+#EXTINF:-1 channelId="2858" , SPORT.TV 2 HD
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
+#EXTINF:-1 channelId="2859" , SPORT.TV 3 HD
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
+#EXTINF:-1 channelId="2860" , SPORT.TV 4 HD
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/8.ts
+#EXTINF:-1 channelId="2861" , SPORT.TV 5 HD
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/9.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS HD
+#EXTBG:#ffffff
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://http://www.freeiptvlinks.com/wp-content/uploads/2015/12/UFC-Combate.jpg" , UFC - Combate
+#EXTBG:#ffffff
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+#EXTINF:-1 channelId="2599" , SPORTV
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 channelId="2599" , SPORTV
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 channelId="2599" , SPORTV
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 channelId="2600" , SPORTV2
+#EXTBG:#ffffff
+http://31.204.128.112:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 channelId="2600" , SPORTV2
+#EXTBG:#ffffff
+http://213.163.65.116:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 channelId="2600" , SPORTV2
+#EXTBG:#ffffff
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-5SddYGl-rJg/VCgzUi0IAuI/AAAAAAACKBM/iRhDhrYmml0/s1600/PFC_LOGO_2014.png" , PFC
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
+#EXTINF:-1 channelId="2863" , A Bola
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2917.ts
+#EXTINF:-1 channelId="2863" , A Bola
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a027
+#EXTINF:-1 channelId="2855" , PORTO CANAL
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2706.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
+#EXTBG:#ffffff
+http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8
+#EXTINF:-1 channelId="225" , Eurosport HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1653.ts
+#EXTINF:-1 channelId="225" , Eurosport HD ???
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2707.ts
+#EXTINF:-1 channelId="83" , Eurosport 2
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2708.ts
+#EXTINF:-1 channelId="320" , Eurosport Noticias
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/87.ts
+#EXTINF:-1 channelId="1332" , Real Madrid
+#EXTBG:#ffffff
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 channelId="1546" group-title="UK" , Chelsea TV [FSD]
+#EXTBG:#ffffff
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2012/02/LFC_TV_logo.png" group-title="UK" , Liverpool TV [HD]
+#EXTBG:#ffffff
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/121.m3u8
+#EXTINF:-1 channelId="-1" , Desenhos Animados
+#EXTBG:http://1.bp.blogspot.com/-8aVRjK1DDkM/T9PO2Ro2-lI/AAAAAAAAAKI/VgrH_Dql43c/s1600/Mickey_Mouse.png
+#EXTSIZE:Big
+https://i.ytimg.com/vi/uLI7sUQQrPk/maxresdefault.jpg
+#EXTINF:-1 channelId="1576" , 24Kitchen HD
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1651.ts
+#EXTINF:-1 channelId="41" , Nickelodeon
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4256.ts
+#EXTINF:-1 channelId="2854" , Sic K
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/?????
+#EXTINF:-1 channelId="2854" , Sic K
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01n
+#EXTINF:-1 channelId="19" , DISNEY CHANEL
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2714.ts
+#EXTINF:-1 channelId="1197" , Disney Junior
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4258.ts
+#EXTINF:-1 channelId="1197" , Disney Junior
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4259.ts
+#EXTINF:-1 channelId="2823" , Canal Panda
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2713.ts
+#EXTINF:-1 channelId="40" , Cartoon Network PT
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/79.ts
+#EXTINF:-1 channelId="191" , Jim Jam
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/104.ts
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , Cinema & Series
+#EXTBG:http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
+#EXTSIZE:Big
+http://www.big1news.com.br/wp-content/uploads/2013/10/Como-assistir-filmes-no-computador.jpg
+
+
+
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/209.ts
+#EXTINF:-1 channelId="2872" , TVCine 1 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a021
+#EXTINF:-1 channelId="2874" , TVCine 2 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/210.ts
+#EXTINF:-1 channelId="2874" , TVCine 2 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01k
+#EXTINF:-1 channelId="2876" , TVCine 3 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/211.ts
+#EXTINF:-1 channelId="2876" , TVCine 3 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a022
+#EXTINF:-1 channelId="2878" , TVCine 4 HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/212.ts
+#EXTINF:-1 channelId="2878" , TVCine 4 HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01q
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2920.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.vodafone.pt/NR/rdonlyres/C5A2D9A7-5942-449F-89CE-A742965FFC00/0/destaque_canal_tvseries_449x196.jpg" , TV Series
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a023
+#EXTINF:-1 channelId="-1" tvg-logo="https://jorgesalvador.files.wordpress.com/2011/06/movlogo.png?w=300" , Mov HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4254.ts
+#EXTINF:-1 channelId="2848" , Mov
+#EXTBG:#ffffff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/89.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
+#EXTBG:#ec757f
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1646.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://diariodigital.sapo.pt/images_content/2014/cine-mundo180914.jpg" , CINEMUNDO HD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01h
+#EXTINF:-1 channelId="1688" , HOLLYWOOD HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2715.ts
+#EXTINF:-1 channelId="1688" , HOLLYWOOD
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01j
+#EXTINF:-1 channelId="1688" , HOLLYWOOD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/40.ts
+#EXTINF:-1 channelId="2246" , AXN HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/?????????
+#EXTINF:-1 channelId="1574" , AXN White
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2712.ts
+#EXTINF:-1 channelId="1575" , AXN Blak
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2919.ts
+#EXTINF:-1 channelId="208" , Fox HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/33.ts
+#EXTINF:-1 channelId="178" , Fox Life
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1650.ts
+#EXTINF:-1 channelId="1572" , FOX CRIME HD
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4252.ts
+#EXTINF:-1 channelId="2249" , FOX Comedia
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4253.ts
+#EXTINF:-1 channelId="1862" , FOX Movies *
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1647.ts
+#EXTINF:-1 channelId="1862" , Fox Movies
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/17.ts
+#EXTINF:-1 channelId="73" , Syfy
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2717.ts
+#EXTINF:-1 channelId="73" , Syfy
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01v
+#EXTINF:-1 channelId="1192" , Syfy *
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1649.ts
+#EXTINF:-1 channelId="654" , CBS REALIDADE
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/43.ts
+#EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC
+#EXTBG:#ffffff
+http://104.156.60.74:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://tvcinec.zip.net/images/logo.JPG" , TV CINEC PB
+#EXTBG:#ffffff
+http://servidorcoretv.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:0 channelId="2501" , AMC
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01l
+
+
+
+
+#EXTINF:-1 channelId="-1" , Documentarios
+#EXTBG:http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.pn
+#EXTSIZE:Big
+http://tvcamara.camaratupa.sp.gov.br/Imagens/Programas/DOCUMENT%C3%81RIOS.png
+#EXTINF:-1 channelId="1208" , A & E
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/81.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.touroeouro.com/assets/site/uploads/article1752.jpg" , Toros
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2719.ts
+#EXTINF:-1 channelId="57" , DISCOVERY
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2716.ts
+#EXTINF:-1 channelId="241" , Discovery HD Showcase ???
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4257.ts
+#EXTINF:-1 channelId="988" , BBC Intertiement
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1648.ts
+#EXTINF:-1 channelId="2866" , Caça e Pesca
+#EXTBG:#00f1f9
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/4255.ts
+#EXTINF:-1 channelId="241" , Discovery HD Showcase
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/93.ts
+#EXTINF:-1 channelId="2868" , CANAL HISTORIA
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/52.ts
+#EXTINF:-1 channelId="207" , National Geographic HD
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/85.ts
+#EXTINF:-1 channelId="164" , Nat Geo Wild
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/94.ts
+#EXTINF:-1 channelId="2869" , Odisseia
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01z
+#EXTINF:-1 channelId="2869" , Odisseia
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/31.ts
+#EXTINF:-1 channelId="54" , Travel Channel
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/108.ts
+#EXTINF:-1 channelId="1974" , ETV
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/57.ts
+#EXTINF:-1 channelId="2866" , Caça e Pesca
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/66.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.touroeouro.com/assets/site/uploads/article1752.jpg" , TOROS
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/59.ts
+#EXTINF:-1 channelId="2867" , Caçavision
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/107.ts
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-1.cdn.hexaglobe.net:80/streaming/euronews_ewns/29-live.m3u8
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1 channelId="217" , EURONEWS
+#EXTBG:#ffffff
+http://fr-par-iphone-2.cdn.hexaglobe.net:80/streaming/euronews_ewns/iphone_pt.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 channelId="-1" , Musica
+#EXTBG:http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png
+#EXTSIZE:Big
+http://4.bp.blogspot.com/-nY-qcB10Q2g/VAypd2pvaMI/AAAAAAAABcU/ciY0tKwQZqo/s1600/MUWOM.png
+#EXTINF:0 channelId="151" , VH1
+#EXTBG:#ffffff
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 1
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO 2
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 channelId="-1" tvg-logo="http://correadiazrecords.com/wp-content/uploads/2015/02/VEVO.png" , VEVO3
+#EXTBG:#ffffff
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 channelId="151" , VH1
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/69.ts
+#EXTINF:-1 channelId="151" , VH1 SHUFFLE
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.11:1234
+#EXTINF:-1 channelId="289" , MTV Hits
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.12:1234
+#EXTINF:-1 channelId="290" , MTV Rocks
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.14:1234
+#EXTINF:-1 channelId="146" , MTV Dance
+#EXTBG:#ffffff
+http://212.80.63.190:4022/udp/238.1.16.13:1234
+#EXTINF:-1 channelId="1106" , Mtv Portugal
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/75.ts
+#EXTINF:-1 channelId="1106" , Mtv Portugal
+#EXTBG:#ffffff
+http://195.244.40.135:8000/play/a01o
+#EXTINF:-1 channelId="2788" , AFRO MUSIC
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/28.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.nicolematos.pt/img/portfolio/portugal.png" , Regiões de Portugal
+#EXTBG:http://www.nicolematos.pt/img/portfolio/portugal.png
+#EXTSIZE:Big
+http://www.nicolematos.pt/img/portfolio/portugal.png
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.celina-tours.com/images/img/tours/excursao-fatima1.jpg" , SANTUÁRIO DE FÁTIMA – CAPELINHA DAS APARIÇÕES
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://tvl.pt/wp-content/uploads/2013/05/banner-lateralTVL2013.jpg" , TV LISBOA
+#EXTBG:#ffffff
+http://213.13.26.11:1935/live/tvldireto/livestream.m3u8
+#EXTINF:-1 channelId="-1" , TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat2/live.m3u8
+#EXTINF:-1 channelId="-1" , TV MANÁ-1
+http://195.22.19.179:1935/manasat/manasat3/live.m3u8
+#EXTINF:-1 channelId="-1" , IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline2/live.m3u8
+#EXTINF:-1 channelId="-1" , IGREJA ONLINE TV
+http://195.22.19.179:1935/igronl/igronline3/live.m3u8
+#EXTINF:-1 channelId="-1" , ODIVELAS TV
+http://213.13.26.11:1935/live/odivelastv/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA CARCAVELOS [WEBCAM]
+http://213.13.26.11:1935/live/carcavelos.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA COSTA DA CAPARICA [WEBCAM]
+http://213.13.26.11:1935/live/costa.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DA ERICEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ericeira.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DA LUZ [WEBCAM]
+http://213.13.26.11:1935/live/luz.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE AVEIRO [WEBCAM]
+http://213.13.26.11:1935/live/aveiro.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE ESPINHO [WEBCAM]
+http://213.13.26.11:1935/live/espinho.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE PENICHE [WEBCAM]
+http://213.13.26.11:1935/live/peniche.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE SÃO PEDRO [WEBCAM]
+http://213.13.26.11:1935/live/saopedro.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DE SÃO TORPES [WEBCAM]
+http://213.13.26.11:1935/live/saotorpes.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DO GUINCHO [WEBCAM]
+http://213.13.26.11:1935/live/guincho.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA DO NORTE [WEBCAM]
+http://213.13.26.11:1935/live/norte.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA GRANDE [WEBCAM]
+http://213.13.26.11:1935/live/grande.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA LEÇA DA PALMEIRA [WEBCAM]
+http://213.13.26.11:1935/live/leca.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA LIGA MOCHE SURFE [WEBCAM]
+http://213.13.26.11:1935/live/surfstream.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA MADEIRA JARDIM DO MAR [WEBCAM]
+http://213.13.26.11:1935/live/jardim.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA MATOSINHOS [WEBCAM]
+http://213.13.26.11:1935/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA RIBEIRA [WEBCAM]
+http://213.13.26.11:1935/live/ribeira.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA SANTA CRUZ
+http://213.13.26.11:1935/live/santacruz.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" , PRAIA SUPER TUBOS [WEBCAM]
+http://213.13.26.11:1935/live/supertubos.stream/livestream.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , Só para maiores de 18 anos
+#EXTBG:http://i47.tinypic.com/2rz5kxt.jpg
+#EXTSIZE:Big
+https://www.youtube.com/v/WyL5ABXltW8
+#EXTINF:-1 channelId="-1" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/4a/Venus_channel.jpg/revision/latest?cb=20130305011941" , VENUS
+#EXTBG:#e300ff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/13.ts
+#EXTINF:-1,Private Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1,Hustler HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1,Hustler Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+#EXTINF:-1 channelId="2597" , Adult:HOT
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/2710.ts
+#EXTINF:-1 channelId="517" , 18 PLAYBOY
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3185.ts
+#EXTINF:-1 channelId="517" , PLABOYHD
+#EXTBG:#e300ff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/12.ts
+#EXTINF:-1 channelId="2597" , HOT HD
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2710.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , 18
+#EXTBG:#e300ff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/91.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://iptv-work.at.ua/images/160892c76bd94ad9b91b14ee335f9114.png" , ++ 18
+#EXTBG:#e300ff
+http://iptvtt.ddns.net:8000/live/virgilio/virgilio/92.ts
+#EXTINF:-1 channelId="2846" , Private Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:privatetv/playlist.m3u8
+#EXTINF:-1 channelId="520" , Hustler HD
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
+#EXTINF:-1 channelId="519" , Hustler Tv
+#EXTBG:#e300ff
+http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
+#EXTINF:-1 channelId="658" , XXX
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/3194.ts
+#EXTINF:-1 channelId="658" , XXX
+#EXTBG:#e300ff
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hot_shots-tablet.3gp/hot_shots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1 channelId="-1" , Sexy
+#EXTBG:#e300ff
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:-1 channelId="518" , BRAZZERS EUROPE
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1 channelId="1741" , OLALA
+#EXTBG:#e300ff
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 channelId="2265" , PASSION XXX
+#EXTBG:#e300ff
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 channelId="-1" tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" , JASMIN CHANNEL
+#EXTBG:#e300ff
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 channelId="-1" , BELLA CLUB
+#EXTBG:#e300ff
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+#EXTINF:-1 channelId="-1" , BELLA CLUB2
+#EXTBG:#e300ff
+http://46.249.213.87/iPhone/broadcast/bellaluz-iphone.3gp/bellaluz-iphone.3gp-mr413k.m3u8
+#EXTINF:-1 channelId="-1" , Adult:Sexto Senso
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4239.ts
+#EXTINF:-1 channelId="687" , Adult:SCT 4
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4240.ts
+#EXTINF:-1 channelId="688" , Adult:Platinium
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4242.ts
+#EXTINF:-1 channelId="1878" , Adult:Pink TV
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4241.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:New Sensation
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4243.ts
+#EXTINF:-1 channelId="1904" , Adult:Exotica
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4244.ts
+#EXTINF:-1 channelId="2153" , Adult:Dorcel
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4247.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://en.kingofsat.net/jpg/desire.jpg" , Adult:Desire
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4245.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:Cento X Cento
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4246.ts
+#EXTINF:-1 channelId="2846" , Adult:Private*
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4136.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:Passie
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4134.ts
+#EXTINF:-1 channelId="520" , Adult:Hustler HD
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3683.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:Cold Sex
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4132.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:Bebe Xtreme
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/4133.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:X&X
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3583.ts
+#EXTINF:-1 channelId="763" , Adult:SCT
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3556.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:PINK Erotic
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3225.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:PINK EROTIC 2
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3228.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:PINK EROTIC 3
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3227.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:PINK EROTIC 4
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3226.ts
+#EXTINF:-1 channelId="518" , Adult:Brazzers.com
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/2656.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 1
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3236.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 2
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3237.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 3
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3238.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 4
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3239.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 5
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3240.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 6
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3241.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 7
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3242.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 8
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3243.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 9
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3244.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult: Primafila Hot Club 10
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3245.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Meiden-van-Holland-Hard_o.jpg" , Adult: Meiden van Holland Hard NL
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3232.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://40.media.tumblr.com/be5a164189c4bcc3e0171c8a5bf0cea3/tumblr_nnzmtdzzoh1sms3c7o1_400.jpg" , Adult:Blacked
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3557.ts
+#EXTINF:-1 channelId="275" , 18 XXL
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3192.ts
+#EXTINF:-1 channelId="2265" , 18 PASSIE XXX
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3184.ts
+#EXTINF:-1 channelId="-1" tvg-logo="https://photos.prnewswire.com/prnvar/20150526/219576LOGO" , 18 HD JASMIN
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3179.ts
+#EXTINF:-1 channelId="-1" , 18 РУССКАЯ НОЧЬ
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3193.ts
+#EXTINF:-1 channelId="-1" tvg-logo="http://www.maxicom.cz/img-programy/brazzerstveurope.png" , 18 BRAZZERS
+#EXTBG:#e300ff
+http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3175.ts
+#EXTINF:-1,Venus TV
+http://87.239.102.40:4022/udp/239.1.254.164:4000
