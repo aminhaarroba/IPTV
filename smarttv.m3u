@@ -20,165 +20,56 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 #EXTINF:-1 channelId="2834" , Benfica
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/207.ts
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_720p/chunklist_b1328000.m3u8
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream/chunklist_b1328000.m3u8
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/BenficaHD.stream_source/chunklist_b1328000.m3u8
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://pt-stream.fubotv.com.a.prod.fastly.net:80/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b1328000.m3u8
-#EXTINF:-1 channelId="2834" , Benfica
-http://vurl.com/4xZP6
-#EXTINF:-1 channelId="2834" , Benfica HD
-http://vurl.com/68149
-#EXTINF:-1 channelId="2834" , Benfica
-http://vurl.com/73Z2A
-#EXTINF:-1 channelId="2834" , Benfica
-http://vurl.com/82Z0o
-#EXTINF:-1 channelId="2834" , Benfica
-#EXTBG:#ffffff
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/3308.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.ts
 #EXTINF:0 channelId="2835" , BENFICA TV 2
 #EXTBG:#ffffff
 http://195.244.40.135:8000/play/a01i
-#EXTINF:0 channelId="2835" , BENFICA TV 2
-#EXTBG:#ffffff
-http://multiuso.no-ip.org:8000/live/cagnolino/sullamaglia/784.ts
-#EXTINF:0 channelId="2835" , BENFICA TV 2
-#EXTBG:#ffffff
-http://iptv.proff.co:15003/live/One/One/1417.m3u8
-#EXTINF:0 channelId="2835" , BENFICA TV 2
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+
 #EXTINF:-1 channelId="1583" , SPORT TV 1 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/202.ts
-#EXTINF:-1 channelId="1583" , SPORT TV 1
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 channelId="1583" , SPORT TV 1
-http://80.82.78.16:8081/live/portugal1/playlist.m3u8
+
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/203.ts
 #EXTINF:-1 channelId="2858" , Sport TV  2 HD
 #EXTBG:#ffffff
 http://195.244.40.135:8000/play/a01w
-#EXTINF:-1 channelId="2858" , Sport TV  2 HD
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+
 #EXTINF:-1 channelId="1585" , Sport TV 3
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/204.ts
-#EXTINF:-1 channelId="1585" , Sport TV 3
-#EXTBG:#ffffff
-http://195.244.40.135:8000/play/a020
-#EXTINF:-1 channelId="1585" , Sport TV 3
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+
 #EXTINF:-1 channelId="1586" , SPORT TV 4
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/205.ts
-#EXTINF:-1 channelId="1586" , SPORT TV 4
-#EXTBG:#ffffff
-http://195.244.40.135:8000/play/a01p
+
 #EXTINF:-1 channelId="2862" , Sport Tv5
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/206.ts
-#EXTINF:-1 channelId="-1" tvg-logo="http://thumbs.dreamstime.com/x/football-match-tv-sports-channel-15259755.jpg" , SPORT TV Russo
+#EXTINF:-1 channelId="-1", SPORT TV Russo
 #EXTBG:#ffffff
 http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
-#EXTINF:-1 channelId="1582" , SPORT TV 1
-#EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/96.ts
-#EXTINF:-1 channelId="2858" , SPORT.TV 2 HD
-#EXTBG:#ffffff
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3222.m3u8
-#EXTINF:-1 channelId="2859" , SPORT.TV 3 HD
-#EXTBG:#ffffff
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3223.m3u8
-#EXTINF:-1 channelId="2860" , SPORT.TV 4 HD
-#EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/8.ts
-#EXTINF:-1 channelId="2861" , SPORT.TV 5 HD
-#EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/9.ts
-#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS
-#EXTBG:#ffffff
-http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://www.getsatellite.com/channels/sport-tv-americas.png" , SPORT TV AMÉRICAS HD
-#EXTBG:#ffffff
-http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://http://www.freeiptvlinks.com/wp-content/uploads/2015/12/UFC-Combate.jpg" , UFC - Combate
+
+#EXTINF:-1 channelId="-1" , UFC - Combate
 #EXTBG:#ffffff
 http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
-#EXTINF:-1 channelId="2599" , SPORTV
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 channelId="2599" , SPORTV
-#EXTBG:#ffffff
-http://213.163.65.116:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 channelId="2599" , SPORTV
-#EXTBG:#ffffff
-http://213.163.71.139:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 channelId="2600" , SPORTV2
-#EXTBG:#ffffff
-http://31.204.128.112:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1 channelId="2600" , SPORTV2
-#EXTBG:#ffffff
-http://213.163.65.116:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1 channelId="2600" , SPORTV2
-#EXTBG:#ffffff
-http://213.163.71.139:8081/live/sportv2/playlist.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://4.bp.blogspot.com/-5SddYGl-rJg/VCgzUi0IAuI/AAAAAAACKBM/iRhDhrYmml0/s1600/PFC_LOGO_2014.png" , PFC
-#EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/95.ts
 #EXTINF:-1 channelId="2863" , A Bola
 #EXTBG:#ec757f
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2917.ts
-#EXTINF:-1 channelId="2863" , A Bola
-#EXTBG:#ffffff
-http://195.244.40.135:8000/play/a027
+
 #EXTINF:-1 channelId="2855" , PORTO CANAL
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2706.ts
-#EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
-#EXTBG:#ffffff
-http://portal.rapidiptv.com:8080/live/mondi/mondi/3305.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://oi58.tinypic.com/2coj1gz.jpg" , TV Sporting
-#EXTBG:#ffffff
-http://portal.rapidiptv.com:8080/live/VOEd6DhK4B/JTjLkcs5Ia/7847.m3u8
-#EXTINF:-1 channelId="225" , Eurosport HD
-#EXTBG:#00f1f9
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1653.ts
+
 #EXTINF:-1 channelId="225" , Eurosport HD ???
 #EXTBG:#00f1f9
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2707.ts
-#EXTINF:-1 channelId="83" , Eurosport 2
-#EXTBG:#00f1f9
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2708.ts
-#EXTINF:-1 channelId="320" , Eurosport Noticias
-#EXTBG:#ffffff
-http://iptvtt.ddns.net:8000/live/virgilio/virgilio/87.ts
 #EXTINF:-1 channelId="1332" , Real Madrid
 #EXTBG:#ffffff
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 channelId="1546" group-title="UK" , Chelsea TV [FSD]
-#EXTBG:#ffffff
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/100.m3u8
-#EXTINF:-1 channelId="-1" tvg-logo="http://nowwatchtvlive.me/wp-content/uploads/2012/02/LFC_TV_logo.png" group-title="UK" , Liverpool TV [HD]
-
 
 #EXTINF:-1,PT: Antigos
 
@@ -193,12 +84,6 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/213.ts
 #EXTINF:-1,PT: benfica tv 2
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.ts
-#EXTINF:-1,PT: Sporting TV
-http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/208.ts
-#EXTINF:-1, tvg-id="SPORTV 1.pt" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1
-http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/229.ts
-#EXTINF:-1, tvg-id="SPORTV 1.pt" tvg-logo="http://3.bp.blogspot.com/-7LR2yj06qf0/T1KsgY8tZvI/AAAAAAAAB3M/DNuKAmMndww/s1600/Sport+TV+logo+2.png",SPORTV 1
-http://62.210.248.96:11000/live/carlos_miguel_dias_pacheco@outlook.com_pt/carlos_miguel_dias_pacheco@outlook.com_pt/202.ts
 #EXTINF:-1,PT:opt:Sport TV 1
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/229.ts
 #EXTINF:-1,PT: Sport.TV1
