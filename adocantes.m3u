@@ -57,6 +57,8 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1,PT: Sport TV1 freeiptv2
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1,PT: Sport TV1 TEMP Portugalm3u
+http://ptbrvirtual.no-ip.net:8000/live/amoura/amoura/28.ts
 #EXTINF:-1,PT: Sport.TV1
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/202.ts
 #EXTINF:-1,PT: sport tv5
