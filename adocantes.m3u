@@ -53,6 +53,10 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/209.ts
 #EXTINF:-1,PT: Syfy *
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1649.ts
+#EXTINF:-1,PT: Sport TV1 freeiptv
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1,PT: Sport TV1 freeiptv2
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1,PT: Sport.TV1
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/202.ts
 #EXTINF:-1,PT: sport tv5
@@ -63,6 +67,10 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/213.ts
 #EXTINF:-1,PT: benfica tv 1
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/207.ts
+#EXTINF:-1,BENFICA TV 1 HD temp
+http://painel.soeu.ws:8000/live/to/to/245.m3u8
+#EXTINF:-1,BENFICA TV e SportTV
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 #EXTINF:-1,PT:Eurosport 1 HD
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1653.ts
 #EXTINF:-1,PT- TVI FICÇAO
