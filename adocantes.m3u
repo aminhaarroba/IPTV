@@ -78,10 +78,20 @@ http://friendiptv.mine.nu:8000/live/jaime/jaime/780.m3u8
 http://painel.soeu.ws:8000/live/to/to/245.m3u8
 #EXTINF:-1,BENFICA TV e SportTV
 http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1,BENFICA TV2
+http://31.204.128.112:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1,BENFICA TV2
+http://31.204.128.127:8081/live/portugal3/playlist.m3u8
+#EXTINF:-1,RTP Internacional
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+#EXTINF:-1,RTP Internacional
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi.smil/chunklist_b600000_slpt.m3u8
 #EXTINF:-1,Real Madrid TV 
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:-1,PT:Eurosport 1 HD
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1653.ts
+
+
 #EXTINF:-1,PT- TVI FICÇAO
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/2718.ts
 #EXTINF:-1,PT- TCL
@@ -714,6 +724,212 @@ http://iptvtt.ddns.net:8000/live/virgilio/virgilio/75.ts
 http://195.244.40.135:8000/play/a01o
 #EXTINF:-1 channelId="2788" , AFRO MUSIC
 http://iptvtt.ddns.net:8000/live/virgilio/virgilio/28.ts
+
+
+#EXTINF:-1 , - INTERNACIONAIS TVm3u -
+
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com:80/i/abc_live4@136330/index_1200_av-p.m3u8
+
+#EXTINF:0,A&E
+http://200.194.238.226:5000/live/x16t_ae/playlist.m3u8
+
+#EXTINF:0,ANIMAL PLANET
+http://200.194.238.226:5000/live/x16t_animal_planet/playlist.m3u8
+
+#EXTINF:0,AXN
+http://200.194.238.226:5000/live/x16t_axn_hd/playlist.m3u8
+
+#EXTINF:0,BAND SC
+http://200.194.238.226:5000/live/x16t_band/playlist.m3u8
+
+#EXTINF:0,BAND SPORTS
+http://200.194.238.226:5000/live/x16t_band_sports_hd/playlist.m3u8
+
+#EXTINF:0,BLOOMBERG TV
+http://btv-i.akamaihd.net:80/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+
+#EXTINF:0,CANAL SONY 
+http://200.194.238.226:5000/live/x16t_canal_sony_hd/playlist.m3u8
+
+#EXTINF:0,CANÇÃO NOVA
+http://cnhls-lh.akamaihd.net:80/i/cnhls_1@147036/index_508_av-p.m3u8
+
+#EXTINF:0,CINEMAX
+http://200.194.238.226:5000/live/x16t_cinemax_hd/playlist.m3u8
+
+#EXTINF:0,CNBC
+http://origin2.live.web.tv.streamprovider.net:80/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
+#EXTINF:0,CNN
+http://200.194.238.226:5000/live/x16t_cnn/playlist.m3u8
+
+#EXTINF:0,COMEDY CENTRAL
+http://200.194.238.226:5000/live/x16t_comedycentral/playlist.m3u8
+
+#EXTINF:0,DISCOVERY CHANNEL
+http://200.194.238.226:5000/live/x16t_discovery_hd/playlist.m3u8
+
+#EXTINF:0,DISCOVERY H&H
+http://200.194.238.226:5000/live/x16t_discovery_hh_hd/playlist.m3u8
+
+#EXTINF:0,DISCOVERY KIDS
+http://200.194.238.226:5000/live/x16t_discovery_kids_hd/playlist.m3u8
+
+#EXTINF:0,DISCOVERY THEATER
+http://200.194.238.226:5000/live/x16t_discovery_theater_hd/playlist.m3u8
+
+#EXTINF:0,DISCOVERY WORLD
+http://200.194.238.226:5000/live/x16t_discovery_world_hd/playlist.m3u8
+
+#EXTINF:0,DISNEY CHANNEL
+http://200.194.238.226:5000/live/x16t_disney_hd/playlist.m3u8
+
+#EXTINF:0,ESPN
+http://200.194.238.226:5000/live/x16t_espn_hd/playlist.m3u8
+
+#EXTINF:0,ESPN+
+http://200.194.238.226:5000/live/x16t_espn_plus_hd/playlist.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO
+http://ei.ss-lisa.eiplus.com.br:80/live/evento1.stream_720p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX
+http://ei.ss-lisa.eiplus.com.br:80/live/evento3.stream_720p/livestream.m3u8
+
+#EXTINF:0,ESPORTE INTERATIVO MAXX 2
+http://ei.ss-lisa.eiplus.com.br:80/live/evento2.stream_360p/livestream.m3u8
+
+#EXTINF:0,FOX
+http://200.194.238.226:5000/live/x16t_fox/playlist.m3u8
+
+#EXTINF:0,FOX SPORTS
+http://200.194.238.226:5000/live/x16t_fox_sports_hd/playlist.m3u8
+
+#EXTINF:0,FX
+http://200.194.238.226:5000/live/x16t_fx_hd/playlist.m3u8
+
+#EXTINF:0,GLOBO HD
+http://185.109.161.15:8081/loadbalance/bobo720p/playlist.m3u8
+
+#EXTINF:0,GLOBO NEWS
+http://200.194.238.226:5000/live/x16t_globonews_hd/playlist.m3u8
+
+#EXTINF:0,GLOBO SC
+http://200.194.238.226:5000/live/x16t_rbs/playlist.m3u8
+
+#EXTINF:0,GLOBO SP
+http://185.109.161.34:8081/live/bobosp/loadbalance/bobo720p/playlist.m3u8
+
+#EXTINF:0,HBO
+http://200.194.238.226:5000/live/x16t_hbo_hd/playlist.m3u8
+
+#EXTINF:0,HBO 2
+http://200.194.238.226:5000/live/x16t_hbo2_hd/playlist.m3u8
+
+#EXTINF:0,HBO FAMILY
+http://200.194.238.226:5000/live/x16t_hbo_family_hd/playlist.m3u8
+
+#EXTINF:0,HISTORY CHANNEL
+http://200.194.238.226:5000/live/x16t_the_history_hd/playlist.m3u8
+
+#EXTINF:0,MEGAPIX
+http://200.194.238.226:5000/live/x16t_megapix/playlist.m3u8
+
+#EXTINF:0,MULTISHOW
+http://200.194.238.226:5000/live/x16t_multishow_hd/playlist.m3u8
+
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://200.194.238.226:5000/live/x16t_natgeo_hd/playlist.m3u8
+
+#EXTINF:0,NICK JR.
+http://200.194.238.226:5000/live/x16t_nickjr/playlist.m3u8
+
+#EXTINF:0,PARAMOUNT CHANNEL
+http://200.194.238.226:5000/live/x16t_paramount_hd/playlist.m3u8
+
+#EXTINF:0,RECORD PR
+http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8
+
+#EXTINF:0,RECORD SC
+http://200.194.238.226:5000/live/x16t_ric_hd/playlist.m3u8
+
+#EXTINF:0,REDE TV
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+#EXTINF:0,SBT HD
+http://185.109.161.15:8081/loadbalance/sbt978.stream/playlist.m3u8
+
+#EXTINF:0,SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+
+#EXTINF:0,SBT PB
+http://70.38.71.93:1935/tvtambau/tvtambau/live.m3u8
+
+#EXTINF:0,SBT PE
+http://evp.mm.uol.com.br:1935/ne10/ne10-tvjornal-recife-video-web.sdp/live.m3u8
+
+#EXTINF:0,SBT PI
+http://192.99.46.182:1935/pioneira-tv/pioneira-tv/live.m3u8
+
+#EXTINF:0,SBT SC
+http://200.194.238.226:5000/live/x16t_sbt_hd/playlist.m3u8
+
+#EXTINF:0,SBT SP
+http://gbbrlive2.sambatech.com.br:80/liveevent/sbt3_8fcdc5f0f8df8d4de56b22a2c6660470/livestream/live.m3u8
+
+#EXTINF:0,SPACE
+http://200.194.238.226:5000/live/x16t_space_hd/playlist.m3u8
+
+#EXTINF:0,SPORTV
+http://200.194.238.226:5000/live/x16t_sportv_hd/playlist.m3u8
+
+#EXTINF:0,SPORTV 2
+http://200.194.238.226:5000/live/x16t_sportv_2_hd/playlist.m3u8
+
+#EXTINF:0,SYFY
+http://200.194.238.226:5000/live/x16t_syfy/playlist.m3u8
+
+#EXTINF:0,TELECINE PIPOCA
+http://200.194.238.226:5000/live/x16t_telecine_pipoca_hd/playlist.m3u8
+
+#EXTINF:0,TELECINE PREMIUM
+http://200.194.238.226:5000/live/x16t_telecine_premium_hd/playlist.m3u8
+
+#EXTINF:0,TELECINE TOUCH
+http://200.194.238.226:5000/live/x16t_telecine_touch_hd/playlist.m3u8
+
+#EXTINF:0,TLC
+http://200.194.238.226:5000/live/x16t_tlc_hd/playlist.m3u8
+
+#EXTINF:0,TNT
+http://200.194.238.226:5000/live/x16t_tnt_hd/playlist.m3u8
+
+#EXTINF:0,TV ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+
+#EXTINF:0,TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+#EXTINF:0,TV CULTURA
+http://31.204.128.112:8081/live/tvcultura/playlist.m3u8
+
+#EXTINF:0,TV ESCOLA
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+
+#EXTINF:0,UNIVERSAL CHANNEL
+http://200.194.238.226:5000/live/x16t_universal_hd/playlist.m3u8
+
+#EXTINF:0,VH1
+http://200.194.238.226:5000/live/x16t_vh1_hd/playlist.m3u8
+
+#EXTINF:0,WARNER TV
+http://200.194.238.226:5000/live/x16t_warner_hd/playlist.m3u8
+
+
+#EXTINF:-1 , - VARIOS -
+
+
 #EXTINF:-1 channelId="-1" tvg-logo="http://www.nicolematos.pt/img/portfolio/portugal.png" , Regiões de Portugal
 #EXTBG:http://www.nicolematos.pt/img/portfolio/portugal.png
 #EXTSIZE:Big
