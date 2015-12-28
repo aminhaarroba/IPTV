@@ -53,6 +53,9 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.c
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/209.ts
 #EXTINF:-1,PT: Syfy *
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_port/aminhaarroba@gmail.com_port/1649.ts
+
+#EXTINF:-1,PT: Sport TV Americas
+http://sporttvamericas-i.akamaihd.net:80/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 #EXTINF:-1,PT: Sport TV1 freeiptv
 http://31.204.128.112:8081/live/portugal1/playlist.m3u8
 #EXTINF:-1,PT: Sport TV1 freeiptv2
