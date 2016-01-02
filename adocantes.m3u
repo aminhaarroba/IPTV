@@ -1174,3 +1174,33 @@ http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.
 http://62.210.248.96:11000/live/aminhaarroba@gmail.com_adult/aminhaarroba@gmail.com_adult/3175.ts
 #EXTINF:-1,Venus TV
 http://87.239.102.40:4022/udp/239.1.254.164:4000
+
+
+#EXTINF:-1 , - TESTE P  T -
+
+#EXTINF:-1 tvg-ID="BenficaTV.pt" tvg-name="BENFICA TV 1" tvg-logo="http://visaodigital.sytes.net/picons/btv1.png" group-title="General Streams",BENFICA TV 1
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/BenficaHD.stream_720p/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",BENFICA TV HD
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/byarno.m3u8
+
+#EXTINF:-1 channelId="2834" , BTV 1 HD 1080
+http://vurl.com/73Z2A
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adrianoafonso/myIPTVchannels/master/Logos/telekanal.png",Telekanal
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="TV/logos/TELA_PROFICIONAL.png" tvg-logo="http://rafildshd.ucoz.com.br/TV/logos/TELA_PROFICIONAL.png" group-title="RAFILDSHDTV",SPORTV SD
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1, SPORTV1 HQ BRASILEIRO
+http://213.163.71.139:8081/live/sportv/playlist.m3u8
+
+#EXTINF:-1 channelId="2600" , SPORTV2
+http://213.163.71.139:8081/live/sportv2/playlist.m3u8
+
+
+
