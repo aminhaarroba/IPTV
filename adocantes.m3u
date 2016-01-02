@@ -1204,3 +1204,211 @@ http://213.163.71.139:8081/live/sportv2/playlist.m3u8
 
 
 
+#EXTINF:-1 , - TESTE 2016 -
+
+
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/1.m3u8
+#EXTINF:-1,RTP 2
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/2.m3u8
+#EXTINF:-1,SIC
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/3.m3u8
+#EXTINF:-1,TVI
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/4.m3u8
+#EXTINF:-1,RTP 3
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/172.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/161.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/19.m3u8
+#EXTINF:-1,RTP AFRICA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/276.m3u8
+#EXTINF:-1,RTP ACORES
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/18.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/168.m3u8
+#EXTINF:-1,TVI 24
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/7.m3u8
+#EXTINF:-1,TVI FICCAO
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/298.m3u8
+#EXTINF:-1,TVI REALITY
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/254.m3u8
+#EXTINF:-1,CMTV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/8.m3u8
+#EXTINF:-1,ETV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/211.m3u8
+#EXTINF:-1,EURONEWS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/283.m3u8
+#EXTINF:-1,TPA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/297.m3u8
+#EXTINF:-1,SIC CARAS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/258.m3u8
+#EXTINF:-1,SIC RADICAL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/151.m3u8
+#EXTINF:-1,SIC MULHER
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/171.m3u8
+#EXTINF:-1,SIC KIDS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/112.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/162.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/10.m3u8
+#EXTINF:-1,DISNEY JR
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/50.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/12.m3u8
+#EXTINF:-1,CANAL PANDA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/11.m3u8
+#EXTINF:-1,NICKELODEON
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/49.m3u8
+#EXTINF:-1,JIM JAM
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/179.m3u8
+#EXTINF:-1,BABY TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/229.m3u8
+#EXTINF:-1,CANAL Q
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/228.m3u8
+#EXTINF:-1,WOOHOO
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/277.m3u8
+#EXTINF:-1,GINX
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/300.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/239.m3u8
+#EXTINF:-1,CBS REALITY
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/238.m3u8
+#EXTINF:-1,FOX COMEDY
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/227.m3u8
+#EXTINF:-1,TLC
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/279.m3u8
+#EXTINF:-1,TRAVEL TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/299.m3u8
+#EXTINF:-1,ODISSEIA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/177.m3u8
+#EXTINF:-1,SYFY
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/163.m3u8
+#EXTINF:-1,FASHION TV HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/284.m3u8
+#EXTINF:-1,24H KITCHEN HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/181.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/48.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/160.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/80.m3u8
+#EXTINF:-1,NATIONAL GEO WILD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/186.m3u8
+#EXTINF:-1,HISTORIA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/16.m3u8
+#EXTINF:-1,A BOLA TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/56.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/170.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/225.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/28.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/29.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/30.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/31.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/32.m3u8
+#EXTINF:-1,BENFICA TV 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/33.m3u8
+#EXTINF:-1,BENFICA TV 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/253.m3u8
+#EXTINF:-1,BENFICA TV 2
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/53.m3u8
+#EXTINF:-1,SPORT TV & BENFICA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/213.m3u8
+#EXTINF:-1,SPORT TV AMERICAS
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/36.m3u8
+#EXTINF:-1,SPORTING TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/34.m3u8
+#EXTINF:-1,PORTO CANAL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/35.m3u8
+#EXTINF:-1,PFC HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/22.m3u8
+#EXTINF:-1,UK: FOX MOTOR SPORT HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/304.m3u8
+#EXTINF:-1,MOTORS TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/178.m3u8
+#EXTINF:-1,CACA & PESCA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/180.m3u8
+#EXTINF:-1,TOROS TV
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/157.m3u8
+#EXTINF:-1,AXN HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/37.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/45.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/46.m3u8
+#EXTINF:-1,FOX HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/38.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/152.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/44.m3u8
+#EXTINF:-1,FOX MOVIES
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/104.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/24.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/25.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/26.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/27.m3u8
+#EXTINF:-1,TVSERIES HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/6.m3u8
+#EXTINF:-1,MOV HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/190.m3u8
+#EXTINF:-1,CINEMUNDO
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/106.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/13.m3u8
+#EXTINF:-1,FR: CARTOON NETWORK
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/294.m3u8
+#EXTINF:-1,FR: DISNEY CHANNEL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/295.m3u8
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/296.m3u8
+#EXTINF:-1,FR: CANAL+ SPORT
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/289.m3u8
+#EXTINF:-1,FR: CANAL CINEMA
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/291.m3u8
+#EXTINF:-1,FR: CANAL SERIES
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/292.m3u8
+#EXTINF:-1,ESP: C + LIGA HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/221.m3u8
+#EXTINF:-1,MCM POP
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/240.m3u8
+#EXTINF:-1,UK: VEVO 1 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/109.m3u8
+#EXTINF:-1,UK: VEVO 3 HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/274.m3u8
+#EXTINF:-1,UK: ONE 1 MUSIC HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/301.m3u8
+#EXTINF:-1,UK: ONE 2 MUSIC HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/302.m3u8
+#EXTINF:-1,UK: PARTY TV MUSIC HD
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/285.m3u8
+#EXTINF:-1,MTV PT
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/14.m3u8
+#EXTINF:-1,TRACE
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/278.m3u8
+#EXTINF:-1,RADIO RFM
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/91.m3u8
+#EXTINF:-1,RADIO COMERCIAL
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/92.m3u8
+#EXTINF:-1,VENUS 18+
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/173.m3u8
+#EXTINF:-1,PRIVATE 18+
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/245.m3u8
+#EXTINF:-1,HOT 18+
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/159.m3u8
+#EXTINF:-1,PLAYBOY 18+
+http://ptbrvirtual.no-ip.net:8000/live/Vitor_Miranda/ap3Vl3zhwt/103.m3u8
