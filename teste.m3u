@@ -110,10 +110,7 @@ http://ts-iptv.dyndns.tv:8000/live/mario/nunes/39.m3u8
 
 ----------------------------------------------------
 
-#EXTINF:-1,[COLOR magenta][I][B]leon branco (Magellan)[/B][/I][/COLOR]
-http://0.0.0.0:1234
-#EXTINF:-1,[COLOR yellow]» » PORTUGAL« «[/COLOR]
-http://0.0.0.0:1234
+
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="PORTUGAL",[COLOR yellow][I][B]RTP 1[/B][/I][/COLOR]
@@ -1168,11 +1165,6 @@ http://stream2.wft.es:1025/;stream.mp3
 ---------------------------------------------------
 
 
-argivai
---------------------------------------------------------------
-
-#EXTINF:-1 group-title="PORTUGAL",[COLOR blue][I][B] PORTUGAL TDT[/B][/I][/COLOR]
-http://0.0.0.0:1234 (ARGIVAI)
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="rtp1.png" group-title="TDT", RTP 1
 http://88.157.194.246/live/ramdisk/zrtp1/HLS/zrtp1.m3u8
@@ -2894,27 +2886,8 @@ rtmp://video4.earthcam.com:1935/fecnetwork playpath=4017timessquare.flv swfUrl=h
 rtmp://video4.earthcam.com:1935/fecnetwork playpath=6593.flv swfUrl=http://static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20150126 pageUrl=http://www.earthcam.com/brazil/riodejaneiro/?cam=rio_copacabana
 
 ----------------------------------------------------------------------------------
-iptv dos pobres
+
 -------------------------------------------------------------------------
-
-#EXTINF:-1,[COLOR Green][I][B] FREE IPTV DOS POBRES V2.2 UPDATE 13-2-16 [/B][/I][/COLOR]
-http://google.pt
-#EXTINF:-1,[COLOR Green][I][B]MADE BY CARLOS CARVALHO[/B][/I][/COLOR]
-http://google.pt
-#EXTINF:-1,[COLOR Green][I][B]MAIL: COVILHA2011@HOTMAIL.COM[/B][/I][/COLOR]
-http://google.pt
-
-
-#EXTINF:-1 group-title="AVISO", [COLOR red] A LISTA NAO POSSUI NENHUM [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] SERVIDOR. OS LINKS ESTAO DISPONIVEIS [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] EM PESQUIZA LIVRE NA INTERNET... [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] NÃO ME RESPONSABILIZO [/COLOR]
-http://google.pt
-#EXTINF:-1 group-title="AVISO", [COLOR red] PELO USO DOS MESMOS OBRIGADO... [/COLOR]
-http://google.pt
 
 ###############################################
 #
