@@ -1,6 +1,75 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-title="DESPORTO",[COLOR gold]SPORTV AMERICAS[/COLOR] OFF
+http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR green]SK1[/COLOR] SD low (rtmp)
+rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMi8yMDE2IDY6MTU6NTQgUE0maGFzaF92YWx1ZT11bkU5ZDhmM.nlZakZCT01odU9MK1N3PT0mdmFsaWRtaW51dGVzPTMwMA==/ playpath=budalo swfUrl=http://streamcasttv.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://streamcasttv.biz/embed.php?file=budalo&width=610&height=470
+#EXTINF:-1 group-title="PLEXUS", [COLOR red] SK 3 [/COLOR] PLEXUS (da jogos equipas PT)
+plugin://program.plexus/?mode=1&url=acestream://7f1ec4c1307f983b91aef915a896253e78d62df2&mode=1&name=acestream&mode=1&name=SK 3
+
+#EXTINF:-1,ESPN (br)
+http://213.163.65.116:8081/live/espnbr/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] (jogos do benfica em casa)
+http://31.204.128.112:8081/live/sportv/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] |rtmp| (jogos do benfica em casa)
+rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
+http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
+
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
+http://31.204.128.112:8081/live/portugal1/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
+http://31.204.128.112:8081/live/portugal2/playlist.m3u8
+#EXTINF:-1 group-title="DESPORTO",[COLOR green]ESPN |br|[/COLOR] 
+http://31.204.128.127:8081/live/espnbr/playlist.m3u8
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]UFC[/COLOR] (rtmp) CHI
+rtmp://182.92.189.193/live/ playpath=h_fight_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos 
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]TSN 1[/COLOR] SD low (rtmp)
+rtmp://185.63.255.18:80/live playpath=ts1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://yotv.co/embedu.php?live=ts1&vw=620&vh=490 live=1 token=%Zrey(nKa@#Z
+#EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR gold]Ten Sports[/COLOR] SD low
+http://5.254.101.203:1935/tensports/tensports/index_2528_av-b.m3u8
+
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 1[/COLOR]
+http://188.247.133.26:8888/ipvt_010
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 2[/COLOR]
+http://188.247.133.26:8888/ipvt_011
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 3[/COLOR]
+http://188.247.133.18:8888/ipvt_005
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 4[/COLOR]
+http://188.247.133.18:8888/ipvt_006
+#EXTINF:-1 tvg-id=".png" tvg-logo="http://tv.moviesntvlive.com/wp-content/uploads/2015/11/Arena-Sport-1.png",[COLOR gold]Arena Sport 5[/COLOR]
+http://188.247.133.18:8888/ipvt_007
+
+
+#EXTINF:-1,Benfica 2
+http://178.33.231.219:88/kh1/kh1/87.ch
+#EXTINF:-1,Benfica HD
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1,Sport TV 1
+http://178.33.231.219:88/kh1/kh1/64.ch
+#EXTINF:-1,Sport TV 2
+http://178.33.231.219:88/kh1/kh1/65.ch
+#EXTINF:-1,Sport TV 3
+http://178.33.231.219:88/kh1/kh1/66.ch
+#EXTINF:-1,Sport TV 4
+http://178.33.231.219:88/kh1/kh1/67.ch
+
+#EXTINF:-1,PT : BENFICA TV 1
+http://top-iptv.zapto.org:8000/live/Aria/Aria/660.m3u8
+#EXTINF:-1,PT : Sport TV 5
+http://top-iptv.zapto.org:8000/live/Aria/Aria/657.m3u8
+#EXTINF:-1,PT : Sport TV 4
+http://top-iptv.zapto.org:8000/live/Aria/Aria/656.m3u8
+#EXTINF:-1,PT : Sport Tv 3
+http://top-iptv.zapto.org:8000/live/Aria/Aria/655.m3u8
+#EXTINF:-1,PT : Sport TV 2 FULL HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/654.m3u8
+#EXTINF:-1,PT : Sport Tv 1  FULL HD
+http://top-iptv.zapto.org:8000/live/Aria/Aria/653.m3u8
 #EXTINF:-1,PT: SPORT TV AMERICA
 http://portal.rapidiptv.com:8080/live/q2WBz0KFc6/4UtFhf7rqO/3253.ts
 #EXTINF:-1,PT: Benfica TV 2 HD
