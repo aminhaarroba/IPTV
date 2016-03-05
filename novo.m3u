@@ -1,9 +1,10 @@
 
 
 #EXTM3U
-#EXTINF:-1,SPORT TV 1
+
+#EXTINF:-1,Sport TV 1 HD
 http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/31.ts
-#EXTINF:-1,SPORT TV 1 (link 2)
+#EXTINF:-1,Sport TV 1 HD 2
 http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/214.ts
 
 #EXTINF:-1,Sport TV 1 HD
