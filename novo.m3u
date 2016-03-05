@@ -8,64 +8,14 @@ http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/31.m3u8
 http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/214.m3u8
 
 #EXTINF:-1,Sport TV 1 HD
-http://51.255.36.163:8000/live/kodi/kodi/260.m3u8
+http://51.255.36.163:8000/live/kodi/kodi/260.ts
 #EXTINF:-1,BENFICA TV 2
 http://51.255.36.163:8000/live/kodi/kodi/339.ts
-#EXTINF:-1,SIC
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/217.ts
-#EXTINF:-1,TVI
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/18.ts
-#EXTINF:-1,TVI 24
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/14.ts
-#EXTINF:-1,ECONOMICO TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/20.ts
+
 #EXTINF:-1,SPORT TV 1
 http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/31.ts
 #EXTINF:-1,SPORT TV 1 (link 2)
 http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/214.ts
-#EXTINF:-1,MOTORS TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/99.ts
-#EXTINF:-1,MOTORSPORT
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/75.ts
-#EXTINF:-1,TVCINE 4
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/215.ts
-#EXTINF:-1,BOOMERANG
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/17.ts
-#EXTINF:-1,MTV DANCE
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/216.ts
-#EXTINF:-1,MCM TOP
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/98.ts
-#EXTINF:-1,NRJ TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/113.ts
-#EXTINF:-1,ICONCERTS
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/89.ts
-#EXTINF:-1,VEVO 1
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/32.ts
-#EXTINF:-1,VEVO 2
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/33.ts
-#EXTINF:-1,VEVO 3
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/34.ts
-#EXTINF:-1,ROCK TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/19.ts
-#EXTINF:-1,VIRGIN TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/51.ts
-#EXTINF:-1,VENUS
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/204.ts
-#EXTINF:-1,ES: REAL MADRID TV
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/189.ts
-#EXTINF:-1,UK: SKY SPORTS F1
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/187.ts
-#EXTINF:-1,UK: SKY SPORTS NEWS
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/152.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/114.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/153.ts
-#EXTINF:-1,UK: JIM JAM
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/120.ts
-#EXTINF:-1,US: NFL NETWORK
-http://78.31.65.171:20000/live/9QdaY0daaS/Xv9jei6qPw/121.ts
-
 #EXTINF:-1,PT-TVCine1
 http://camerta.com:8000/live/12/12/2168.ts
 #EXTINF:-1,PT-TVCine2
