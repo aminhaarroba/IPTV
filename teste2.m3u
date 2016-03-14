@@ -2,30 +2,12 @@
 
 #EXTINF:-1,MINHA
 
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-#EXTINF:0 tvg-logo="http://i.imgur.com/ZFGpLfh.png" group-title="Canais Portugal", RTP INTERNACIONAL
-http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
+
 
 *******************B1 ****************************************************************************
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_1
 http://mediaptv.zapto.org:88/live/free/iptv/28.ts
-#EXTINF:-1,B1_1m3u8
-http://mediaptv.zapto.org:88/live/free/iptv/28.m3u8
-#EXTINF:-1,B2_2
-http://mediaptv.zapto.org:88/live/free/iptv/29.ts
-#EXTINF:-1,B1_3
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.ts
-#EXTINF:-1,B1_3m3u8
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.m3u8
-#EXTINF:-1,B1_4
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.ts
-#EXTINF:-1,B1_4m3u8
-http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_5 OFF
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+
 #EXTINF: 0, B1_6
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
 #EXTINF: 0, B2_7
@@ -68,6 +50,20 @@ http://178.33.231.219:88/live/101/101/86.m3u8
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.ts
 #EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_23 | STREAM 2
 http://178.33.231.219:88/live/101/101/87.ts
+
+************************ B OFF ???*****************************
+#EXTINF:-1,B1_1m3u8 OFF
+http://mediaptv.zapto.org:88/live/free/iptv/28.m3u8
+#EXTINF:-1,B2_2 sporting?
+http://mediaptv.zapto.org:88/live/free/iptv/29.ts
+#EXTINF:-1,B1_3 OFF
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.ts
+
+#EXTINF:-1,B1_4 OFF
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.ts
+
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_5 OFF
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
 
 ***********************************S 1*****************************************************************************
 
@@ -199,8 +195,15 @@ http://www.t12v.com:8000/live/Vince/Vince1/1137.ts
 http://ipsatpro.com:8000/live/28071980/28071980/884.m3u8
 
 
+************************************ Rint ***********************
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+#EXTINF:0 tvg-logo="http://i.imgur.com/ZFGpLfh.png" group-title="Canais Portugal", RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
 
------------ canais lina NOS ---------------------
+******************************* canais liga NOS ******************************************
 
 #EXTINF:-1 tvg-logo="http://vergelijk-alles-in-1.nl/wp-content/uploads/2015/12/ziggo-sport.jpg",SPORT1_VOETBAL
 http://iptv-supplier.com:8000/live/ajay/ajay/1578.m3u8
