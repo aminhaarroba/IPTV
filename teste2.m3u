@@ -5,9 +5,15 @@
 
 
 *******************B1 ****************************************************************************
+#EXTINF:-1,Benfica HD IL
+http://178.33.231.219:88/kh1/kh1/86.ch
+#EXTINF:-1,Benfica HD IL salta
+http://178.33.231.219:88/live/m/m/86.ts
+#EXTINF:-1,PT_BENFICATV_1HD PM
+http://www.t12v.com:8000/live/prevot/prevot/1421.ts
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_1
 http://mediaptv.zapto.org:88/live/free/iptv/28.ts
-
 #EXTINF: -1, B1_2
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
 #EXTINF:-1,B1_3_m3u8
@@ -27,10 +33,9 @@ http://178.33.231.219:88/live/101/101/86.ts
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
 #EXTINF:-1,B1_8_m3u8
 http://178.33.231.219:88/live/101/101/86.m3u8
-#EXTINF:-1,PT_BTV_1_HD PM
+#EXTINF:-1,PT_BTV_1_HD PM OFF
 http://www.t12v.com:8000/live/prevot/prevot/807.ts
-#EXTINF:-1,PT_BENFICATV_1HD PM
-http://www.t12v.com:8000/live/prevot/prevot/1421.ts
+
 
 #EXTINF:-1,PT_BENFICATV_2 PM
 http://www.t12v.com:8000/live/prevot/prevot/1418.ts
@@ -225,25 +230,12 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/inspirationlinks.m3u8
 
 ******************************* canais liga NOS ******************************************
-#EXTINF:-1 group-title="DESPORTO",[COLOR gold]SPORTV AMERICAS[/COLOR] OFF
-http://sporttvamericas-i.akamaihd.net/hls/live/227427/SportTVAmericas/master1300kbps.m3u8
 
-#EXTINF:-1,[COLOR green]ESPN[/COLOR] |br|
-http://31.204.128.127:8081/live/espnbr/playlist.m3u8
-#EXTINF:-1,[COLOR green]ESPN[/COLOR] |br|
-http://213.163.65.116:8081/live/espnbr/playlist.m3u8
 #EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] (jogos do benfica em casa)
 http://31.204.128.112:8081/live/sportv/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]Sportv |br|[/COLOR] |rtmp| (jogos do benfica em casa)
-rtmp://62.210.89.38/liverepeat playpath=201020  swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?IGOR_RANGEL  pageUrl=http://direct-stream.biz/embedPlayer_.php?c=hnbrr54uu87&vw=468&vh=400
-
 #EXTINF:-1 tvg-id=".png" tvg-logo="Esportes.png",[COLOR blue]SILK 3[/COLOR] (GEO)
 http://94.43.239.178:8080/CHANNEL222/BITRATE0/playlist.m3u8
 
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV 1[/COLOR] OFF/ON
-http://31.204.128.112:8081/live/portugal1/playlist.m3u8
-#EXTINF:-1 group-title="DESPORTO",[COLOR green]SPORTV3 & BTV2[/COLOR] OFF/ON
-http://31.204.128.112:8081/live/portugal2/playlist.m3u8
 
 #EXTINF:-1,Benfica 2
 http://178.33.231.219:88/live/m/m/87.ts
@@ -260,8 +252,7 @@ http://178.33.231.219:88/live/m/m/67.ts
 
 #EXTINF:-1,Benfica 2
 http://178.33.231.219:88/kh1/kh1/87.ch
-#EXTINF:-1,Benfica HD
-http://178.33.231.219:88/kh1/kh1/86.ch
+
 #EXTINF:-1,Sport TV 1
 http://178.33.231.219:88/kh1/kh1/64.ch
 #EXTINF:-1,Sport TV 2
