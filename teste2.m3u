@@ -8,47 +8,39 @@
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_1
 http://mediaptv.zapto.org:88/live/free/iptv/28.ts
 
-#EXTINF: 0, B1_6
+#EXTINF: -1, B1_2
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
+#EXTINF:-1,B1_3_m3u8
+http://178.33.231.219:88/live/101/101/86.m3u8
+
+#EXTINF:-1,B1_4
+http://iptvbox.noip.us:9998/live/atik/atik/1026.m3u8
+#EXTINF:-1,B1_5
+http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
+#EXTINF:-1,B1_6_m3u8
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+#EXTINF:-1,B1_7
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.ts
+#EXTINF:-1,B1_8
+http://178.33.231.219:88/live/101/101/86.ts
+#EXTINF:-1,B1_7_m3u8
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+#EXTINF:-1,B1_8_m3u8
+http://178.33.231.219:88/live/101/101/86.m3u8
+
 #EXTINF: 0, B2_7
 http://cp.dmbshare.net:8000/live/cengiz/cengiz/3495.m3u8
-#EXTINF:-1,B1_8
-http://iptvbox.noip.us:9998/live/atik/atik/1026.m3u8
-#EXTINF:-1,B1_9
-http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
-#EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_10
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
-#EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_11 OFF
-ttp://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.m3u8
 #EXTINF:-1,B2_12
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_13 OFF
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
-#EXTINF:-1,B1_14_7z OFF
-http://91.204.214.106:23201/stolen/250l/xenixos.7z
-#EXTINF:-1,B1_14m3u8
-http://91.204.214.106:23201/stolen/250l/xenixos.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,B2_15 OFF
-http://91.204.214.106:23201/stolen/233w/xenixos.7z
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",PT: B1_16 OFF (TEMP)http
-rtmp://107.182.234.180/live/ playPath=slbljjtDZS?id=21982&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430 live=true
-#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",PT: B1_17 OFF (TEMP)http
-rtmp://206.190.129.28/live playPath=slbljjtDZS?id=21982&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2020,0,0,306 pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430
 #EXTINF:-1,PT-B2_18 HD 720p
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3495.m3u8
 #EXTINF:-1,PT-B1_19 HD 720p
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3496.m3u8
-#EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_20 | STREAM 1
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.ts
-#EXTINF:-1,B1_20_m3u8
-http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
-#EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_21 | STREAM 2
-http://178.33.231.219:88/live/101/101/86.ts
-#EXTINF:-1,B1_21m3u8
-http://178.33.231.219:88/live/101/101/86.m3u8
-#EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_22 | STREAM 1
+
+
+#EXTINF:-1,B2_22 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.ts
-#EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_23 | STREAM 2
+#EXTINF:-1,B2_23 | STREAM 2
 http://178.33.231.219:88/live/101/101/87.ts
 
 ************************ B OFF ???*****************************
@@ -64,6 +56,22 @@ http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.ts
 
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_5 OFF
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+#EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_10 OFF
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+#EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_11 OFF
+ttp://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.m3u8
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_13 OFF
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
+#EXTINF:-1,B1_14_7z OFF
+http://91.204.214.106:23201/stolen/250l/xenixos.7z
+
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,B2_15 OFF
+http://91.204.214.106:23201/stolen/233w/xenixos.7z
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",PT: B1_16 OFF (TEMP)http
+rtmp://107.182.234.180/live/ playPath=slbljjtDZS?id=21982&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430 live=true
+#EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",PT: B1_17 OFF (TEMP)http
+rtmp://206.190.129.28/live playPath=slbljjtDZS?id=21982&pk=e48aa857174960dbfa3a76f49677c69096f22e5e05295010d178420a87ca4e18 swfVfy=1 timeout=15 live=true conn=S:OK swfUrl=http://www.streamifyplayer.com/resources/scripts/eplayer.swf flashver=WIN\2020,0,0,306 pageUrl=http://www.streamifyplayer.com/embedplayer/slbljjtDZS/1/620/430
+
 
 ***********************************S 1*****************************************************************************
 
