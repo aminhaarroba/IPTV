@@ -10,14 +10,20 @@ rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUr
 http://rtp-pull-live.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/livestream.m3u8
 
 *******************B1 ****************************************************************************
-#EXTINF:-1,#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_1
+#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_1
 http://mediaptv.zapto.org:88/live/free/iptv/28.ts
+#EXTINF:-1,B1_1m3u8
+http://mediaptv.zapto.org:88/live/free/iptv/28.m3u8
 #EXTINF:-1,B2_2
 http://mediaptv.zapto.org:88/live/free/iptv/29.ts
 #EXTINF:-1,B1_3
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.ts
+#EXTINF:-1,B1_3m3u8
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/237.m3u8
 #EXTINF:-1,B1_4
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.ts
+#EXTINF:-1,B1_4m3u8
+http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/249.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_5 OFF
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
 #EXTINF: 0, B1_6
@@ -36,8 +42,10 @@ ttp://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.m3u8
 http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/yutwvs1437950085.png",B1_13 OFF
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,B1_14 OFF
+#EXTINF:-1,B1_14_7z OFF
 http://91.204.214.106:23201/stolen/250l/xenixos.7z
+#EXTINF:-1,B1_14m3u8
+http://91.204.214.106:23201/stolen/250l/xenixos.m3u8
 #EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png" group-title=“DESPORTO”,B2_15 OFF
 http://91.204.214.106:23201/stolen/233w/xenixos.7z
 #EXTINF:-1 tvg-logo="http://i.imgur.com/iBh0diH.png",PT: B1_16 OFF (TEMP)http
@@ -50,8 +58,12 @@ http://cp.dmbshare.net:8000/live/liverpool/liverpool/3495.m3u8
 http://cp.dmbshare.net:8000/live/liverpool/liverpool/3496.m3u8
 #EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_20 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.ts
+#EXTINF:-1,B1_20_m3u8
+http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/53.m3u8
 #EXTINF:-1 tvg-name="BenficaTV.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv1.png",B1_21 | STREAM 2
 http://178.33.231.219:88/live/101/101/86.ts
+#EXTINF:-1,B1_21m3u8
+http://178.33.231.219:88/live/101/101/86.m3u8
 #EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_22 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/55.ts
 #EXTINF:-1 tvg-name="BenficaTV2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/btv2.png",B2_23 | STREAM 2
@@ -59,47 +71,49 @@ http://178.33.231.219:88/live/101/101/87.ts
 
 ***********************************S 1*****************************************************************************
 
-#EXTINF:-1,SPORT TV 1
+#EXTINF:-1,S1_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/31.ts
-#EXTINF:-1,SPORT TV 2
+#EXTINF:-1,S2_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/242.ts
-#EXTINF:-1,SPORT TV 3
+#EXTINF:-1,S3_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/243.ts
-#EXTINF:-1,SPORT TV 4
+#EXTINF:-1,S4_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/244.ts
-#EXTINF:-1,SPORT TV 5
+#EXTINF:-1,S5_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/246.ts
-#EXTINF:-1,SPORTV 1
+#EXTINF:-1,S1_1
 http://mediaptv.zapto.org:88/live/free/iptv/18.ts
-#EXTINF:-1,SPORTV 1 HD
+#EXTINF:-1,S1_1m3u8
+http://mediaptv.zapto.org:88/live/free/iptv/18.m3u8
+#EXTINF:-1,S1HD_2
 http://mediaptv.zapto.org:88/live/free/iptv/19.ts
-#EXTINF:-1,SPORTV 2
+#EXTINF:-1,S2_3
 http://mediaptv.zapto.org:88/live/free/iptv/20.ts
-#EXTINF:-1,SPORTV 2 HD
+#EXTINF:-1,S2HD_4
 http://mediaptv.zapto.org:88/live/free/iptv/21.ts
-#EXTINF:-1,SPORTV 3
+#EXTINF:-1,S3_5
 http://mediaptv.zapto.org:88/live/free/iptv/22.ts
-#EXTINF:-1,SPORTV 3 HD
+#EXTINF:-1,S3HD_6
 http://mediaptv.zapto.org:88/live/free/iptv/23.ts
-#EXTINF:-1,SPORTV 4
+#EXTINF:-1,S4_7
 http://mediaptv.zapto.org:88/live/free/iptv/24.ts
-#EXTINF:-1,SPORTV 4 HD
+#EXTINF:-1,S4HD_8
 http://mediaptv.zapto.org:88/live/free/iptv/25.ts
-#EXTINF:-1,SPORTV 5
+#EXTINF:-1,S5_9
 http://mediaptv.zapto.org:88/live/free/iptv/26.ts
-#EXTINF:-1,SPORTV 5 HD
+#EXTINF:-1,S5HD_10
 http://mediaptv.zapto.org:88/live/free/iptv/27.ts
-#EXTINF:-1,Sport.TV1 HD
+#EXTINF:-1,S1HD_11
 http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
-#EXTINF:-1,Sport.TV1
+#EXTINF:-1,S1_12
 http://iptvbox.noip.us:9998/live/atik/atik/819.m3u8
-#EXTINF:-1,Sport.TV2
+#EXTINF:-1,S2_13
 http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
-#EXTINF:-1,Sport.TV3
+#EXTINF:-1,S3_14
 http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
-#EXTINF:-1,Sport.TV4
+#EXTINF:-1,S4_15
 http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
-#EXTINF:-1,Sport.TV5
+#EXTINF:-1,S5_16
 http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8
 #EXTINF:-1 tvg-name="sporttv1.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png",SPORT TV 1 | STREAM 2
 http://www.t12v.com:8000/live/Vince/Vince1/501.m3u8
@@ -111,22 +125,10 @@ http://www.t12v.com:8000/live/Vince/Vince1/1135.m3u8
 http://www.t12v.com:8000/live/Vince/Vince1/1136.m3u8
 #EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 2
 http://www.t12v.com:8000/live/Vince/Vince1/1137.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [SD]
-http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/xqyprw1436887096.png" group-title="Plexus",Sport TV 1 [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10480.acelive&mode=1&name=SportTV1
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Plexus",Sport TV 2 [SD] 
-http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rytvrr1436887081.png" group-title="Plexus",Sport TV 2 [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?mode=1&url=acestream://6053774a957d5b6066d2f04236d7d67bc9434a8e&name=SportTV2
+
 #EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [SD] 
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/45.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/ypsxtr1436887227.png" group-title="Plexus",Sport TV 3 [B][COLOR red]Plexus[/COLOR][/B]
-plugin://program.plexus/?url=http://content.torrent-tv.ru/bzIySXRrR3dJdVB2emNjRE9FMGlESlVhS2VlbWp2elRiT3hDc3I0MXVlanREb2xxU2JGZ3dGYmppRnlJVEJpcE1RK2lHYWUwWHZiVXU3SzVSNWhaaEE9PQ/10482.acelive&amp;mode=1&amp;name=SPORTTV3
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/wywyss1436887367.png",Sport TV 4 [SD]
-http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/sxsvsy1436887471.png",Sport TV 5 [SD]
-http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8
+
 #EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,SPORT TV 1 
 rtmpe://r.livecast.cc/rv/ app=rv/ swfUrl=http://veecast.net/player59.swf timeout=12 pageUrl=http://veecast.net/e/live1-VUdIFZL/mag playpath=live1-VUdIFZL
 #EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="SportTV 1.png" group-title=“DESPORTO”,SPORT TV 1
@@ -155,8 +157,7 @@ http://178.33.231.219:88/live/101/101/64.ts
 http://ipsatpro.com:8000/live/28071980/28071980/880.m3u8
 #EXTINF:-1 tvg-name="sporttv1.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png",SPORT TV 1 | STREAM 5
 http://178.33.231.219:88/live/reda/reda/64.ts
-#EXTINF:-1 tvg-name="sporttv1.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv1.png",SPORT TV 1 | STREAM 6
-http://mediaptv.zapto.org:88/live/free/iptv/18.ts
+
 #EXTINF:-1 tvg-name="sporttv2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png",SPORT TV 2 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/44.ts
 #EXTINF:-1 tvg-name="sporttv2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png",SPORT TV 2 | STREAM 2
@@ -167,8 +168,7 @@ http://178.33.231.219:88/live/101/101/65.ts
 http://ipsatpro.com:8000/live/28071980/28071980/881.m3u8
 #EXTINF:-1 tvg-name="sporttv2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png",SPORT TV 2 | STREAM 5
 http://178.33.231.219:88/live/reda/reda/65.ts
-#EXTINF:-1 tvg-name="sporttv2.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv2.png",SPORT TV 2 | STREAM 6 
-http://mediaptv.zapto.org:88/live/free/iptv/20.ts
+
 #EXTINF:-1 tvg-name="sporttv3.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png",SPORT TV 3 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/119.ts
 #EXTINF:-1 tvg-name="sporttv3.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png",SPORT TV 3 | STREAM 2
@@ -179,34 +179,24 @@ http://178.33.231.219:88/live/101/101/66.ts
 http://ipsatpro.com:8000/live/28071980/28071980/882.m3u8
 #EXTINF:-1 tvg-name="sporttv3.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png",SPORT TV 3 | STREAM 4
 http://178.33.231.219:88/live/reda/reda/66.ts
-#EXTINF:-1 tvg-name="sporttv3.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png",SPORT TV 3 | STREAM 5 | OFF
-http://127.0.0.1:9000
-#EXTINF:-1 tvg-name="sporttv3.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv3.png",SPORT TV 3 | STREAM 6
-http://mediaptv.zapto.org:88/live/free/iptv/21.ts
+
 #EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/46.ts
 #EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 2
 http://www.t12v.com:8000/live/Vince/Vince1/1136.ts
 #EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 3
 http://178.33.231.219:88/live/101/101/67.ts
-#EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 4 | OFF
-http://127.0.0.1:9000
+
 #EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 5
 http://178.33.231.219:88/live/reda/reda/67.ts
-#EXTINF:-1 tvg-name="sporttv4.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv4.png",SPORT TV 4 | STREAM 6
-http://mediaptv.zapto.org:88/live/free/iptv/23.ts
+
 #EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 1
 http://fastroot.ddns.net:8000/live/edgarsalas/edgarface/47.ts
 #EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 2
 http://www.t12v.com:8000/live/Vince/Vince1/1137.ts
-#EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 3 | OFF
-http://127.0.0.1:9000
+
 #EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 4
 http://ipsatpro.com:8000/live/28071980/28071980/884.m3u8
-#EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 5 | OFF
-http://127.0.0.1:9000
-#EXTINF:-1 tvg-name="sporttv5.pt" tvg-logo="https://dl.dropboxusercontent.com/u/1659801/iptv/CyberIPTV/logos/TugaTV%20Cabo/sportv5.png",SPORT TV 5 | STREAM 6
-http://mediaptv.zapto.org:88/live/free/iptv/25.ts
 
 
 
