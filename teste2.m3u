@@ -36,6 +36,8 @@ http://178.33.231.219:88/live/101/101/86.m3u8
 #EXTINF:-1,PT_BTV_1_HD PM OFF
 http://www.t12v.com:8000/live/prevot/prevot/807.ts
 
+#EXTINF: -1 TVG-id = "telekanal_futbol.png" TVG-logo = "telekanal_futbol.png" grupo-title = "DESPORTO",  TELEKANAL (RUS) 
+http://btv-net.mediacdn.ru/TVB8/football/playlist.m3u8
 
 #EXTINF:-1,PT_BENFICATV_2 PM
 http://www.t12v.com:8000/live/prevot/prevot/1418.ts
@@ -98,6 +100,9 @@ http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/243.ts
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/244.ts
 #EXTINF:-1,S5_afonso
 http://78.31.65.171:20000/live/HxMuSVP5lE/e32rATjxgX/246.ts
+
+#EXTINF:-1,PT-SPORT TV 1 HD 720p
+http://cp.dmbshare.net:8000/live/liverpool/liverpool/3457.m3u8
 #EXTINF:-1,S1_1
 http://mediaptv.zapto.org:88/live/free/iptv/18.ts
 #EXTINF:-1,S1_1m3u8
