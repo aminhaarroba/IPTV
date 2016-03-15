@@ -17,9 +17,9 @@ http://xtream-codes.no-ip.org:61250/live/andrew2/andrew2/12175.m3u8
 
 
 *******************B1 ****************************************************************************
-#EXTINF:-1,Benfica HD IL
+#EXTINF:-1,Benfica HD IL off
 http://178.33.231.219:88/kh1/kh1/86.ch
-#EXTINF:-1,Benfica HD IL salta
+#EXTINF:-1,Benfica HD IL off salta
 http://178.33.231.219:88/live/m/m/86.ts
 #EXTINF:-1,PT_BENFICATV_1HD PM
 http://www.t12v.com:8000/live/prevot/prevot/1421.ts
