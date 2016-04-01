@@ -2,6 +2,27 @@
 
 #EXTINF:-1,BTV1
 http://clickone.tvzune.org:8080/livex/benficatv.m3u8
+
+#EXTINF:0,BENFICA
+http://pt-stream.fubotv.com.a.prod.fastly.net/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+#EXTINF:-1, Benfica TV
+http://ak-portuguese-us-pt-stream.fubo.tv/Benfica-TV/ngrp:BenficaHD.stream_all/chunklist_b2628000.m3u8
+‪#‎EXTINF‬:-1,SPORTV 1 HD
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/128.ts
+#EXTINF:-1,SPORTV 2 HD
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/130.ts
+#EXTINF:-1,SPORTV 3
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/131.ts
+#EXTINF:-1,SPORTV 4
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/132.ts
+#EXTINF:-1,SPORTV 5
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/133.ts
+#EXTINF:-1,BENFICA TV 1
+http://188.241.113.252:8000/live/IPTV-PT/testes-user/134.ts
+
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="rtp_internacional.png" group-title="PORTUGAL",RTP INTERNACIONAL
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8
+
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR yellow]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
 http://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djlopesdacosta/plugin.video.live.streamspro/master/fanart.jpg"[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
