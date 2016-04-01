@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,BTV1
+http://clickone.tvzune.org:8080/livex/benficatv.m3u8
 #EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR yellow]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
 http://
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/djlopesdacosta/plugin.video.live.streamspro/master/fanart.jpg"[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
