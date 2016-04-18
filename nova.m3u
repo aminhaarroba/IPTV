@@ -1,0 +1,184 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="HOME22.png",[COLOR violet] APRESENTAÇÃO [/COLOR]
+https://cld.pt/dl/download/c317645a-c5d7-4702-a477-5e753a720044/APRESENTA%C3%87%C3%83O.mp4
+#EXTINF:-1 tvg-logo="Rouge-TV.png",[COLOR red] + CANAIS ? [/COLOR][COLOR blue] CLICK AQUI [/COLOR]
+https://cld.pt/dl/download/c1105af5-2363-4ff4-9f5e-a62d28654723/Publicidade.mp4
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO TV PORTUGUESA [/COLOR]
+https://cld.pt/dl/download/1684cc2a-9815-4431-bb22-cf66d4f1d93c/Grupo%20Canais%20Portugueses.mp4
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png",[COLOR orange] RTP 1 [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png",[COLOR orange] RTP 2 [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP INTERNACIONAL [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP INTERNACIONAL.png",[COLOR orange] RTP 3 [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTP AFRICA.png",[COLOR orange] RTP ÁFRICA [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTP MEMORIA.png",[COLOR orange] RTP MEMÓRIA [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP MADEIRA [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP AÇORES [/COLOR]
+rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png",[COLOR orange] SIC [/COLOR]
+http://84.75.246.171:8000/play/a00i
+#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="SIC NOTICIAS.png",[COLOR orange] SIC NOTÍCIAS [/COLOR]
+http://84.75.246.171:8000/play/a00f
+#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png",[COLOR orange] TVI [/COLOR]
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24.png",[COLOR orange] TVI 24 [/COLOR]
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
+#EXTINF:-1 tvg-id="TPA" tvg-logo="TPA.png",[COLOR orange] TPA [/COLOR]
+rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
+#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="ECONÓMICO TV.png",[COLOR orange] ECONÓMICO TV [/COLOR]
+http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV GLOBO [/COLOR]
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] RECORD [/COLOR]
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] CHEF TV [/COLOR]
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TBS BR HD [/COLOR]
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV CINE 1 [/COLOR]
+http://ksportiptv.com:1557/live/elvis/elvis/2178.m3u8
+#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV CINE 2 [/COLOR]
+http://ksportiptv.com:1557/live/elvis/elvis/2179.m3u8
+#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png",[COLOR orange] TV CABO VERDE [/COLOR]
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
+#EXTINF:-1 tvg-logo="Rede TV HD.png",[COLOR orange] REDE TV [/COLOR]
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
+#EXTINF:-1 tvg-logo="EURONEWS.png",[COLOR orange] EURONEWS PT [/COLOR]
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1,[COLOR orange] CANÇÃO NOVA [/COLOR]
+http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,[COLOR orange] FASHION TV [/COLOR]
+http://188.93.95.25:80/fasiontv/index.m3u8
+#EXTINF:-1,[COLOR orange] FOOD NERWORK [/COLOR]
+http://185.73.239.250:8000/live/tatar/tatar/258.ts
+#EXTINF:-1,[COLOR orange] MOTORVISION TV [/COLOR]
+http://185.73.239.250:8000/live/tatar/tatar/215.ts
+
+#EXTINF:-1,Sport TV 1 HD
+http://mygameravatar.zapto.org:43666/live/test8/test9/543.ts
+#EXTINF:-1,Sport TV 1 HD
+http://mygameravatar.zapto.org:43666/live/test8/test9/543.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://mygameravatar.zapto.org:43666/live/test8/test9/544.ts
+#EXTINF:-1,Sport TV 3 HD
+http://mygameravatar.zapto.org:43666/live/test8/test9/545.ts
+#EXTINF:-1,Sport TV 4 HD
+http://mygameravatar.zapto.org:43666/live/test8/test9/546.ts
+
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR orange] SPORT TV 1 [/COLOR][COLOR blue] HD [/COLOR]
+http://37.187.164.175:8080/supersport/sportstv/308.ch
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR orange] SPORT TV 1/2º [/COLOR][COLOR blue] HD [/COLOR]
+http://ksportiptv.com:1557/live/elvis/elvis/2184.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png",[COLOR orange] SPORT TV 2 [/COLOR][COLOR blue] HD [/COLOR]
+http://37.187.164.175:8080/supersport/sportstv/309.ch
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png",[COLOR orange] SPORT TV 2/2º [/COLOR][COLOR blue] HD [/COLOR]
+http://37.187.164.175:8080/11/globalsportsIPTV/309.ch
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png",[COLOR orange] BENFICA TV 1 [/COLOR][COLOR blue] SD [/COLOR]
+http://84.75.246.171:8000/play/a00c
+#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png",[COLOR orange] BENFICA TV 2 [/COLOR][COLOR blue] SD [/COLOR]
+http://84.75.246.171:8000/play/a00d
+ 
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO DESPORTO INTERNACIONAL [/COLOR]
+https://cld.pt/dl/download/d2013806-10ff-41fc-8890-727e036e1b11/Grupo%20Canais%20Desporto%20Internacionais.mp4
+#EXTINF:-1,[COLOR orange] NFL NETWORK [/COLOR]
+http://37.187.164.175:8080/USA/CAN/4.ch
+#EXTINF:-1,[COLOR orange] FOX SPORTS [/COLOR]
+http://37.187.164.175:8080/USA/CAN/151.ch
+#EXTINF:-1,[COLOR orange] ESPN [/COLOR]
+http://37.187.164.175:8080/USA/CAN/78.ch
+#EXTINF:-1,[COLOR orange] US NBC SPORT [/COLOR]
+http://37.187.164.175:8080/USA/CAN/270.ch
+#EXTINF:-1,[COLOR orange] SKY SPORTS 1 [/COLOR]
+http://149.202.68.106:8000/live/lello/lello/464.ts
+#EXTINF:-1,[COLOR orange] SKY SPORTS 2 [/COLOR]
+http://149.202.68.106:8000/live/lello/lello/465.ts
+#EXTINF:-1,[COLOR orange] SKYBUNDESLIGA 1 HD [/COLOR]
+http://149.202.68.106:8000/live/lello/lello/609.ts
+#EXTINF:-1,[COLOR orange]  BEIN SPORT 1 HD [/COLOR]
+http://pciptv.blogdns.com:34505/live/tallarico/tallarico/2014.ts
+#EXTINF:-1 tvg-logo="rai_sport.png",[COLOR orange] RAI SPORT 1 [/COLOR]
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1 tvg-logo="Sports tv turkey.jpg",[COLOR orange] SPORTS TV TURKEY [/COLOR]
+http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/hasbahca.m3u8
+#EXTINF:-1 tvg-logo="azteca deportes.png",[COLOR orange] AZTECA DEPORTES [/COLOR][COLOR blue] HD [/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="sport time 1.jpg",[COLOR orange] SPORT TIME TV 1 [/COLOR][COLOR blue] HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1 tvg-logo="sport time 2.jpg",[COLOR orange] SPORT TIME TV 2 [/COLOR][COLOR blue] HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1 tvg-logo="sport time 3.jpg",[COLOR orange] SPORT TIME TV 3 [/COLOR][COLOR blue] HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 tvg-logo="sport time 4.png",[COLOR orange] SPORT TIME TV 4 [/COLOR][COLOR blue] HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 tvg-logo="sport time 5.png",[COLOR orange]SPORT TIME TV 5 [/COLOR][COLOR blue] HD [/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 tvg-logo="Auto_motor_sport_channel_logo.png",[COLOR orange] AUTO SPORT TV [/COLOR]
+mms://100automoto.tv/100livesport
+#EXTINF:-1 tvg-logo="eusp-ver2.png",[COLOR orange] EUROSPORT 1 [/COLOR]
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 tvg-logo="digit_alb_autor.png",[COLOR orange] AUTO MOTO TV [/COLOR]
+mms://100automoto.tv/100gaz
+#EXTINF:-1,[COLOR orange] C + LIGA HD [/COLOR]
+http://37.187.164.175:8080/11/globalsportsIPTV/22.ch
+ 
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO MUSICA [/COLOR]
+https://cld.pt/dl/download/cab7fe64-4ed4-44ab-89c8-135a1d5ecf88/Grupo%20Canais%20Musica.mp4
+#EXTINF:-1 tvg-logo="m6.png",[COLOR orange] M6 MUSIC [/COLOR]
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:-1 tvg-logo="dreamtv.png",[COLOR orange] DREAM TV [/COLOR]
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 1 [/COLOR][COLOR blue] HD [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 2 [/COLOR][COLOR blue] HD [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 3 [/COLOR][COLOR blue] HD [/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-logo="DANCEFLOOR.jpg",[COLOR orange] DANCEFLOOR [/COLOR][COLOR blue] HD [/COLOR]
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-logo="kiss tv music.png",[COLOR orange] KISS TV MUSIC [/COLOR]
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="polo_tv_pl_party.png",[COLOR orange] POLO PARTY TV [/COLOR]
+http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="polo_tv_pl_party.png",[COLOR orange] MTV DANCE [/COLOR]
+http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/558/index.m3u8
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO CARTOONS [/COLOR]
+https://cld.pt/dl/download/27257462-9374-493e-85fc-24c366648aae/Grupo%20Canais%20Cartoons.mp4
+#EXTINF:-1,[COLOR orange] DISNEY JUNIOR [/COLOR]
+http://pciptv.blogdns.com:34505/live/tallarico/tallarico/1409.ts
+
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO INTERNACIONAIS [/COLOR]
+https://cld.pt/dl/download/9f266e45-74a7-4ce4-823b-f7c6a7dc7f85/Grupo%20Canais%20Internacionais.mp4
+#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] CNN [/COLOR]
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] BLOOMBERG [/COLOR]
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] AZTECA NOTICIAS [/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-logo="proyecto 40.png",[COLOR orange] PROYECTO 40 [/COLOR]
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1 tvg-logo="Travel Channel.png",[COLOR orange] TRAVEL TV [/COLOR]
+rtmp://87.106.219.140/live//myStream_2
+#EXTINF:-1 tvg-logo="London-Live.png",[COLOR orange] LONDON LIVE [/COLOR][COLOR blue] HD [/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
+#EXTINF:-1 tvg-logo="abc_news_logo.jpg",[COLOR orange] ABC NEWS [/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
+#EXTINF:-1 tvg-logo="hitbox.png",[COLOR orange] HITBOX GAME PC [/COLOR][COLOR blue] HD [/COLOR]
+http://api.hitbox.tv/player/hls/ectvlol.m3u8
+
+#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO SEX 18+ [/COLOR]
+https://cld.pt/dl/download/7f623809-a06b-4e72-b19a-31d55c8932da/Grupo%20Canais%20Sex%2018%20%2B.mp4
+#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] CANDY TV [/COLOR][COLOR red] 18+ [/COLOR]
+http://cdn-01.bonus-tv.ru/TVB7/candy/track_1_1500/playlist.m3u8
+#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] BRAZZERS [/COLOR][COLOR red] 18+ [/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] OLALA [/COLOR][COLOR red] 18+ [/COLOR]
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] JUST SEX [/COLOR][COLOR red] 18+ [/COLOR]
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
