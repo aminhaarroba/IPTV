@@ -1,0 +1,574 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="Portugal-WebTV",ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="(PT) Portugal",ARTV | SD (PT)
+http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/ARTV.png" group-title="Portugal-WebTV",CANAL PARLAMENTO
+http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/44/Log%C3%B3tipo_da_r%C3%A1dio_Cidade.png" group-title="Portugal",CIDADE FM
+http://mcrwowza2.mcr.iol.pt/cidadefm/apple.sdp/chunklist_w1928988836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Portugal",FM O DIA
+http://c2901-slbps-sambavideos.akamaized.net/radio/FMoDiaAudio_14d480346fa04ebcb4f03173f2dae707/livestream/chunklist_w1559633248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Portugal",FM O DIA TV
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.kuriakos-tv.com/img/logo@2x.png group-title=" group-title="Portuguese (Português)",Kuriakos TV
+http://195.22.11.11:1935/ktv/ktv1/TeamBlue.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",LECA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+#EXTINF:-1 tvg-id="n/a" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="Portugal-WebTV",MACAU TV
+http://live4.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",NAZARE
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.freepik.com/foto-gratis/bandera-de-portugal_1401-202.jpg" group-title="PORTUGAL",PORTUGAL
+https://stream.vagalume.fm/hls/1478022035646498/aac.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PT: Portugal",PT: 100
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PT: Portugal",PT: ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/thumb_rtp1_positivo.jpg" group-title="Portugal-WebTV",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Portugal-WebTV",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RtpAcores.pt.png" group-title="Portuguese (Português)",RTP Acores
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RtpAfrica.pt.png" group-title="Portuguese (Português)",RTP Africa
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/Rtp1.pt.png" group-title="Portuguese (Português)",RTP Gravado
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RTPInternacional.pt.png" group-title="Portuguese (Português)",RTP Internacional
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net:80/liverepeater/rtpi_5ch120h264.stream/playlist.pt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RtpMadeira.pt.png" group-title="Portuguese (Português)",RTP Madeira
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RtpMemoria.pt.png" group-title="Portuguese (Português)",RTP Memoria
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="rtpn.pt" tvg-name="" tvg-logo="http://51.255.196.214/Logos/KodiPortugal/RTP3.png" group-title="Portugal-WebTV",RTP3
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV MANA
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Portugal",Vagalume Funk
+https://stream.vagalume.fm/hls/1470154922349875/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Portugal",Vagalume Pagode
+https://stream.vagalume.fm/hls/14619606471054026608/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/jNHeq6dAZUmpByumQKOdh2N64B2-i6Qwd-MlFysGxZPnF7pbktOcFLrOgTcN28g5Fa0=w300" group-title="Portugal",Vagalume Vibe
+https://stream.vagalume.fm/hls/14623883771774082279/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+U
+#EXTINF:-1,PT: 24 Kitchen FHD
+http://212.8.243.218:25461/sekai/sekai/36985
+#EXTINF:-1,PT: A Bola TV
+http://212.8.243.218:25461/sekai/sekai/36984
+#EXTINF:-1,PT: Afro Music Channel
+http://212.8.243.218:25461/sekai/sekai/36983
+#EXTINF:-1,PT: AMC
+http://212.8.243.218:25461/sekai/sekai/36982
+#EXTINF:-1,PT: AMC FHD
+http://212.8.243.218:25461/sekai/sekai/36981
+#EXTINF:-1,PT: ARTV Parlamento
+http://212.8.243.218:25461/sekai/sekai/36980
+#EXTINF:-1,PT: AXN Black
+http://212.8.243.218:25461/sekai/sekai/36979
+#EXTINF:-1,PT: AXN Black FHD
+http://212.8.243.218:25461/sekai/sekai/36978
+#EXTINF:-1,PT: AXN FHD
+http://212.8.243.218:25461/sekai/sekai/36977
+#EXTINF:-1,PT: AXN White
+http://212.8.243.218:25461/sekai/sekai/36976
+#EXTINF:-1,PT: AXN White FHD
+http://212.8.243.218:25461/sekai/sekai/36975
+#EXTINF:-1,PT: Baby TV
+http://212.8.243.218:25461/sekai/sekai/36974
+#EXTINF:-1,PT: BBC World News
+http://212.8.243.218:25461/sekai/sekai/36973
+#EXTINF:-1,PT: Blaze
+http://212.8.243.218:25461/sekai/sekai/36972
+#EXTINF:-1,PT: Bloomberg
+http://212.8.243.218:25461/sekai/sekai/36971
+#EXTINF:-1,PT: BOOMERANG
+http://212.8.243.218:25461/sekai/sekai/36970
+#EXTINF:-1,PT: BTV
+http://212.8.243.218:25461/sekai/sekai/36969
+#EXTINF:-1,PT: BTV FHD
+http://212.8.243.218:25461/sekai/sekai/36968
+#EXTINF:-1,PT: BTV HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36967
+#EXTINF:-1,PT: Caça e Pesca
+http://212.8.243.218:25461/sekai/sekai/36966
+#EXTINF:-1,PT: Caçavision
+http://212.8.243.218:25461/sekai/sekai/36965
+#EXTINF:-1,PT: Canal História
+http://212.8.243.218:25461/sekai/sekai/36964
+#EXTINF:-1,PT: Canal Panda
+http://212.8.243.218:25461/sekai/sekai/36963
+#EXTINF:-1,PT: Canal Q
+http://212.8.243.218:25461/sekai/sekai/36962
+#EXTINF:-1,PT: CBS Reality
+http://212.8.243.218:25461/sekai/sekai/36960
+#EXTINF:-1,PT: CineMundo
+http://212.8.243.218:25461/sekai/sekai/36959
+#EXTINF:-1,PT: CMTV
+http://212.8.243.218:25461/sekai/sekai/36958
+#EXTINF:-1,PT: CMTV FHD
+http://212.8.243.218:25461/sekai/sekai/36957
+#EXTINF:-1,PT: CNBC
+http://212.8.243.218:25461/sekai/sekai/36956
+#EXTINF:-1,PT: CNN
+http://212.8.243.218:25461/sekai/sekai/36955
+#EXTINF:-1,PT: Crime Investigation
+http://212.8.243.218:25461/sekai/sekai/36954
+#EXTINF:-1,PT: Discovery Channel
+http://212.8.243.218:25461/sekai/sekai/36953
+#EXTINF:-1,PT: Discovery Showcase FHD
+http://212.8.243.218:25461/sekai/sekai/36952
+#EXTINF:-1,PT: Disney Channel
+http://212.8.243.218:25461/sekai/sekai/36951
+#EXTINF:-1,PT: Disney Junior
+http://212.8.243.218:25461/sekai/sekai/36950
+#EXTINF:-1,PT: Dog TV FHD
+http://212.8.243.218:25461/sekai/sekai/36949
+#EXTINF:-1,PT: E! Entertainment
+http://212.8.243.218:25461/sekai/sekai/36948
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36947
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://212.8.243.218:25461/sekai/sekai/36946
+#EXTINF:-1,PT: Eleven Sports 1 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36945
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36944
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://212.8.243.218:25461/sekai/sekai/36943
+#EXTINF:-1,PT: Eleven Sports 2 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36942
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://212.8.243.218:25461/sekai/sekai/36941
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://212.8.243.218:25461/sekai/sekai/36940
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://212.8.243.218:25461/sekai/sekai/36939
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://212.8.243.218:25461/sekai/sekai/36938
+#EXTINF:-1,PT: Euronews
+http://212.8.243.218:25461/sekai/sekai/36937
+#EXTINF:-1,PT: Eurosport 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36936
+#EXTINF:-1,PT: Eurosport 2 HD
+http://212.8.243.218:25461/sekai/sekai/36935
+#EXTINF:-1,PT: Fashion TV
+http://212.8.243.218:25461/sekai/sekai/36934
+#EXTINF:-1,PT: Fight Network FHD
+http://212.8.243.218:25461/sekai/sekai/36933
+#EXTINF:-1,PT: Fine Living Network FHD
+http://212.8.243.218:25461/sekai/sekai/36932
+#EXTINF:-1,PT: Food Network FHD
+http://212.8.243.218:25461/sekai/sekai/36931
+#EXTINF:-1,PT: Fox Comedy
+http://212.8.243.218:25461/sekai/sekai/36930
+#EXTINF:-1,PT: Fox Comedy FHD
+http://212.8.243.218:25461/sekai/sekai/36929
+#EXTINF:-1,PT: Fox Crime
+http://212.8.243.218:25461/sekai/sekai/36928
+#EXTINF:-1,PT: Fox Crime FHD
+http://212.8.243.218:25461/sekai/sekai/36927
+#EXTINF:-1,PT: Fox FHD
+http://212.8.243.218:25461/sekai/sekai/36926
+#EXTINF:-1,PT: Fox Life
+http://212.8.243.218:25461/sekai/sekai/36925
+#EXTINF:-1,PT: Fox Life FHD
+http://212.8.243.218:25461/sekai/sekai/36924
+#EXTINF:-1,PT: Fox Movies
+http://212.8.243.218:25461/sekai/sekai/36923
+#EXTINF:-1,PT: Fox Movies FHD
+http://212.8.243.218:25461/sekai/sekai/36922
+#EXTINF:-1,PT: Fox News
+http://212.8.243.218:25461/sekai/sekai/36921
+#EXTINF:-1,PT: Fuel TV
+http://212.8.243.218:25461/sekai/sekai/36920
+#EXTINF:-1,PT: Fuel TV FHD
+http://212.8.243.218:25461/sekai/sekai/36919
+#EXTINF:-1,PT: Hollywood
+http://212.8.243.218:25461/sekai/sekai/36918
+#EXTINF:-1,PT: Hollywood FHD
+http://212.8.243.218:25461/sekai/sekai/36917
+#EXTINF:-1,PT: IConcerts FHD
+http://212.8.243.218:25461/sekai/sekai/36916
+#EXTINF:-1,PT: ID Investigation Discovery FHD
+http://212.8.243.218:25461/sekai/sekai/36915
+#EXTINF:-1,PT: Jim Jam
+http://212.8.243.218:25461/sekai/sekai/36914
+#EXTINF:-1,PT: Kombat Sport
+http://212.8.243.218:25461/sekai/sekai/36913
+#EXTINF:-1,PT: LocalVisao HD
+http://212.8.243.218:25461/sekai/sekai/36912
+#EXTINF:-1,PT: Luxe.TV FHD
+http://212.8.243.218:25461/sekai/sekai/36911
+#EXTINF:-1,PT: MCM Pop
+http://212.8.243.218:25461/sekai/sekai/36910
+#EXTINF:-1,PT: MCM Top
+http://212.8.243.218:25461/sekai/sekai/36909
+#EXTINF:-1,PT: Mezzo
+http://212.8.243.218:25461/sekai/sekai/36908
+#EXTINF:-1,PT: Motorvision HD
+http://212.8.243.218:25461/sekai/sekai/36907
+#EXTINF:-1,PT: MTV Portugal
+http://212.8.243.218:25461/sekai/sekai/36906
+#EXTINF:-1,PT: My Cuisinne
+http://212.8.243.218:25461/sekai/sekai/36905
+#EXTINF:-1,PT: Nat Geo
+http://212.8.243.218:25461/sekai/sekai/36904
+#EXTINF:-1,PT: Nat Geo FHD
+http://212.8.243.218:25461/sekai/sekai/36903
+#EXTINF:-1,PT: Nat Geo Wild
+http://212.8.243.218:25461/sekai/sekai/36902
+#EXTINF:-1,PT: Nat Geo Wild FHD
+http://212.8.243.218:25461/sekai/sekai/36901
+#EXTINF:-1,PT: NBA
+http://212.8.243.218:25461/sekai/sekai/36900
+#EXTINF:-1,PT: NBA FHD
+http://212.8.243.218:25461/sekai/sekai/36899
+#EXTINF:-1,PT: Nick JR.
+http://212.8.243.218:25461/sekai/sekai/36898
+#EXTINF:-1,PT: Nickelodeon
+http://212.8.243.218:25461/sekai/sekai/36897
+#EXTINF:-1,PT: NOS STUDIOS
+http://212.8.243.218:25461/sekai/sekai/36896
+#EXTINF:-1,PT: NRJ Hits
+http://212.8.243.218:25461/sekai/sekai/36895
+#EXTINF:-1,PT: Odisseia
+http://212.8.243.218:25461/sekai/sekai/36894
+#EXTINF:-1,PT: Outdoor Channel FHD
+http://212.8.243.218:25461/sekai/sekai/36893
+#EXTINF:-1,PT: Panda Biggs
+http://212.8.243.218:25461/sekai/sekai/36892
+#EXTINF:-1,PT: PFC
+http://212.8.243.218:25461/sekai/sekai/36891
+#EXTINF:-1,PT: Porto Canal
+http://212.8.243.218:25461/sekai/sekai/36890
+#EXTINF:-1,PT: Porto Canal FHD
+http://212.8.243.218:25461/sekai/sekai/36889
+#EXTINF:-1,PT: Real Madrid TV
+http://212.8.243.218:25461/sekai/sekai/36888
+#EXTINF:-1,PT: RTP 1
+http://212.8.243.218:25461/sekai/sekai/36887
+#EXTINF:-1,PT: RTP 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36886
+#EXTINF:-1,PT: RTP 2
+http://212.8.243.218:25461/sekai/sekai/36885
+#EXTINF:-1,PT: RTP 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36884
+#EXTINF:-1,PT: RTP 3
+http://212.8.243.218:25461/sekai/sekai/36883
+#EXTINF:-1,PT: RTP Açores
+http://212.8.243.218:25461/sekai/sekai/36882
+#EXTINF:-1,PT: RTP Africa
+http://212.8.243.218:25461/sekai/sekai/36881
+#EXTINF:-1,PT: RTP Madeira
+http://212.8.243.218:25461/sekai/sekai/36880
+#EXTINF:-1,PT: RTP Memoria
+http://212.8.243.218:25461/sekai/sekai/36879
+#EXTINF:-1,PT: S   HD
+http://212.8.243.218:25461/sekai/sekai/36878
+#EXTINF:-1,PT: Santuario Fatima
+http://212.8.243.218:25461/sekai/sekai/36877
+#EXTINF:-1,PT: SIC
+http://212.8.243.218:25461/sekai/sekai/36876
+#EXTINF:-1,PT: SIC Caras
+http://212.8.243.218:25461/sekai/sekai/36875
+#EXTINF:-1,PT: SIC Caras FHD
+http://212.8.243.218:25461/sekai/sekai/36874
+#EXTINF:-1,PT: SIC FHD
+http://212.8.243.218:25461/sekai/sekai/36873
+#EXTINF:-1,PT: Sic Kids
+http://212.8.243.218:25461/sekai/sekai/36872
+#EXTINF:-1,PT: SIC Mulher
+http://212.8.243.218:25461/sekai/sekai/36871
+#EXTINF:-1,PT: SIC Mulher FHD
+http://212.8.243.218:25461/sekai/sekai/36870
+#EXTINF:-1,PT: SIC Noticias
+http://212.8.243.218:25461/sekai/sekai/36869
+#EXTINF:-1,PT: SIC Noticias FHD
+http://212.8.243.218:25461/sekai/sekai/36868
+#EXTINF:-1,PT: SIC Radical
+http://212.8.243.218:25461/sekai/sekai/36867
+#EXTINF:-1,PT: SIC Radical FHD
+http://212.8.243.218:25461/sekai/sekai/36866
+#EXTINF:-1,PT: Sky News
+http://212.8.243.218:25461/sekai/sekai/36865
+#EXTINF:-1,PT: Sport TV
+http://212.8.243.218:25461/sekai/sekai/36864
+#EXTINF:-1,PT: Sport TV  FHD
+http://212.8.243.218:25461/sekai/sekai/36863
+#EXTINF:-1,PT: Sport TV 1
+http://212.8.243.218:25461/sekai/sekai/36862
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36861
+#EXTINF:-1,PT: Sport TV 1 HD
+http://212.8.243.218:25461/sekai/sekai/36860
+#EXTINF:-1,PT: Sport TV 1 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36859
+#EXTINF:-1,PT: Sport TV 2
+http://212.8.243.218:25461/sekai/sekai/36858
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36857
+#EXTINF:-1,PT: Sport TV 2 HD
+http://212.8.243.218:25461/sekai/sekai/36856
+#EXTINF:-1,PT: Sport TV 2 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36855
+#EXTINF:-1,PT: Sport TV 3
+http://212.8.243.218:25461/sekai/sekai/36854
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://212.8.243.218:25461/sekai/sekai/36853
+#EXTINF:-1,PT: Sport TV 3 HD
+http://212.8.243.218:25461/sekai/sekai/36852
+#EXTINF:-1,PT: Sport TV 4
+http://212.8.243.218:25461/sekai/sekai/36851
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://212.8.243.218:25461/sekai/sekai/36850
+#EXTINF:-1,PT: Sport TV 4 HD
+http://212.8.243.218:25461/sekai/sekai/36849
+#EXTINF:-1,PT: Sport TV 4K UHD
+http://212.8.243.218:25461/sekai/sekai/36848
+#EXTINF:-1,PT: Sport TV 5
+http://212.8.243.218:25461/sekai/sekai/36847
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://212.8.243.218:25461/sekai/sekai/36846
+#EXTINF:-1,PT: Sport TV 5 HD
+http://212.8.243.218:25461/sekai/sekai/36845
+#EXTINF:-1,PT: Sporting TV
+http://212.8.243.218:25461/sekai/sekai/36844
+#EXTINF:-1,PT: Sporting TV FHD
+http://212.8.243.218:25461/sekai/sekai/36843
+#EXTINF:-1,PT: SyFy
+http://212.8.243.218:25461/sekai/sekai/36842
+#EXTINF:-1,PT: SyFy FHD
+http://212.8.243.218:25461/sekai/sekai/36841
+#EXTINF:-1,PT: TLC
+http://212.8.243.218:25461/sekai/sekai/36840
+#EXTINF:-1,PT: Toros TV
+http://212.8.243.218:25461/sekai/sekai/36839
+#EXTINF:-1,PT: Trace&Urban
+http://212.8.243.218:25461/sekai/sekai/36838
+#EXTINF:-1,PT: Travel Channel FHD
+http://212.8.243.218:25461/sekai/sekai/36837
+#EXTINF:-1,PT: TV Globo NOW
+http://212.8.243.218:25461/sekai/sekai/36836
+#EXTINF:-1,PT: TV Globo Premium
+http://212.8.243.218:25461/sekai/sekai/36835
+#EXTINF:-1,PT: TV Record HD
+http://212.8.243.218:25461/sekai/sekai/36834
+#EXTINF:-1,PT: TVCine 1
+http://212.8.243.218:25461/sekai/sekai/36833
+#EXTINF:-1,PT: TVCine 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36832
+#EXTINF:-1,PT: TVCine 2
+http://212.8.243.218:25461/sekai/sekai/36831
+#EXTINF:-1,PT: TVCine 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36830
+#EXTINF:-1,PT: TVCine 3
+http://212.8.243.218:25461/sekai/sekai/36829
+#EXTINF:-1,PT: TVCine 3 FHD
+http://212.8.243.218:25461/sekai/sekai/36828
+#EXTINF:-1,PT: TVCine 4
+http://212.8.243.218:25461/sekai/sekai/36827
+#EXTINF:-1,PT: TVCine 4 FHD
+http://212.8.243.218:25461/sekai/sekai/36826
+#EXTINF:-1,PT: TVI
+http://212.8.243.218:25461/sekai/sekai/36825
+#EXTINF:-1,PT: TVI 24
+http://212.8.243.218:25461/sekai/sekai/36824
+#EXTINF:-1,PT: TVI FHD
+http://212.8.243.218:25461/sekai/sekai/36823
+#EXTINF:-1,PT: TVI Ficção
+http://212.8.243.218:25461/sekai/sekai/36822
+#EXTINF:-1,PT: TVI Reality
+http://212.8.243.218:25461/sekai/sekai/36821
+#EXTINF:-1,PT: TVI Reality Camara Exclusiva 1
+http://212.8.243.218:25461/sekai/sekai/36820
+#EXTINF:-1,PT: TVI Reality Camara Exclusiva 2
+http://212.8.243.218:25461/sekai/sekai/36819
+#EXTINF:-1,PT: TVI Reality Camara Exclusiva 3
+http://212.8.243.218:25461/sekai/sekai/36818
+#EXTINF:-1,PT: TVI Reality Camara Exclusiva 4
+http://212.8.243.218:25461/sekai/sekai/36817
+#EXTINF:-1,PT: TVI Reality Mosaico
+http://212.8.243.218:25461/sekai/sekai/36816
+#EXTINF:-1,PT: TVSéries
+http://212.8.243.218:25461/sekai/sekai/36815
+#EXTINF:-1,PT: TVSéries FHD
+http://212.8.243.218:25461/sekai/sekai/36814
+#EXTINF:-1,PT: VH1
+http://212.8.243.218:25461/sekai/sekai/36813
+#EXTINF:-1,PT: VH1 Classic
+http://212.8.243.218:25461/sekai/sekai/36812
+#EXTINF:-1,PT: ZAP VIVA HD
+http://212.8.243.218:25461/sekai/sekai/36811
+---------------------------------------------
+
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28659
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28658
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
+#EXTINF:-1,PT: Sporting TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28661
+#EXTINF:-1,PT: TV Galicia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28676
+#EXTINF:-1,PT: TV Globo Premium
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28679
+#EXTINF:-1,PT: TV Series HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28670
+#EXTINF:-1,PT: TV5 Monde
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28675
+#EXTINF:-1,PT: TVCine 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28674
+#EXTINF:-1,PT: TVCine 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28673
+#EXTINF:-1,PT: TVCine 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28672
+#EXTINF:-1,PT: TVCine 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28671
+#EXTINF:-1,PT: TVE International
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28678
+#EXTINF:-1,PT: TVE24 Horas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28677
+#EXTINF:-1,PT: TVI HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28662
+#EXTINF:-1,PT: SYFY HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28669
+#EXTINF:-1,PT: Sic Caras HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28687
+#EXTINF:-1,PT: Sic Mulher HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28686
+#EXTINF:-1,PT: Sic Noticias HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28688
+#EXTINF:-1,PT: Sic Radical HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28689
+#EXTINF:-1,PT: RTP 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28832
+#EXTINF:-1,PT: RTP Acores
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28682
+#EXTINF:-1,PT: RTP Africa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28685
+#EXTINF:-1,PT: RTP Madeira
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28684
+#EXTINF:-1,PT: RTP Memoria
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28683
+#EXTINF:-1,PT: Natgeo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28666
+#EXTINF:-1,PT: MTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28663
+#EXTINF:-1,PT: Travel Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28664
+#EXTINF:-1,PT: Sundance HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28667
+#EXTINF:-1,PT: Kombat Sports
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28692
+#EXTINF:-1,PT: Jim Jam HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28693
+#EXTINF:-1,PT: Hollywood HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28694
+#EXTINF:-1,PT: Fox Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28699
+#EXTINF:-1,PT: Fox Crime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28698
+#EXTINF:-1,PT: Fox Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28697
+#EXTINF:-1,PT: Fox Movies HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28696
+#EXTINF:-1,PT: Food Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28700
+#EXTINF:-1,PT: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28702
+#EXTINF:-1,PT: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28701
+#EXTINF:-1,PT: Discovery Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28705
+#EXTINF:-1,PT: Discovery Showcase
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28704
+#EXTINF:-1,PT: Disney Junior HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28703
+#EXTINF:-1,PT: Crime Investigation
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28665
+#EXTINF:-1,PT: CM TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28706
+#EXTINF:-1,PT: Cinemundo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28707
+#EXTINF:-1,PT: CBS Reality HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28708
+#EXTINF:-1,PT: Cartoon Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28709
+#EXTINF:-1,PT: Canal Panda
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28710
+#EXTINF:-1,PT: Benfica TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
+#EXTINF:-1,PT: Baby HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28712
+#EXTINF:-1,PT: AXN Black HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28714
+#EXTINF:-1,PT: AXN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28715
+#EXTINF:-1,PT: AXN White HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28713
+#EXTINF:-1,PT: AMC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28668
+#EXTINF:-1,PT: Local Visao TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28680
+#EXTINF:-1,PT: MCS Extreme
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28691
+#EXTINF:-1,PT: Motors HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28690
