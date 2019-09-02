@@ -1,4 +1,130 @@
 #EXTM3U
+
+
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28659
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28658
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
+#EXTINF:-1,PT: Sporting TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28661
+#EXTINF:-1,PT: TV Galicia
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28676
+#EXTINF:-1,PT: TV Globo Premium
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28679
+#EXTINF:-1,PT: TV Series HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28670
+#EXTINF:-1,PT: TV5 Monde
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28675
+#EXTINF:-1,PT: TVCine 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28674
+#EXTINF:-1,PT: TVCine 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28673
+#EXTINF:-1,PT: TVCine 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28672
+#EXTINF:-1,PT: TVCine 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28671
+#EXTINF:-1,PT: TVE International
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28678
+#EXTINF:-1,PT: TVE24 Horas
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28677
+#EXTINF:-1,PT: TVI HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28662
+#EXTINF:-1,PT: SYFY HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28669
+#EXTINF:-1,PT: Sic Caras HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28687
+#EXTINF:-1,PT: Sic Mulher HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28686
+#EXTINF:-1,PT: Sic Noticias HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28688
+#EXTINF:-1,PT: Sic Radical HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28689
+#EXTINF:-1,PT: RTP 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28832
+#EXTINF:-1,PT: RTP Acores
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28682
+#EXTINF:-1,PT: RTP Africa
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28685
+#EXTINF:-1,PT: RTP Madeira
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28684
+#EXTINF:-1,PT: RTP Memoria
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28683
+#EXTINF:-1,PT: Natgeo HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28666
+#EXTINF:-1,PT: MTV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28663
+#EXTINF:-1,PT: Travel Channel HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28664
+#EXTINF:-1,PT: Sundance HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28667
+#EXTINF:-1,PT: Kombat Sports
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28692
+#EXTINF:-1,PT: Jim Jam HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28693
+#EXTINF:-1,PT: Hollywood HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28694
+#EXTINF:-1,PT: Fox Comedy HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28699
+#EXTINF:-1,PT: Fox Crime HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28698
+#EXTINF:-1,PT: Fox Life HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28697
+#EXTINF:-1,PT: Fox Movies HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28696
+#EXTINF:-1,PT: Food Network
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28700
+#EXTINF:-1,PT: Eurosport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28702
+#EXTINF:-1,PT: Eurosport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28701
+#EXTINF:-1,PT: Discovery Channel
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28705
+#EXTINF:-1,PT: Discovery Showcase
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28704
+#EXTINF:-1,PT: Disney Junior HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28703
+#EXTINF:-1,PT: Crime Investigation
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28665
+#EXTINF:-1,PT: CM TV
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28706
+#EXTINF:-1,PT: Cinemundo
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28707
+#EXTINF:-1,PT: CBS Reality HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28708
+#EXTINF:-1,PT: Cartoon Network HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28709
+#EXTINF:-1,PT: Canal Panda
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28710
+#EXTINF:-1,PT: Benfica TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
+#EXTINF:-1,PT: Baby HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28712
+#EXTINF:-1,PT: AXN Black HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28714
+#EXTINF:-1,PT: AXN HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28715
+#EXTINF:-1,PT: AXN White HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28713
+#EXTINF:-1,PT: AMC HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28668
+#EXTINF:-1,PT: Local Visao TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28680
+#EXTINF:-1,PT: MCS Extreme
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28691
+#EXTINF:-1,PT: Motors HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28690
+
+
+
+-----------------------------------
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://3.bp.blogspot.com/-fmwFOCSFHRE/WVbriBZ6nLI/AAAAAAAAOYc/nyadJ4Lj610PGkyVW3uJNNTxkmtlt5xiQCLcBGAs/s320/ALL%2BSports.png" group-title="Portugal-WebTV",ALL SPORTS
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300" group-title="Portugal-WebTV",ARRIFANA
