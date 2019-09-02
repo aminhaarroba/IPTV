@@ -1,6 +1,322 @@
 #EXTM3U
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://fast.iptv.cab:80/kyu/kyu/6072
+#EXTINF:-1,PT: Sport TV 1
+http://fast.iptv.cab:80/kyu/kyu/494
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://fast.iptv.cab:80/kyu/kyu/6071
+#EXTINF:-1,PT: SPORT TV 2 FSD
+http://fast.iptv.cab:80/kyu/kyu/6070
+#EXTINF:-1,PT: Sport TV 2
+http://fast.iptv.cab:80/kyu/kyu/495
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://fast.iptv.cab:80/kyu/kyu/6069
+#EXTINF:-1,PT: SPORT TV 3 FSD
+http://fast.iptv.cab:80/kyu/kyu/6068
+#EXTINF:-1,PT: SPORT TV 3
+http://fast.iptv.cab:80/kyu/kyu/1097
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://fast.iptv.cab:80/kyu/kyu/6067
+#EXTINF:-1,PT: SPORT TV 4
+http://fast.iptv.cab:80/kyu/kyu/1098
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://fast.iptv.cab:80/kyu/kyu/6073
+#EXTINF:-1,PT: SPORT TV 5
+http://fast.iptv.cab:80/kyu/kyu/1099
+#EXTINF:-1,PT: SPORT TV+ FHD
+http://fast.iptv.cab:80/kyu/kyu/6066
+#EXTINF:-1,PT: SPORT TV+
+http://fast.iptv.cab:80/kyu/kyu/1199
+#EXTINF:-1,PT: SPORTING FHD
+http://fast.iptv.cab:80/kyu/kyu/6063
+#EXTINF:-1,PT: SPORTING TV
+http://fast.iptv.cab:80/kyu/kyu/1162
+#EXTINF:-1,PT: BTV FHD
+http://fast.iptv.cab:80/kyu/kyu/6065
+#EXTINF:-1,PT: Benfica TV 1
+http://fast.iptv.cab:80/kyu/kyu/1198
+#EXTINF:-1,PT: EUROSPORT1 FHD
+http://fast.iptv.cab:80/kyu/kyu/6062
+#EXTINF:-1,PT: EUROSPORT 1
+http://fast.iptv.cab:80/kyu/kyu/1161
+#EXTINF:-1,PT: EUROSPORT2 FHD
+http://fast.iptv.cab:80/kyu/kyu/6061
+#EXTINF:-1,PT: EUROSPORT 2
+http://fast.iptv.cab:80/kyu/kyu/1160
+#EXTINF:-1,PT: TOROS FHD
+http://fast.iptv.cab:80/kyu/kyu/6060
+#EXTINF:-1,PT: KOMBAT SPORT FHD
+http://fast.iptv.cab:80/kyu/kyu/6059
+#EXTINF:-1,PT: KOMBAT SPORT
+http://fast.iptv.cab:80/kyu/kyu/4768
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://fast.iptv.cab:80/kyu/kyu/17811
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://fast.iptv.cab:80/kyu/kyu/17809
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://fast.iptv.cab:80/kyu/kyu/17807
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://fast.iptv.cab:80/kyu/kyu/17806
+#EXTINF:-1,PT: RTP1
+http://fast.iptv.cab:80/kyu/kyu/1169
+#EXTINF:-1,PT: RTP2
+http://fast.iptv.cab:80/kyu/kyu/1168
+#EXTINF:-1,PT: RTP3
+http://fast.iptv.cab:80/kyu/kyu/1167
+#EXTINF:-1,PT: RTP MEMORIA
+http://fast.iptv.cab:80/kyu/kyu/1189
+#EXTINF:-1,PT: RTP MADEIRA
+http://fast.iptv.cab:80/kyu/kyu/2426
+#EXTINF:-1,PT: RTP AÇORES
+http://fast.iptv.cab:80/kyu/kyu/4777
+#EXTINF:-1,PT: RTP Africa
+http://fast.iptv.cab:80/kyu/kyu/4061
+#EXTINF:-1,PT: AFRO Music Channel
+http://fast.iptv.cab:80/kyu/kyu/4060
+#EXTINF:-1,PT: PORTO CANAL
+http://fast.iptv.cab:80/kyu/kyu/2427
+#EXTINF:-1,PT: TV CINE 1
+http://fast.iptv.cab:80/kyu/kyu/1176
+#EXTINF:-1,PT: TV CINE 2
+http://fast.iptv.cab:80/kyu/kyu/1175
+#EXTINF:-1,PT: TV CINE 3
+http://fast.iptv.cab:80/kyu/kyu/1174
+#EXTINF:-1,PT: TV CINE 4
+http://fast.iptv.cab:80/kyu/kyu/1173
+#EXTINF:-1,PT: CINE MUNDO
+http://fast.iptv.cab:80/kyu/kyu/3247
+#EXTINF:-1,PT: TVI
+http://fast.iptv.cab:80/kyu/kyu/1172
+#EXTINF:-1,PT: TV SERIES
+http://fast.iptv.cab:80/kyu/kyu/1177
+#EXTINF:-1,PT: TVI REALITY
+http://fast.iptv.cab:80/kyu/kyu/1171
+#EXTINF:-1,PT: TVI Ficcao
+http://fast.iptv.cab:80/kyu/kyu/807
+#EXTINF:-1,PT: TV RECORD
+http://fast.iptv.cab:80/kyu/kyu/1178
+#EXTINF:-1,PT: TVI 24
+http://fast.iptv.cab:80/kyu/kyu/1170
+#EXTINF:-1,PT: TV GLOBO
+http://fast.iptv.cab:80/kyu/kyu/1180
+#EXTINF:-1,PT: TV GLOBO PREMIUM
+http://fast.iptv.cab:80/kyu/kyu/1179
+#EXTINF:-1,PT: CM TV
+http://fast.iptv.cab:80/kyu/kyu/1191
+#EXTINF:-1,PT: A BOLA TV
+http://fast.iptv.cab:80/kyu/kyu/1192
+#EXTINF:-1,PT: SIC
+http://fast.iptv.cab:80/kyu/kyu/1166
+#EXTINF:-1,PT: SIC NOTICIAS
+http://fast.iptv.cab:80/kyu/kyu/1163
+#EXTINF:-1,PT: SIC MULHER
+http://fast.iptv.cab:80/kyu/kyu/1164
+#EXTINF:-1,PT: SIC CARAS
+http://fast.iptv.cab:80/kyu/kyu/3246
+#EXTINF:-1,PT: SIC KIDS
+http://fast.iptv.cab:80/kyu/kyu/1165
+#EXTINF:-1,PT: Sic Radical
+http://fast.iptv.cab:80/kyu/kyu/1190
+#EXTINF:-1,PT: Caçavision
+http://fast.iptv.cab:80/kyu/kyu/4774
+#EXTINF:-1,PT: Caza y Pesca
+http://fast.iptv.cab:80/kyu/kyu/4775
+#EXTINF:-1,PT: CANAL Q
+http://fast.iptv.cab:80/kyu/kyu/4782
+#EXTINF:-1,PT: CANAL PANDA
+http://fast.iptv.cab:80/kyu/kyu/1196
+#EXTINF:-1,PT: PANDA BIGGS
+http://fast.iptv.cab:80/kyu/kyu/4770
+#EXTINF:-1,PT: TPA Internacional
+http://fast.iptv.cab:80/kyu/kyu/3170
+#EXTINF:-1,PT: AXN
+http://fast.iptv.cab:80/kyu/kyu/1186
+#EXTINF:-1,PT: AXN WHITE
+http://fast.iptv.cab:80/kyu/kyu/1185
+#EXTINF:-1,PT: AXN BLACK
+http://fast.iptv.cab:80/kyu/kyu/1187
+#EXTINF:-1,PT: A&E
+http://fast.iptv.cab:80/kyu/kyu/4778
+#EXTINF:-1,PT: AMC HD
+http://fast.iptv.cab:80/kyu/kyu/3089
+#EXTINF:-1,PT: FOX
+http://fast.iptv.cab:80/kyu/kyu/1183
+#EXTINF:-1,PT: FOX MOVIES
+http://fast.iptv.cab:80/kyu/kyu/1181
+#EXTINF:-1,PT: FOX COMEDY
+http://fast.iptv.cab:80/kyu/kyu/1184
+#EXTINF:-1,PT: FOX LIFE
+http://fast.iptv.cab:80/kyu/kyu/1182
+#EXTINF:-1,PT: FOX CRIME
+http://fast.iptv.cab:80/kyu/kyu/1193
+#EXTINF:-1,PT: TLC
+http://fast.iptv.cab:80/kyu/kyu/1906
+#EXTINF:-1,PT: ODISSEIA
+http://fast.iptv.cab:80/kyu/kyu/1904
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://fast.iptv.cab:80/kyu/kyu/1909
+#EXTINF:-1,PT: DISCOVERY SHOWCASE HD
+http://fast.iptv.cab:80/kyu/kyu/4781
+#EXTINF:-1,PT: NAT GEO HD
+http://fast.iptv.cab:80/kyu/kyu/1902
+#EXTINF:-1,PT: NAT GEO WILD
+http://fast.iptv.cab:80/kyu/kyu/3088
+#EXTINF:-1,PT: CRIME INVESTIGASION
+http://fast.iptv.cab:80/kyu/kyu/4780
+#EXTINF:-1,PT: HISTORIA HD
+http://fast.iptv.cab:80/kyu/kyu/1903
+#EXTINF:-1,PT: E! ENTERTAINMENT
+http://fast.iptv.cab:80/kyu/kyu/1905
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://fast.iptv.cab:80/kyu/kyu/4779
+#EXTINF:-1,PT: SYFY
+http://fast.iptv.cab:80/kyu/kyu/1197
+#EXTINF:-1,PT: Hollywood
+http://fast.iptv.cab:80/kyu/kyu/1194
+#EXTINF:-1,PT: NICKELODEON
+http://fast.iptv.cab:80/kyu/kyu/1908
+#EXTINF:-1,PT: BABY TV
+http://fast.iptv.cab:80/kyu/kyu/4771
+#EXTINF:-1,PT: JIM JAM
+http://fast.iptv.cab:80/kyu/kyu/4772
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://fast.iptv.cab:80/kyu/kyu/1195
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://fast.iptv.cab:80/kyu/kyu/1907
+#EXTINF:-1,PT: FOOD NETWORK
+http://fast.iptv.cab:80/kyu/kyu/4776
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://fast.iptv.cab:80/kyu/kyu/3248
+#EXTINF:-1,PT: MTV PORTUGAL
+http://fast.iptv.cab:80/kyu/kyu/3087
 
 
+
+---------------------------------
+
+#EXTINF:-1,|PT| RTP 1 HD (L)
+http://fpro.webvps.de:25443/manning/manning/27823
+#EXTINF:-1,|PT| RTP MADEIRA (L)
+http://fpro.webvps.de:25443/manning/manning/27819
+#EXTINF:-1,|PT| A BOLA TV (L)
+http://fpro.webvps.de:25443/manning/manning/27727
+#EXTINF:-1,|PT| BTV 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27675
+#EXTINF:-1,|PT| CM TV
+http://fpro.webvps.de:25443/manning/manning/22303
+#EXTINF:-1,|PT| CMTV (L)
+http://fpro.webvps.de:25443/manning/manning/27804
+#EXTINF:-1,|PT| RECORD NEWS (L)
+http://fpro.webvps.de:25443/manning/manning/27698
+#EXTINF:-1,|PT| SIC (L)
+http://fpro.webvps.de:25443/manning/manning/27812
+#EXTINF:-1,|PT| SIC MULHER (L)
+http://fpro.webvps.de:25443/manning/manning/27809
+#EXTINF:-1,|PT| SIC NOTICIAS (L)
+http://fpro.webvps.de:25443/manning/manning/27808
+#EXTINF:-1,|PT| SIC NOTICIAS FULLHD (L) +
+http://fpro.webvps.de:25443/manning/manning/27807
+#EXTINF:-1,|PT| SIC RADICAL FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27805
+#EXTINF:-1,|PT| TOROS PT (L)
+http://fpro.webvps.de:25443/manning/manning/27670
+#EXTINF:-1,|PT| TV GLOBO (L)
+http://fpro.webvps.de:25443/manning/manning/27731
+#EXTINF:-1,|PT| TV RECORD (L)
+http://fpro.webvps.de:25443/manning/manning/27729
+#EXTINF:-1,|PT| TV5 MONDE (L)
+http://fpro.webvps.de:25443/manning/manning/27666
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://fpro.webvps.de:25443/manning/manning/39209
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://fpro.webvps.de:25443/manning/manning/39208
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://fpro.webvps.de:25443/manning/manning/39207
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://fpro.webvps.de:25443/manning/manning/39206
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://fpro.webvps.de:25443/manning/manning/39205
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://fpro.webvps.de:25443/manning/manning/39204
+#EXTINF:-1,|PT| SPORT TV  (L)
+http://fpro.webvps.de:25443/manning/manning/27683
+#EXTINF:-1,|PT| SPORT TV (L)
+http://fpro.webvps.de:25443/manning/manning/27696
+#EXTINF:-1,|PT| SPORT TV   FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27682
+#EXTINF:-1,|PT| SPORT TV 1 (L)
+http://fpro.webvps.de:25443/manning/manning/27694
+#EXTINF:-1,|PT| SPORT TV 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27681
+#EXTINF:-1,|PT| SPORT TV 2 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27680
+#EXTINF:-1,|PT| SPORT TV 3 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27679
+#EXTINF:-1,|PT| SPORT TV 4 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27678
+#EXTINF:-1,|PT| SPORT TV 5 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27677
+#EXTINF:-1,|PT| EUROSPORT 1 (L)
+http://fpro.webvps.de:25443/manning/manning/27714
+#EXTINF:-1,|PT| EUROSPORT 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27674
+#EXTINF:-1,|PT| Sporting TV FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27676
+#EXTINF:-1,|PT| FIGHT NETWORK FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27672
+#EXTINF:-1,|PT| TVCINE 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27779
+#EXTINF:-1,|PT| TVCINE 2 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27776
+#EXTINF:-1,|PT| TVCINE 3 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27773
+#EXTINF:-1,|PT| TVCINE 4 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27770
+#EXTINF:-1,|PT| FOX CRIME FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27787
+#EXTINF:-1,|PT| FOX CRIME HD (L)
+http://fpro.webvps.de:25443/manning/manning/27788
+#EXTINF:-1,|PT| CINE MUNDO (L)
+http://fpro.webvps.de:25443/manning/manning/27764
+#EXTINF:-1,|PT| HOLLYWOOD (L)
+http://fpro.webvps.de:25443/manning/manning/27765
+#EXTINF:-1,|PT| FOX Comedy FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27790
+#EXTINF:-1,|PT| FOX FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27785
+#EXTINF:-1,|PT| FOX HD (L)
+http://fpro.webvps.de:25443/manning/manning/27786
+#EXTINF:-1,|PT| FOX LIFE FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27783
+#EXTINF:-1,|PT| TLC (L)
+http://fpro.webvps.de:25443/manning/manning/27671
+#EXTINF:-1,|PT| SYFY FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27760
+#EXTINF:-1,|PT| AMC (L)
+http://fpro.webvps.de:25443/manning/manning/27800
+#EXTINF:-1,|PT| AMC FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27798
+#EXTINF:-1,|PT| AXN BLACK FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27794
+#EXTINF:-1,|PT| AXN FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27796
+#EXTINF:-1,|PT| AXN WHITE FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27792
+#EXTINF:-1,|PT| TVI (L)
+http://fpro.webvps.de:25443/manning/manning/27816
+#EXTINF:-1,|PT| TVI +
+http://fpro.webvps.de:25443/manning/manning/22313
+#EXTINF:-1,|PT| TVI 24 (L)
+http://fpro.webvps.de:25443/manning/manning/27815
+#EXTINF:-1,|PT| TVI Reality (A Quinta) (L)
+http://fpro.webvps.de:25443/manning/manning/27813
+#EXTINF:-1,|PT| Caca Pesca
+http://fpro.webvps.de:25443/manning/manning/22282
+#EXTINF:-1,|PT| CASA ET PESCA (L)
+http://fpro.webvps.de:25443/manning/manning/27751
+
+
+------------------------------
 #EXTINF:-1,PT: Sport  HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
 #EXTINF:-1,PT: Sport 1 HD
