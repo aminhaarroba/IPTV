@@ -7,7 +7,382 @@ rtmp://89.163.224.168:80/live/btv1
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+------------------------
 
+#EXTINF:-1 tvg-logo="https://www.atelevisao.com/wp-content/uploads/2019/02/RTP-1.png" group-title="Portugal",RTP 1
+
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://globalnews.pt/wp-content/uploads/2012/10/rtp2.jpg" group-title="Portugal",RTP 2
+
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2015/09/6kkaglv331l1wv592e6.jpg" group-title="Portugal",SIC
+
+http://live.impresa.pt/live/sic/sic540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://logos-vector.com/images/logo/mid/1/4/4/144768/Tvi_Televis_o_Indep_7b3a8_138x138.png" group-title="Portugal",TVI
+
+http://mediaptv1.zuneserver.com:8000/faria/idoso/2
+
+#EXTINF:-1 tvg-logo="https://tvi.iol.pt/img/2017/bck_tvireality.jpg" group-title="Portugal",Tvi Reality
+
+http://85.244.70.140:7000/play/a00x
+
+#EXTINF:-1 tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2017/06/bck_tvi24.jpg" group-title="Portugal",TVI 24
+
+http://noscdne.entrprise.tv:1935/cvo/tvi24.stream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://images-cdn.impresa.pt/caras/2017-01-06-0.jpg-15?v=w870h555" group-title="Portugal",SIC Noticias
+
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+
+#EXTINF:-1 tvg-logo="http://portocanal.sapo.pt/uploads/defaults/default-16x9.png" group-title="Portugal",PORTO CANAL
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/807
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/CMTV.jpg" group-title="Portugal",CM TV
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/326
+
+#EXTINF:-1 tvg-logo="https://kickoff.pt/wp-content/uploads/2017/08/a_bola_tv_kickoff_duarte-gomes.png" group-title="Portugal",A Bola TV
+
+http://mediaptv1.zuneserver.com:8000/faria/idoso/39
+
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BENFICA TV
+
+rtmp://89.163.224.168:80/live/btv1
+
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV HD
+
+
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/343
+
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/342
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 1
+
+rtmp://89.163.224.168:80/live/sporttv1
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 2
+
+rtmp://89.163.224.168:80/live/sporttv2
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 3
+
+rtmp://89.163.224.168:80/live/sporttv3
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 4
+
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 5
+
+rtmp://89.163.224.168:80/live/sporttv5
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 1
+
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/500.m3u8
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 2
+
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/499.m3u8
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 3
+
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/498.m3u8
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 4
+
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/497.m3u8
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 5
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/339
+
+#EXTINF:-1 tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2017/06/scp_00.jpg" group-title="Portugal",SPORTING TV
+
+http://mediaptv1.zuneserver.com:8000/faria/idoso/18
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 1
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 3
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14899
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 4
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14898
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14897
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14896
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="Portugal",EUROSPORT 1
+
+http://mediaptv1.zuneserver.com:8000/faria/idoso/204
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1150.1447433758.png" group-title="Portugal",EUROSPORT 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/806
+
+#EXTINF:-1 tvg-logo="https://www.centralcomics.com/wp-content/uploads/2017/05/LOGO-HOLLYWOOD.jpg" group-title="Portugal",HOLLYWOOD
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/580
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png" group-title="Portugal",TVC 1
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/327
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png" group-title="Portugal",TVC 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/328
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png" group-title="Portugal",TVC 3
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/334
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png" group-title="Portugal",TVC 4
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/335
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Portugal",AMC 
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/438
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tvs-brazil-logo-C79E178F57-seeklogo.com.png" group-title="Portugal",TVS
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/439
+
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="Portugal",FOXMOVIES
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/783
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/711_300.png" group-title="Portugal",FOXLIFE HD
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/701
+
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/CINEMUNDO.png" group-title="Portugal",CINEMUNDO
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/436
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1129296983078952960/Ed08rXAd_400x400.jpg" group-title="Portugal",FOXCRIME
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/329
+
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2018/01/FOX-Comedy-Portugal.jpg" group-title="Portugal",FOXCOMEDY
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/330
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_Channel_logo.png" group-title="Portugal",NAT. Geographic
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/348
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/926Jv-sjz54/maxresdefault.jpg" group-title="Portugal",DISCOVERY
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/349
+
+#EXTINF:-1 tvg-logo="https://quinto-canal.com/wp-content/uploads/2015/04/odisseia.jpg" group-title="Portugal",ODISSEIA
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/350
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/passion-xxx.png" group-title="Adult TV",PASSIONXXX
+
+http://publish.thewebstream.co:1935/ppv/_definst_/rampanttv_passionxxx/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/ctm-tm/008327595.JPG" group-title="Adult TV",FrenchLover
+
+http://91.204.234.3:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/bu0AAOSwaMpZpmyA/s-l300.jpg" group-title="Adult TV",STAR PORN
+
+rtmp://62.210.55.60/stream3xVJ/3x19
+
+#EXTINF:-1 tvg-logo="https://images.xbiz.com/images/news/242518/680x383.jpg/t/1551800886" group-title="Adult TV",EvilAngel
+
+rtmp://62.210.55.60/stream3xVJ/3x08
+
+#EXTINF:-1 tvg-logo="http://www.telepro.ru/upload/iblock/c59/c599ea239bfb0be85562693e4dd130d3.jpg" group-title="Adult TV",FREEX TV
+
+http://91.204.234.3:8000/play/a00p/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://freeweb.t-2.net/kibtu/logo/Balkan_Erotic.png" group-title="Adult TV",Balkan Erotic
+
+http://clientportal.stream:8080/doLSEQ5SUB/6oOkTjnPgQ/21281
+
+#EXTINF:-1 tvg-logo="https://dcassetcdn.com/design_img/368831/55332/55332_2984458_368831_image.jpg" group-title="Adult TV",SL Erotic HD
+
+http://predator-ott.com:8000/GJY19459/3WHJ6xHXf6/55055
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/41/0b/12/410b125aa16d4d6bd98182d5cc3afefe.png" group-title="Adult TV",BANGBROS
+
+http://portals.siptveu.com:8080/MartinGr/PqSyJCeUWH/40512
+
+#EXTINF:-1 tvg-logo="https://ntvplus.ru/files/image/01/18/05/17d.png" group-title="Adult TV",BarelyLegal
+
+http://live.eternaltv.net:25461/Cheetkb/1eIuf510Lz/35511
+
+#EXTINF:-1 tvg-logo="http://cdn.pichunter.com/341/1/3411547/3411547_4_o.jpg" group-title="Adult TV",ADULT
+
+http://sunatv.net:25461/12X102zx2/JAWFun5xIq/28585
+
+#EXTINF:-1 tvg-logo="https://cdn-images-1.listennotes.com/podcasts/bangcom-scuba-steve-y8mJPQE2qNX.1400x1400.jpg" group-title="Adult TV",BANG
+
+http://sunatv.net:25461/12X102zx2/JAWFun5xIq/28580
+
+#EXTINF:-1 tvg-logo="http://www.number1guru.com/adult/tv-logo/DreamPornTV.png" group-title="Adult TV",Dream Porn
+
+http://jazoora.net:8000/192527549057/5c0d5eba06355/2395
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/SzFiBBM.png" group-title="Adult TV",SCT classic
+
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1566
+
+#EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/MilfTV.PNG" group-title="Adult TV",Milf
+
+http://live.redtraffic.xyz/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://virtualrealporn.com/wp-content/uploads/sites/5/2017/01/slider-russian-shower.jpg" group-title="Adult TV",Russian
+
+http://live.redtraffic.xyz/russian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/dc/88/1a/dc881a45d6bce17869ea3545286daddd--on-demand-lots.jpg" group-title="Adult TV",POV
+
+http://live.redtraffic.xyz/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.trzcacak.rs/myfile/detail/11-119556_red-lips-kiss-png-transparent-clipart-image-lipstick.png" group-title="Adult TV",Hardcore
+
+http://live.redtraffic.xyz/hardcore.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.images.porntv.com/videos/0109/13653/main_2.jpg" group-title="Adult TV",Threesome
+
+http://live.redtraffic.xyz/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="http://lesbianbabez.com/media/uploads/lesbianbabes logo.png" group-title=",Lesbian
+
+http://live.redtraffic.xyz/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediav.porn.com/assets/logos/channels/0/3/3305/200.png" group-title="Adult TV",Fetish
+
+http://live.redtraffic.xyz/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.bigtitssexmovies.com/t1/assets/images/layout/logo.png" group-title="Adult TV",BigTits
+
+http://live.redtraffic.xyz/bigtits.m3u8
+
+#EXTINF:-1 tvg-logo="https://ebiza.info/images/2175905255_video-teen-porn.jpg" group-title="Adult TV",BigDick
+
+http://live.redtraffic.xyz/bigdick.m3u8
+
+#EXTINF:-1 tvg-logo="http://logodesignfx.com/wp-content/uploads/2019/04/porno-logo-1.png" 
+group-title=",InterRacial
+
+http://live.redtraffic.xyz/interracial.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.xxxbigasses.com/graphics/header_02.jpg" group-title=",BigAss
+
+http://live.redtraffic.xyz/bigass.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.muraldecal.com/en/img/asfs569-png/folder/products-detalle-png/stickers-porn-star-coloured.png" group-title="Adult TV",PornStar
+
+http://live.redtraffic.xyz/pornstar.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CH_atqXUAAAaSUs.jpg" group-title="Adult TV",Teen
+
+http://live.redtraffic.xyz/teen.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.latinateen.com/LatinaTeen.com - Free Latina Teen Porn Videos & Sex Movies_files/logo.png" group-title="Adult TV",Latina
+
+http://live.redtraffic.xyz/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn6.f-cdn.com/contestentries/343854/17511342/56b518ff93028_thumbCard.jpg" group-title="Adult TV",Cuckold
+
+http://live.redtraffic.xyz/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://ei.rdtcdn.com/media/pics/users/001/412/262/avatar48856227/logo_19f92982de1b00a5a7cf8307f1c704ac.png" group-title="Adult TV",Blowjob
+
+http://live.redtraffic.xyz/blowjob.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mrsexe.com/images/logo-mrsexe.png" group-title="Adult TV",Mr.SEX
+
+http://rocksat.ddns.net:25461/yah43cqc/nsgp8naw/28577
+
+#EXTINF:-1 tvg-logo="https://adult-channels.com/wp-content/uploads/2015/09/x-desire-tv.jpg" group-title="Adult TV",Xdesire
+
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1567
+
+#EXTINF:-1 tvg-logo="http://ideaventures.pl/wp-content/uploads/2017/03/STARS-XXX-TV-Logo-Transparent.png" group-title="Adult TV",XXX star
+
+http://bestiptv.info:8080/ayaj12_123/IrXmN8wiBL/154673
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/71/71746d5a474d9f82091dc1a7ed228424.png" group-title="Adult TV",Fakeagent
+
+http://tv.expatinternettv.xdns.pro:80/live/D0EHycp67/NdSasT66/25852.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeax0pM1yXoDBSIq2K8blZdmQi-4d02Fc0YeurT0VMuqb_aH3o" group-title="Adult TV",ALBAXXX HD 1
+
+http://landiptv.live:8080/uGsAz79Qh/v6t39W8Pga/99505
+
+#EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/Vivid_red.PNG" group-title="Adult TV",VIVIDRED
+
+http://rocksat.ddns.net:25461/yah43cqc/nsgp8naw/28598
+
+#EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/Vivid_Europe.PNG" group-title="Adult TV",VIVIDTV
+
+http://188.35.9.26:2031/udp/031a/
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2019/02/RealityKings-Logo.png" group-title="Adult TV",RealityKings
+
+http://iptv.rent:80/e3hzbnw42g/bqaq30hcpf/5502
+
+#EXTINF:-1 tvg-logo="https://penthousegold.com/assets/img/ph-logo1.png" group-title="Adult TV",Penthouse Gold
+
+http://212.111.17.130:8001/1:0:19:3727:C8E:3:EB0000:0:0:0:
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/19/e5/2e/19e52e15812a5a83923a178f1af5c169.jpg" group-title="Adult TV",HUSTLER HD
+
+http://iptv.rent:80/e3hzbnw42g/bqaq30hcpf/5508
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2019/06/Marc-Dorcel-logo-2011-2.jpg" group-title="Adult TV",Dorcel Tv
+
+http://mycodexiptv.com:80/martinnitram/l3svwwrfhj/5529
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSeax0pM1yXoDBSIq2K8blZdmQi-4d02Fc0YeurT0VMuqb_aH3o" group-title="Adult TV",ALBAXXX 2
+
+http://bestiptv.info:8080/live/ayaj12_123/IrXmN8wiBL/124000.ts
+
+#EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/Dorcel-XXX.png" group-title="Adult TV",DORCELXX TV
+
+http://bestiptv.info:8080/live/ayaj12_123/IrXmN8wiBL/209195.ts
+
+#EXTINF:-1 tvg-logo="http://number1guru.com/adult//tv-logo/Brazzers.png" group-title="Adult TV",Brazzers
+
+http://localhd.tv:8081/gueguin.cyrille/sosXqioS4I/1563
+
+#EXTINF:-1 tvg-logo="https://www.tgirls.porn/tour/custom_assets/images/logo.png" group-title="Adult TV",Trans
+
+rtmp://62.210.55.60/stream3xVJ/3x03
+
+#EXTINF:-1 tvg-logo="https://fi1.ypncdn.com/static/channel/logo/882545349.jpg" group-title="Adult TV",Trans 500
+
+rtmp://62.210.55.60/stream3xVJ/3x08
+
+#EXTINF:-1 tvg-logo="https://i-e-cdn.porn.com/assets/logos/channels/0/2/2163/200.png" group-title="Adult TV",MAX Cuckold
+
+rtmp://62.210.55.60/stream3xVJ/3x19
 ------------------------
 
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
@@ -511,397 +886,7 @@ http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8588.m3u8
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8589.m3u8
 #EXTINF:0,IT: Sky PRIMAFILA 15 HD
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8590.m3u8
-#EXTINF:0,501 Nation (Dangriga)
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/4536.m3u8
 
-
-
-#EXTINF:0,ASIA: Zee Bangla
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/520.m3u8
-#EXTINF:0,ASIA: Zee Bangla Cinema
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/521.m3u8
-#EXTINF:0,ASIA: Zee Bollywood
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/517.m3u8
-#EXTINF:0,ASIA: Zee Cinema HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/506.m3u8
-#EXTINF:0,ASIA: Zee Kannada HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/516.m3u8
-#EXTINF:0,ASIA: Zee Marathi HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/519.m3u8
-#EXTINF:0,ASIA: Zee TV Canada HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/501.m3u8
-#EXTINF:0,ASIA: Zee TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/500.m3u8
-#EXTINF:0,ASIA: Zee TV USA HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/502.m3u8
-#EXTINF:0,ASIA: Star Gold HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/499.m3u8
-#EXTINF:0,ASIA: Star Plus HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/493.m3u8
-#EXTINF:0,ASIA: PTC Punjabi
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/523.m3u8
-#EXTINF:0,ASIA: PTC Punjabi Chakde
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/524.m3u8
-#EXTINF:0,ASIA: PTC Punjabi News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/522.m3u8
-#EXTINF:0,ASIA: Punjabi Saab Gurbani
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/525.m3u8
-#EXTINF:0,ASIA: 9X Tashan
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/526.m3u8
-#EXTINF:0,ASIA: &Pictures HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/505.m3u8
-#EXTINF:0,ASIA: &TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/503.m3u8
-#EXTINF:0,ASIA: &TV USA HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/504.m3u8
-#EXTINF:0,ASIA: Colors HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/494.m3u8
-#EXTINF:0,ASIA: Colors Kannada HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/514.m3u8
-#EXTINF:0,ASIA: Udaya TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/515.m3u8
-#EXTINF:0,ASIA: News Malayalam
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/511.m3u8
-#EXTINF:0,ASIA: Flowers TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/513.m3u8
-#EXTINF:0,ASIA: Music India
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/510.m3u8
-#EXTINF:0,ASIA: B4U Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/509.m3u8
-#EXTINF:0,ASIA: NTV Houston
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/508.m3u8
-#EXTINF:0,ASIA: Manorama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/512.m3u8
-#EXTINF:0,ASIA: Sony Max 2 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/497.m3u8
-#EXTINF:0,ASIA: Sony Max IN HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/496.m3u8
-#EXTINF:0,ASIA: Sony Sab HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/498.m3u8
-#EXTINF:0,ASIA: Sony TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/495.m3u8
-#EXTINF:0,ASIA: Rishtey HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/507.m3u8
-#EXTINF:0,ASIA: B4U Movies
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5048.m3u8
-#EXTINF:0,ASIA: Bhakti TD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5052.m3u8
-#EXTINF:0,ASIA: Boss TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5053.m3u8
-#EXTINF:0,ASIA: BTVi
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5054.m3u8
-#EXTINF:0,ASIA: Captain News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5055.m3u8
-#EXTINF:0,ASIA: Captain TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5056.m3u8
-#EXTINF:0,ASIA: Cartoon Network Ind
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5058.m3u8
-#EXTINF:0,ASIA: Chutti TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5057.m3u8
-#EXTINF:0,ASIA: CNBC Awaaz
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5059.m3u8
-#EXTINF:0,ASIA: Colors Tamil
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5060.m3u8
-#EXTINF:0,ASIA: CVR Health
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5061.m3u8
-#EXTINF:0,ASIA: CVR News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5062.m3u8
-#EXTINF:0,ASIA: Dabangg TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5064.m3u8
-#EXTINF:0,ASIA: DAN Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5065.m3u8
-#EXTINF:0,ASIA: DAN News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5066.m3u8
-#EXTINF:0,ASIA: DAN Tamil
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5067.m3u8
-#EXTINF:0,ASIA: DD Bharti
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5068.m3u8
-#EXTINF:0,ASIA: DD Bihar
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5069.m3u8
-#EXTINF:0,ASIA: DD Chandana
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5070.m3u8
-#EXTINF:0,ASIA: DD India
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5071.m3u8
-#EXTINF:0,ASIA: DD Kisan
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5072.m3u8
-#EXTINF:0,ASIA: DD Madhya Pradesh
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5073.m3u8
-#EXTINF:0,ASIA: DD Malayalam
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5074.m3u8
-#EXTINF:0,ASIA: DD News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5075.m3u8
-#EXTINF:0,ASIA: DD Podhigai
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5076.m3u8
-#EXTINF:0,ASIA: DD Sapptagiri
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5077.m3u8
-#EXTINF:0,ASIA: DD Uttar Pradesh
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5078.m3u8
-#EXTINF:0,ASIA: Dhamaal TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5079.m3u8
-#EXTINF:0,ASIA: Dighvijay News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5080.m3u8
-#EXTINF:0,ASIA: DSport
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5063.m3u8
-#EXTINF:0,ASIA: Rishtey Cineplex
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5049.m3u8
-#EXTINF:0,ASIA: Star Bharat HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5050.m3u8
-#EXTINF:0,ASIA: Star Gold Select HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5051.m3u8
-#EXTINF:0,ASIA: Dilse
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5081.m3u8
-#EXTINF:0,ASIA: Divya
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5082.m3u8
-#EXTINF:0,ASIA: EET TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5083.m3u8
-#EXTINF:0,ASIA: Epic HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5084.m3u8
-#EXTINF:0,ASIA: ET Now
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5085.m3u8
-#EXTINF:0,ASIA: Fashion TV Midnite
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5086.m3u8
-#EXTINF:0,ASIA: Fashion TV Paris
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5087.m3u8
-#EXTINF:0,ASIA: Gemini Comedy
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5088.m3u8
-#EXTINF:0,ASIA: Gemini Life
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5089.m3u8
-#EXTINF:0,ASIA: Gemini Movies
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5090.m3u8
-#EXTINF:0,ASIA: Gemini Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5091.m3u8
-#EXTINF:0,ASIA: Gemini TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5092.m3u8
-#EXTINF:0,ASIA: HBO India
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5094.m3u8
-#EXTINF:0,ASIA: History TV 18
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5095.m3u8
-#EXTINF:0,ASIA: IBC 24
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5096.m3u8
-#EXTINF:0,ASIA: IBC Bakhti
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5097.m3u8
-#EXTINF:0,ASIA: IBC Comedy
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5098.m3u8
-#EXTINF:0,ASIA: IBC Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5099.m3u8
-#EXTINF:0,ASIA: IBC Tamil
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5100.m3u8
-#EXTINF:0,ASIA: ID Fashion
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5101.m3u8
-#EXTINF:0,ASIA: India News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5102.m3u8
-#EXTINF:0,ASIA: India Today
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5103.m3u8
-#EXTINF:0,ASIA: India TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5104.m3u8
-#EXTINF:0,ASIA: India Voice
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5105.m3u8
-#EXTINF:0,ASIA: Isaiaruvi
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5106.m3u8
-#EXTINF:0,ASIA: ITN
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5107.m3u8
-#EXTINF:0,ASIA: Jahind TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5108.m3u8
-#EXTINF:0,ASIA: Jana TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5110.m3u8
-#EXTINF:0,ASIA: Janam TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5109.m3u8
-#EXTINF:0,ASIA: Jaya Movies
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5111.m3u8
-#EXTINF:0,ASIA: Kadak Hits
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5116.m3u8
-#EXTINF:0,ASIA: Kairali TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5112.m3u8
-#EXTINF:0,ASIA: Kaumedy TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5113.m3u8
-#EXTINF:0,ASIA: KTV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5114.m3u8
-#EXTINF:0,ASIA: Kushi TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5115.m3u8
-#EXTINF:0,ASIA: Jaya Plus
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5123.m3u8
-#EXTINF:0,ASIA: Jaya TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5124.m3u8
-#EXTINF:0,ASIA: Maa Gold
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5121.m3u8
-#EXTINF:0,ASIA: Maa Movies
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5117.m3u8
-#EXTINF:0,ASIA: Maa TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5122.m3u8
-#EXTINF:0,ASIA: Malai Mursasu
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5118.m3u8
-#EXTINF:0,ASIA: Mastiii TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5125.m3u8
-#EXTINF:0,ASIA: Mirror Now
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5119.m3u8
-#EXTINF:0,ASIA: MK Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5120.m3u8
-#EXTINF:0,ASIA: NDTV India
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5126.m3u8
-#EXTINF:0,ASIA: News Nation
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5127.m3u8
-#EXTINF:0,ASIA: News World India
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5128.m3u8
-#EXTINF:0,ASIA: Poppataka
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5129.m3u8
-#EXTINF:0,ASIA: Raj Digital Plus
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5130.m3u8
-#EXTINF:0,ASIA: Raj Musix
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5132.m3u8
-#EXTINF:0,ASIA: Raj Musix Malayalam
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5131.m3u8
-#EXTINF:0,ASIA: Raj News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5133.m3u8
-#EXTINF:0,ASIA: Raj TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5134.m3u8
-#EXTINF:0,ASIA: Sony ESPN
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5135.m3u8
-#EXTINF:0,ASIA: Sony PIX
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5136.m3u8
-#EXTINF:0,ASIA: Sony Six
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5137.m3u8
-#EXTINF:0,ASIA: Star Pravah
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5144.m3u8
-#EXTINF:0,ASIA: Star Utsav
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5145.m3u8
-#EXTINF:0,ASIA: Star Vijay
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5138.m3u8
-#EXTINF:0,ASIA: Sun Life
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5139.m3u8
-#EXTINF:0,ASIA: Sun Music
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5140.m3u8
-#EXTINF:0,ASIA: Sun News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5141.m3u8
-#EXTINF:0,ASIA: Sun TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5142.m3u8
-#EXTINF:0,ASIA: Suriya TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5143.m3u8
-#EXTINF:0,ASIA: Tamil Comedy
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5158.m3u8
-#EXTINF:0,ASIA: Tamilian
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5146.m3u8
-#EXTINF:0,ASIA: Ten 1 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5147.m3u8
-#EXTINF:0,ASIA: Ten 2 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5148.m3u8
-#EXTINF:0,ASIA: Ten 3 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5149.m3u8
-#EXTINF:0,ASIA: Willow Cricket HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8544.m3u8
-#EXTINF:0,ASIA: Times Now
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5150.m3u8
-#EXTINF:0,ASIA: Total TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5151.m3u8
-#EXTINF:0,ASIA: TV Derana
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5153.m3u8
-#EXTINF:0,ASIA: TV5 News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5154.m3u8
-#EXTINF:0,ASIA: TV9 Kannada
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5152.m3u8
-#EXTINF:0,ASIA: TV9 Karnataka
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5155.m3u8
-#EXTINF:0,ASIA: TV9 News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5156.m3u8
-#EXTINF:0,ASIA: TV9 Telugu
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5157.m3u8
-#EXTINF:0,ASIA: Udaya Comedy
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5160.m3u8
-#EXTINF:0,ASIA: Udaya Movies
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5161.m3u8
-#EXTINF:0,ASIA: UNTV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5159.m3u8
-#EXTINF:0,ASIA: V6 News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5162.m3u8
-#EXTINF:0,ASIA: Vasanth
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5163.m3u8
-#EXTINF:0,ASIA: Vasantham TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5164.m3u8
-#EXTINF:0,ASIA: 92 News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5176.m3u8
-#EXTINF:0,ASIA: Aastha
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5177.m3u8
-#EXTINF:0,ASIA: ABP News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5178.m3u8
-#EXTINF:0,ASIA: Ahlulbay TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5179.m3u8
-#EXTINF:0,ASIA: Akaal Channel
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5180.m3u8
-#EXTINF:0,ASIA: ATN Bangla
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5181.m3u8
-#EXTINF:0,ASIA: Brit Asia
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5182.m3u8
-#EXTINF:0,ASIA: DUNYA News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5183.m3u8
-#EXTINF:0,ASIA: Geo Khani
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5184.m3u8
-#EXTINF:0,ASIA: Geo News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5185.m3u8
-#EXTINF:0,ASIA: Geo TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5186.m3u8
-#EXTINF:0,ASIA: Hum Masala
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5187.m3u8
-#EXTINF:0,ASIA: Iqra Bangla
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5189.m3u8
-#EXTINF:0,ASIA: Iqra TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5188.m3u8
-#EXTINF:0,ASIA: Islam Channel
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5190.m3u8
-#EXTINF:0,ASIA: Jus Punjabi
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5191.m3u8
-#EXTINF:0,ASIA: Medani Channel
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5192.m3u8
-#EXTINF:0,ASIA: New Vision TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5193.m3u8
-#EXTINF:0,ASIA: Noor TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5194.m3u8
-#EXTINF:0,ASIA: Samaa
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5195.m3u8
-#EXTINF:0,ASIA: Sangat
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5196.m3u8
-#EXTINF:0,ASIA: Sikh Channel
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5197.m3u8
-#EXTINF:0,ASIA: Sony Mix
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5198.m3u8
-#EXTINF:0,ASIA: Zee Action
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5165.m3u8
-#EXTINF:0,ASIA: Zee Anmol
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5166.m3u8
-#EXTINF:0,ASIA: Zee Business
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5167.m3u8
-#EXTINF:0,Asia: Zee Cafe
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5168.m3u8
-#EXTINF:0,ASIA: Zee Hindustan
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5170.m3u8
-#EXTINF:0,ASIA: Zee Kannada
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5169.m3u8
-#EXTINF:0,ASIA: Zee Keralam
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5171.m3u8
-#EXTINF:0,ASIA: Zee Madhya Pradesh
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5172.m3u8
-#EXTINF:0,ASIA: Zee Tamil
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5173.m3u8
-#EXTINF:0,ASIA: Zee Tulugu
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5174.m3u8
-#EXTINF:0,ASIA: Zee Yuva
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/5175.m3u8
-#EXTINF:0,ASIA: Ary Digital
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8532.m3u8
-#EXTINF:0,ASIA: Ary News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8531.m3u8
-#EXTINF:0,ASIA: Express Entertainment
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8530.m3u8
-#EXTINF:0,ASIA: HUM TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8529.m3u8
-#EXTINF:0,ASIA: PTV Bolan
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8525.m3u8
-#EXTINF:0,ASIA: PTV Global
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8526.m3u8
-#EXTINF:0,ASIA: PTV Home
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8527.m3u8
-#EXTINF:0,ASIA: PTV News
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8528.m3u8
-#EXTINF:0,ASIA: PTV Prime
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/8524.m3u8
 #EXTINF:0,NFL #1 | 
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37199.m3u8
 #EXTINF:0,NFL #2 | 
@@ -934,70 +919,7 @@ http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37212.m3u8
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37213.m3u8
 #EXTINF:0,NFL #16 | 
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/40297.m3u8
-#EXTINF:0,NFLT: Arizona Cardinals
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43355.m3u8
-#EXTINF:0,NFLT: Atlanta Falcons
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43356.m3u8
-#EXTINF:0,NFLT: Baltimore Ravens
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43357.m3u8
-#EXTINF:0,NFLT: Buffalo Bills
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43358.m3u8
-#EXTINF:0,NFLT: Carolina Panthers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43359.m3u8
-#EXTINF:0,NFLT: Chicago Bears
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43360.m3u8
-#EXTINF:0,NFLT: Cincinnati Bengals
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43361.m3u8
-#EXTINF:0,NFLT: Cleveland Browns
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43362.m3u8
-#EXTINF:0,NFLT: Dallas Cowboys
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43363.m3u8
-#EXTINF:0,NFLT: Denver Broncos
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43364.m3u8
-#EXTINF:0,NFLT: Detroit Lions
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43365.m3u8
-#EXTINF:0,NFLT: Green Bay Packers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43366.m3u8
-#EXTINF:0,NFLT: Houston Texans
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43367.m3u8
-#EXTINF:0,NFLT: Indianapolis Colts
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43368.m3u8
-#EXTINF:0,NFLT: Jacksonville Jaguars
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43369.m3u8
-#EXTINF:0,NFLT: Kansas City Chiefs
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43370.m3u8
-#EXTINF:0,NFLT: Los Angeles Chargers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43371.m3u8
-#EXTINF:0,NFLT: Los Angeles Rams
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43372.m3u8
-#EXTINF:0,NFLT: Miami Dolphins
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43373.m3u8
-#EXTINF:0,NFLT: Minnesota Vikings
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43374.m3u8
-#EXTINF:0,NFLT: New England Patriots
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43375.m3u8
-#EXTINF:0,NFLT: New York Giants
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43377.m3u8
-#EXTINF:0,NFLT: New York Jets
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43378.m3u8
-#EXTINF:0,NFLT: Oakland Raiders
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43379.m3u8
-#EXTINF:0,NFLT: Philadelphia Eagles
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43380.m3u8
-#EXTINF:0,NFLT: Pittsburgh Steelers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43381.m3u8
-#EXTINF:0,NFLT: Seattle Seahawks
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43383.m3u8
-#EXTINF:0,NFLT: Tampa Bay Buccaneers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43384.m3u8
-#EXTINF:0,NFLT: Tennessee Titans
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43385.m3u8
-#EXTINF:0,NFLT: Washington Redskins
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43386.m3u8
-#EXTINF:0,NFLT: New Orleans Saints
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43376.m3u8
-#EXTINF:0,NFLT: San Francisco 49ers
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/43382.m3u8
+
 #EXTINF:0,AR: Bein Sport 1 HD
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42529.m3u8
 #EXTINF:0,AR: Bein Sport 2 HD
@@ -1022,128 +944,7 @@ http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42538.m3u8
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42539.m3u8
 #EXTINF:0,AR: BeIN Sport 12
 http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42540.m3u8
-#EXTINF:0,AR: MBC 1 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/327.m3u8
-#EXTINF:0,AR: MBC 2 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/328.m3u8
-#EXTINF:0,AR: MBC 3 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/329.m3u8
-#EXTINF:0,AR: MBC 4 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/330.m3u8
-#EXTINF:0,AR: MBC Action HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/331.m3u8
-#EXTINF:0,AR: MBC Bollywood HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/332.m3u8
-#EXTINF:0,AR: MBC Drama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/333.m3u8
-#EXTINF:0,AR: MBC Masr HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/334.m3u8
-#EXTINF:0,AR: MBC Max HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/335.m3u8
-#EXTINF:0,AR: MBC+ Drama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/336.m3u8
-#EXTINF:0,AR: MBC+ Variety HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/337.m3u8
-#EXTINF:0,AR: Nile Cinema HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/338.m3u8
-#EXTINF:0,AR: Nile Comedy HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/339.m3u8
-#EXTINF:0,AR: Nile Culture HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/340.m3u8
-#EXTINF:0,AR: Nile Drama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/341.m3u8
-#EXTINF:0,AR: Nile Life HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/342.m3u8
-#EXTINF:0,AR: Nile News HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/343.m3u8
-#EXTINF:0,AR: CBC Drama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/311.m3u8
-#EXTINF:0,AR: CBC E HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/312.m3u8
-#EXTINF:0,AR: CBC Extra News HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/313.m3u8
-#EXTINF:0,AR: CBC Sofia HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/314.m3u8
-#EXTINF:0,AR: Rotana Aflam HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/416.m3u8
-#EXTINF:0,AR: Rotana Cinema HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/417.m3u8
-#EXTINF:0,AR: Rotana Classic HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/418.m3u8
-#EXTINF:0,AR: Rotana Drama HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/419.m3u8
-#EXTINF:0,AR: Rotana Khalijeah HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/420.m3u8
-#EXTINF:0,AR: Rotana Music HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/421.m3u8
-#EXTINF:0,AR: KTV 1 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/323.m3u8
-#EXTINF:0,AR: KTV 2 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/324.m3u8
-#EXTINF:0,AR: KTV Al Araby HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/325.m3u8
-#EXTINF:0,AR: KTV Al Ethraa HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/326.m3u8
-#EXTINF:0,AR: Saudi TV 1 HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/424.m3u8
-#EXTINF:0,AR: Saudi TV Enjazat HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/425.m3u8
-#EXTINF:0,AR: Saudi TV Quran HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/426.m3u8
-#EXTINF:0,AR: Saudi TV Sunnah HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/427.m3u8
-#EXTINF:0,AR: Sky News Arabia HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/429.m3u8
-#EXTINF:0,AR: Al Jazeera Arabic HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/306.m3u8
-#EXTINF:0,AR: Al Jazeera Documentary HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/307.m3u8
-#EXTINF:0,AR: Al Jazeera Mubasher HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/308.m3u8
-#EXTINF:0,AR: Al Jazeera News HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/309.m3u8
-#EXTINF:0,AR: Quran TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/415.m3u8
-#EXTINF:0,AR: Peace TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/344.m3u8
-#EXTINF:0,AR: Press TV HD
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/345.m3u8
-#EXTINF:0,AR: SNTV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/431.m3u8
-#EXTINF:0,AR: Universal TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/434.m3u8
-#EXTINF:0,AR: Kalsan TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/322.m3u8
-#EXTINF:0,AR: Horn Cable TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/319.m3u8
-#EXTINF:0,AR: Somali Cable TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/432.m3u8
-#EXTINF:0,AR: SLN TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/430.m3u8
-#EXTINF:0,AR: Puutland TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/346.m3u8
-#EXTINF:0,AR: Bulsho TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/310.m3u8
-#EXTINF:0,AR: RTN TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/422.m3u8
-#EXTINF:0,AR: Jubbaland TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/321.m3u8
-#EXTINF:0,AR: SBC TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/428.m3u8
-#EXTINF:0,AR: Saab TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/423.m3u8
-#EXTINF:0,AR: Galmudug TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/317.m3u8
-#EXTINF:0,AR: SRTV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/433.m3u8
-#EXTINF:0,AR: CNA TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/315.m3u8
-#EXTINF:0,AR: Goobjoog TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/318.m3u8
-#EXTINF:0,AR: Horyaal TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/320.m3u8
-#EXTINF:0,AR: Dacwa TV
-http://89.187.181.239:25461/live/RENO87/AaBbCc54321/316.m3u8
+
 
 
 ------------------------
@@ -1275,8 +1076,6 @@ http://fpro.webvps.de:25443/manning/manning/27675
 http://fpro.webvps.de:25443/manning/manning/22303
 #EXTINF:-1,|PT| CMTV (L)
 http://fpro.webvps.de:25443/manning/manning/27804
-#EXTINF:-1,|PT| RECORD NEWS (L)
-http://fpro.webvps.de:25443/manning/manning/27698
 #EXTINF:-1,|PT| SIC (L)
 http://fpro.webvps.de:25443/manning/manning/27812
 #EXTINF:-1,|PT| SIC MULHER (L)
@@ -1285,16 +1084,7 @@ http://fpro.webvps.de:25443/manning/manning/27809
 http://fpro.webvps.de:25443/manning/manning/27808
 #EXTINF:-1,|PT| SIC NOTICIAS FULLHD (L) +
 http://fpro.webvps.de:25443/manning/manning/27807
-#EXTINF:-1,|PT| SIC RADICAL FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27805
-#EXTINF:-1,|PT| TOROS PT (L)
-http://fpro.webvps.de:25443/manning/manning/27670
-#EXTINF:-1,|PT| TV GLOBO (L)
-http://fpro.webvps.de:25443/manning/manning/27731
-#EXTINF:-1,|PT| TV RECORD (L)
-http://fpro.webvps.de:25443/manning/manning/27729
-#EXTINF:-1,|PT| TV5 MONDE (L)
-http://fpro.webvps.de:25443/manning/manning/27666
+
 #EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
 http://fpro.webvps.de:25443/manning/manning/39209
 #EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
@@ -1341,36 +1131,7 @@ http://fpro.webvps.de:25443/manning/manning/27776
 http://fpro.webvps.de:25443/manning/manning/27773
 #EXTINF:-1,|PT| TVCINE 4 FULLHD (L)
 http://fpro.webvps.de:25443/manning/manning/27770
-#EXTINF:-1,|PT| FOX CRIME FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27787
-#EXTINF:-1,|PT| FOX CRIME HD (L)
-http://fpro.webvps.de:25443/manning/manning/27788
-#EXTINF:-1,|PT| CINE MUNDO (L)
-http://fpro.webvps.de:25443/manning/manning/27764
-#EXTINF:-1,|PT| HOLLYWOOD (L)
-http://fpro.webvps.de:25443/manning/manning/27765
-#EXTINF:-1,|PT| FOX Comedy FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27790
-#EXTINF:-1,|PT| FOX FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27785
-#EXTINF:-1,|PT| FOX HD (L)
-http://fpro.webvps.de:25443/manning/manning/27786
-#EXTINF:-1,|PT| FOX LIFE FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27783
-#EXTINF:-1,|PT| TLC (L)
-http://fpro.webvps.de:25443/manning/manning/27671
-#EXTINF:-1,|PT| SYFY FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27760
-#EXTINF:-1,|PT| AMC (L)
-http://fpro.webvps.de:25443/manning/manning/27800
-#EXTINF:-1,|PT| AMC FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27798
-#EXTINF:-1,|PT| AXN BLACK FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27794
-#EXTINF:-1,|PT| AXN FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27796
-#EXTINF:-1,|PT| AXN WHITE FULLHD (L)
-http://fpro.webvps.de:25443/manning/manning/27792
+
 #EXTINF:-1,|PT| TVI (L)
 http://fpro.webvps.de:25443/manning/manning/27816
 #EXTINF:-1,|PT| TVI +
@@ -1527,79 +1288,18 @@ http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/live
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/pt/RtpMemoria.pt.png" group-title="Portuguese (Português)",RTP Memoria
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
 
-
-#EXTINF:-1,PT: A Bola TV
-http://212.8.243.218:25461/sekai/sekai/36984
-#EXTINF:-1,PT: Afro Music Channel
-http://212.8.243.218:25461/sekai/sekai/36983
-#EXTINF:-1,PT: AMC
-http://212.8.243.218:25461/sekai/sekai/36982
-#EXTINF:-1,PT: AMC FHD
-http://212.8.243.218:25461/sekai/sekai/36981
-#EXTINF:-1,PT: ARTV Parlamento
-http://212.8.243.218:25461/sekai/sekai/36980
-#EXTINF:-1,PT: AXN Black
-http://212.8.243.218:25461/sekai/sekai/36979
-#EXTINF:-1,PT: AXN Black FHD
-http://212.8.243.218:25461/sekai/sekai/36978
-#EXTINF:-1,PT: AXN FHD
-http://212.8.243.218:25461/sekai/sekai/36977
-#EXTINF:-1,PT: AXN White
-http://212.8.243.218:25461/sekai/sekai/36976
-#EXTINF:-1,PT: AXN White FHD
-http://212.8.243.218:25461/sekai/sekai/36975
-#EXTINF:-1,PT: Baby TV
-http://212.8.243.218:25461/sekai/sekai/36974
-#EXTINF:-1,PT: BBC World News
-http://212.8.243.218:25461/sekai/sekai/36973
-#EXTINF:-1,PT: Blaze
-http://212.8.243.218:25461/sekai/sekai/36972
-#EXTINF:-1,PT: Bloomberg
-http://212.8.243.218:25461/sekai/sekai/36971
-#EXTINF:-1,PT: BOOMERANG
-http://212.8.243.218:25461/sekai/sekai/36970
 #EXTINF:-1,PT: BTV
 http://212.8.243.218:25461/sekai/sekai/36969
 #EXTINF:-1,PT: BTV FHD
 http://212.8.243.218:25461/sekai/sekai/36968
 #EXTINF:-1,PT: BTV HD (Low)
 http://212.8.243.218:25461/sekai/sekai/36967
-#EXTINF:-1,PT: Caça e Pesca
-http://212.8.243.218:25461/sekai/sekai/36966
-#EXTINF:-1,PT: Caçavision
-http://212.8.243.218:25461/sekai/sekai/36965
-#EXTINF:-1,PT: Canal História
-http://212.8.243.218:25461/sekai/sekai/36964
-#EXTINF:-1,PT: Canal Panda
-http://212.8.243.218:25461/sekai/sekai/36963
-#EXTINF:-1,PT: Canal Q
-http://212.8.243.218:25461/sekai/sekai/36962
-#EXTINF:-1,PT: CBS Reality
-http://212.8.243.218:25461/sekai/sekai/36960
-#EXTINF:-1,PT: CineMundo
-http://212.8.243.218:25461/sekai/sekai/36959
+
 #EXTINF:-1,PT: CMTV
 http://212.8.243.218:25461/sekai/sekai/36958
 #EXTINF:-1,PT: CMTV FHD
 http://212.8.243.218:25461/sekai/sekai/36957
-#EXTINF:-1,PT: CNBC
-http://212.8.243.218:25461/sekai/sekai/36956
-#EXTINF:-1,PT: CNN
-http://212.8.243.218:25461/sekai/sekai/36955
-#EXTINF:-1,PT: Crime Investigation
-http://212.8.243.218:25461/sekai/sekai/36954
-#EXTINF:-1,PT: Discovery Channel
-http://212.8.243.218:25461/sekai/sekai/36953
-#EXTINF:-1,PT: Discovery Showcase FHD
-http://212.8.243.218:25461/sekai/sekai/36952
-#EXTINF:-1,PT: Disney Channel
-http://212.8.243.218:25461/sekai/sekai/36951
-#EXTINF:-1,PT: Disney Junior
-http://212.8.243.218:25461/sekai/sekai/36950
-#EXTINF:-1,PT: Dog TV FHD
-http://212.8.243.218:25461/sekai/sekai/36949
-#EXTINF:-1,PT: E! Entertainment
-http://212.8.243.218:25461/sekai/sekai/36948
+
 #EXTINF:-1,PT: Eleven Sports 1 FHD
 http://212.8.243.218:25461/sekai/sekai/36947
 #EXTINF:-1,PT: Eleven Sports 1 HD
@@ -1620,72 +1320,7 @@ http://212.8.243.218:25461/sekai/sekai/36940
 http://212.8.243.218:25461/sekai/sekai/36939
 #EXTINF:-1,PT: Eleven Sports 6 FHD
 http://212.8.243.218:25461/sekai/sekai/36938
-#EXTINF:-1,PT: Euronews
-http://212.8.243.218:25461/sekai/sekai/36937
-#EXTINF:-1,PT: Eurosport 1 FHD
-http://212.8.243.218:25461/sekai/sekai/36936
-#EXTINF:-1,PT: Eurosport 2 HD
-http://212.8.243.218:25461/sekai/sekai/36935
-#EXTINF:-1,PT: Fashion TV
-http://212.8.243.218:25461/sekai/sekai/36934
-#EXTINF:-1,PT: Fight Network FHD
-http://212.8.243.218:25461/sekai/sekai/36933
-#EXTINF:-1,PT: Fine Living Network FHD
-http://212.8.243.218:25461/sekai/sekai/36932
-#EXTINF:-1,PT: Food Network FHD
-http://212.8.243.218:25461/sekai/sekai/36931
-#EXTINF:-1,PT: Fox Comedy
-http://212.8.243.218:25461/sekai/sekai/36930
-#EXTINF:-1,PT: Fox Comedy FHD
-http://212.8.243.218:25461/sekai/sekai/36929
-#EXTINF:-1,PT: Fox Crime
-http://212.8.243.218:25461/sekai/sekai/36928
-#EXTINF:-1,PT: Fox Crime FHD
-http://212.8.243.218:25461/sekai/sekai/36927
-#EXTINF:-1,PT: Fox FHD
-http://212.8.243.218:25461/sekai/sekai/36926
-#EXTINF:-1,PT: Fox Life
-http://212.8.243.218:25461/sekai/sekai/36925
-#EXTINF:-1,PT: Fox Life FHD
-http://212.8.243.218:25461/sekai/sekai/36924
-#EXTINF:-1,PT: Fox Movies
-http://212.8.243.218:25461/sekai/sekai/36923
-#EXTINF:-1,PT: Fox Movies FHD
-http://212.8.243.218:25461/sekai/sekai/36922
-#EXTINF:-1,PT: Fox News
-http://212.8.243.218:25461/sekai/sekai/36921
-#EXTINF:-1,PT: Fuel TV
-http://212.8.243.218:25461/sekai/sekai/36920
-#EXTINF:-1,PT: Fuel TV FHD
-http://212.8.243.218:25461/sekai/sekai/36919
-#EXTINF:-1,PT: Hollywood
-http://212.8.243.218:25461/sekai/sekai/36918
-#EXTINF:-1,PT: Hollywood FHD
-http://212.8.243.218:25461/sekai/sekai/36917
-#EXTINF:-1,PT: IConcerts FHD
-http://212.8.243.218:25461/sekai/sekai/36916
-#EXTINF:-1,PT: ID Investigation Discovery FHD
-http://212.8.243.218:25461/sekai/sekai/36915
-#EXTINF:-1,PT: Jim Jam
-http://212.8.243.218:25461/sekai/sekai/36914
-#EXTINF:-1,PT: Kombat Sport
-http://212.8.243.218:25461/sekai/sekai/36913
-#EXTINF:-1,PT: LocalVisao HD
-http://212.8.243.218:25461/sekai/sekai/36912
-#EXTINF:-1,PT: Luxe.TV FHD
-http://212.8.243.218:25461/sekai/sekai/36911
-#EXTINF:-1,PT: MCM Pop
-http://212.8.243.218:25461/sekai/sekai/36910
-#EXTINF:-1,PT: MCM Top
-http://212.8.243.218:25461/sekai/sekai/36909
-#EXTINF:-1,PT: Mezzo
-http://212.8.243.218:25461/sekai/sekai/36908
-#EXTINF:-1,PT: Motorvision HD
-http://212.8.243.218:25461/sekai/sekai/36907
-#EXTINF:-1,PT: MTV Portugal
-http://212.8.243.218:25461/sekai/sekai/36906
-#EXTINF:-1,PT: My Cuisinne
-http://212.8.243.218:25461/sekai/sekai/36905
+
 #EXTINF:-1,PT: Nat Geo
 http://212.8.243.218:25461/sekai/sekai/36904
 #EXTINF:-1,PT: Nat Geo FHD
@@ -1740,8 +1375,6 @@ http://212.8.243.218:25461/sekai/sekai/36880
 http://212.8.243.218:25461/sekai/sekai/36879
 #EXTINF:-1,PT: S   HD
 http://212.8.243.218:25461/sekai/sekai/36878
-#EXTINF:-1,PT: Santuario Fatima
-http://212.8.243.218:25461/sekai/sekai/36877
 #EXTINF:-1,PT: SIC
 http://212.8.243.218:25461/sekai/sekai/36876
 #EXTINF:-1,PT: SIC Caras
@@ -1760,12 +1393,6 @@ http://212.8.243.218:25461/sekai/sekai/36870
 http://212.8.243.218:25461/sekai/sekai/36869
 #EXTINF:-1,PT: SIC Noticias FHD
 http://212.8.243.218:25461/sekai/sekai/36868
-#EXTINF:-1,PT: SIC Radical
-http://212.8.243.218:25461/sekai/sekai/36867
-#EXTINF:-1,PT: SIC Radical FHD
-http://212.8.243.218:25461/sekai/sekai/36866
-#EXTINF:-1,PT: Sky News
-http://212.8.243.218:25461/sekai/sekai/36865
 #EXTINF:-1,PT: Sport TV
 http://212.8.243.218:25461/sekai/sekai/36864
 #EXTINF:-1,PT: Sport TV  FHD
@@ -1806,28 +1433,7 @@ http://212.8.243.218:25461/sekai/sekai/36847
 http://212.8.243.218:25461/sekai/sekai/36846
 #EXTINF:-1,PT: Sport TV 5 HD
 http://212.8.243.218:25461/sekai/sekai/36845
-#EXTINF:-1,PT: Sporting TV
-http://212.8.243.218:25461/sekai/sekai/36844
-#EXTINF:-1,PT: Sporting TV FHD
-http://212.8.243.218:25461/sekai/sekai/36843
-#EXTINF:-1,PT: SyFy
-http://212.8.243.218:25461/sekai/sekai/36842
-#EXTINF:-1,PT: SyFy FHD
-http://212.8.243.218:25461/sekai/sekai/36841
-#EXTINF:-1,PT: TLC
-http://212.8.243.218:25461/sekai/sekai/36840
-#EXTINF:-1,PT: Toros TV
-http://212.8.243.218:25461/sekai/sekai/36839
-#EXTINF:-1,PT: Trace&Urban
-http://212.8.243.218:25461/sekai/sekai/36838
-#EXTINF:-1,PT: Travel Channel FHD
-http://212.8.243.218:25461/sekai/sekai/36837
-#EXTINF:-1,PT: TV Globo NOW
-http://212.8.243.218:25461/sekai/sekai/36836
-#EXTINF:-1,PT: TV Globo Premium
-http://212.8.243.218:25461/sekai/sekai/36835
-#EXTINF:-1,PT: TV Record HD
-http://212.8.243.218:25461/sekai/sekai/36834
+
 #EXTINF:-1,PT: TVCine 1
 http://212.8.243.218:25461/sekai/sekai/36833
 #EXTINF:-1,PT: TVCine 1 FHD
@@ -1855,12 +1461,7 @@ http://212.8.243.218:25461/sekai/sekai/36823
 http://212.8.243.218:25461/sekai/sekai/36815
 #EXTINF:-1,PT: TVSéries FHD
 http://212.8.243.218:25461/sekai/sekai/36814
-#EXTINF:-1,PT: VH1
-http://212.8.243.218:25461/sekai/sekai/36813
-#EXTINF:-1,PT: VH1 Classic
-http://212.8.243.218:25461/sekai/sekai/36812
-#EXTINF:-1,PT: ZAP VIVA HD
-http://212.8.243.218:25461/sekai/sekai/36811
+
 ---------------------------------------------
 
 #EXTINF:-1,PT: Sport  HD
@@ -1875,16 +1476,6 @@ http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
 #EXTINF:-1,PT: Sport 5 HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
-#EXTINF:-1,PT: Sporting TV HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28661
-#EXTINF:-1,PT: TV Galicia
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28676
-#EXTINF:-1,PT: TV Globo Premium
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28679
-#EXTINF:-1,PT: TV Series HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28670
-#EXTINF:-1,PT: TV5 Monde
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28675
 #EXTINF:-1,PT: TVCine 1 HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28674
 #EXTINF:-1,PT: TVCine 2 HD
@@ -1893,93 +1484,11 @@ http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28673
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28672
 #EXTINF:-1,PT: TVCine 4 HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28671
-#EXTINF:-1,PT: TVE International
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28678
-#EXTINF:-1,PT: TVE24 Horas
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28677
-#EXTINF:-1,PT: TVI HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28662
-#EXTINF:-1,PT: SYFY HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28669
-#EXTINF:-1,PT: Sic Caras HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28687
-#EXTINF:-1,PT: Sic Mulher HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28686
-#EXTINF:-1,PT: Sic Noticias HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28688
-#EXTINF:-1,PT: Sic Radical HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28689
-#EXTINF:-1,PT: RTP 1 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28832
-#EXTINF:-1,PT: RTP Acores
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28682
-#EXTINF:-1,PT: RTP Africa
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28685
-#EXTINF:-1,PT: RTP Madeira
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28684
-#EXTINF:-1,PT: RTP Memoria
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28683
-#EXTINF:-1,PT: Natgeo HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28666
-#EXTINF:-1,PT: MTV HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28663
-#EXTINF:-1,PT: Travel Channel HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28664
-#EXTINF:-1,PT: Sundance HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28667
-#EXTINF:-1,PT: Kombat Sports
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28692
-#EXTINF:-1,PT: Jim Jam HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28693
-#EXTINF:-1,PT: Hollywood HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28694
-#EXTINF:-1,PT: Fox Comedy HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28699
-#EXTINF:-1,PT: Fox Crime HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28698
-#EXTINF:-1,PT: Fox Life HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28697
-#EXTINF:-1,PT: Fox Movies HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28696
-#EXTINF:-1,PT: Food Network
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28700
-#EXTINF:-1,PT: Eurosport 1 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28702
-#EXTINF:-1,PT: Eurosport 2 HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28701
-#EXTINF:-1,PT: Discovery Channel
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28705
-#EXTINF:-1,PT: Discovery Showcase
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28704
-#EXTINF:-1,PT: Disney Junior HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28703
-#EXTINF:-1,PT: Crime Investigation
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28665
+
+
 #EXTINF:-1,PT: CM TV
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28706
-#EXTINF:-1,PT: Cinemundo
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28707
-#EXTINF:-1,PT: CBS Reality HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28708
-#EXTINF:-1,PT: Cartoon Network HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28709
-#EXTINF:-1,PT: Canal Panda
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28710
+
 #EXTINF:-1,PT: Benfica TV HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
-#EXTINF:-1,PT: Baby HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28712
-#EXTINF:-1,PT: AXN Black HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28714
-#EXTINF:-1,PT: AXN HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28715
-#EXTINF:-1,PT: AXN White HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28713
-#EXTINF:-1,PT: AMC HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28668
-#EXTINF:-1,PT: Local Visao TV HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28680
-#EXTINF:-1,PT: MCS Extreme
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28691
-#EXTINF:-1,PT: Motors HD
-http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28690
+
