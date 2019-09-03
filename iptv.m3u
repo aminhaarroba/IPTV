@@ -2,16 +2,276 @@
 
 #EXTINF:0, Benfica TV
 rtmp://89.163.224.168:80/live/btv1
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BENFICA TV
+rtmp://89.163.224.168:80/live/btv1
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV HD
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/343
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/342
+
+
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26599
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26598
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://thepk.co:2086/bigt127/4161962/51484
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26578
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p29.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p30.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p02.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 
 #EXTINF:-1,PT| Sport TV 1 HD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16741.m3u8
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://vipgoldip.com:8080/cemali/20042018/68677
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 1
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/500.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26627
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://thepk.co:2086/bigt127/4161962/51428
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://tv.b4ucast.me/tv/7cTtkFd2m020180322/chunklist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://tv.b4ucast.me/tv/7cTtkFd2m020180322/playlist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p29.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=7867041283&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p02.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p07.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=3662107315&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+
+
 #EXTINF:-1,PT| Sport TV 2 HD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16740.m3u8
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://vipgoldip.com:8080/cemali/20042018/68678
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 2
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/499.m3u8
+
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://vipgoldip.com:8080/cemali/20042018/68679
 #EXTINF:-1,PT| Sport TV 3 FHD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16739.m3u8
-#EXTINF:-1,PT| Sport TV Plus  HD
-http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16738.m3u8
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 3
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/498.m3u8
 
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://vipgoldip.com:8080/cemali/20042018/68666
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 4
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 4
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/497.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 5
+rtmp://89.163.224.168:80/live/sporttv5
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 5
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/339
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://vipgoldip.com:8080/cemali/20042018/68680
+
+
+#EXTINF:-1 tvg-logo="https://is.gd/CtgQLN" group-title="Canais", CANAL 11 HD
+http://sl0.ddns.me:8000/namik77/77namik/203037#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26628
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://thepk.co:2086/bigt127/4161962/51427
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://tv.b4ucast.me/tv/X1cgbFLQIz20180322/chunklist_w179043672_tkaGxzZW5kdGltZT0xNTY2NjAyMjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZDh4WTF6OWk1WXRqakNreVhHY2hOUjFPVlpPR2RuTXZ1SENQWktvTGg4VT0=.m3u8
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26629
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://thepk.co:2086/bigt127/4161962/51426
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://thepk.co:2086/bigt127/4161962/51426
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26630
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
+http://thepk.co:2086/bigt127/4161962/51425
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26631
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
+http://thepk.co:2086/bigt127/4161962/51424
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS NETWORK [USA]
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148456
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS MOSAICO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148451
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148455
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148450
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://thepk.co:2086/bigt127/4161962/51472
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://thepk.co:2086/bigt127/4161962/51471
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148449
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148454
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://thepk.co:2086/bigt127/4161962/51470
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148448
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148453
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://thepk.co:2086/bigt127/4161962/51469
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148447
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148452
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
+http://thepk.co:2086/bigt127/4161962/51468
+XTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148446
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
+http://thepk.co:2086/bigt127/4161962/51467
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148445
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 1
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 3
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14899
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 4
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14898
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14897
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14896
+--- FILMES ----
+
+#EXTINF:-1,|PT| TV CINE 1
+http://vipgoldip.com:8080/cemali/20042018/68669
+#EXTINF:-1,|PT| TV GLOBO
+http://vipgoldip.com:8080/cemali/20042018/68670
+#EXTINF:-1,|PT| TVCINE  2
+http://vipgoldip.com:8080/cemali/20042018/68681
+#EXTINF:-1,|PT| TVCINE 3
+http://vipgoldip.com:8080/cemali/20042018/68671
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png" group-title="Portugal",TVC 1
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/327
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png" group-title="Portugal",TVC 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/328
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png" group-title="Portugal",TVC 3
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/334
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png" group-title="Portugal",TVC 4
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/335
+------VARIOS PT-------
+
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26564
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
+http://thepk.co:2086/bigt127/4161962/51439
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
+http://thepk.co:2086/bigt127/4161962/51438
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26563
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC
+http://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
+http://thepk.co:2086/bigt127/4161962/51432
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26558
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
+https://p29.quest123.top:8088/live/ficabruno/playlist.m3u8?id=98407&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
+http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
+http://thepk.co:2086/bigt127/4161962/51404
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/13278
+#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
+https://p29.quest123.top:8088/live/broxes/playlist.m3u8?id=98271&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+http://thepk.co:2086/bigt127/4161962/51477
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26590
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p07.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p29.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p11.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p03.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p30.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p30.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&wowzasessionid=7829489944&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
+https://p02.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&wowzasessionid=7829489944&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://is.gd/oTy7qg" group-title="Canais", A Bola TV
+http://thepk.co:2086/bigt127/4161962/51491
+#EXTINF:-1 tvg-logo="https://is.gd/oTy7qg" group-title="Canais", A Bola TV
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26604
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+https://p07.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+http://thepk.co:2086/bigt127/4161962/51405
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/13277
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+https://p29.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+https://p02.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
+https://p30.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
+http://thepk.co:2086/bigt127/4161962/51430
+#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26623
+#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
+https://p07.quest123.top:8088/live/motoratos/playlist.m3u8?id=92008&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
+https://p29.quest123.top:8088/live/motoratos/playlist.m3u8?id=92008&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD
@@ -58,87 +318,15 @@ http://iptvpro.vision-new.org:8789/hdm2/hdm123456/326
 
 http://mediaptv1.zuneserver.com:8000/faria/idoso/39
 
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BENFICA TV
-
-rtmp://89.163.224.168:80/live/btv1
-
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV HD
 
 
 
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/343
-
-#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/342
-
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 1
-
-rtmp://89.163.224.168:80/live/sporttv1
-
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 2
-
-rtmp://89.163.224.168:80/live/sporttv2
-
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 3
-
-rtmp://89.163.224.168:80/live/sporttv3
-
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 4
-
-https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
-
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 5
-
-rtmp://89.163.224.168:80/live/sporttv5
-
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 1
-
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/500.m3u8
-
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 2
-
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/499.m3u8
-
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 3
-
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/498.m3u8
-
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 4
-
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/497.m3u8
-
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 5
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/339
 
 #EXTINF:-1 tvg-logo="https://pplware.sapo.pt/wp-content/uploads/2017/06/scp_00.jpg" group-title="Portugal",SPORTING TV
 
 http://mediaptv1.zuneserver.com:8000/faria/idoso/18
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 1
 
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14901
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 2
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14895
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 3
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14899
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 4
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14898
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14897
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14896
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1447433721/1065.png" group-title="Portugal",EUROSPORT 1
 
@@ -152,21 +340,7 @@ http://iptvpro.vision-new.org:8789/hdm2/hdm123456/806
 
 http://iptvpro.vision-new.org:8789/hdm2/hdm123456/580
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png" group-title="Portugal",TVC 1
 
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/327
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/TVC2_2012.png" group-title="Portugal",TVC 2
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/328
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/TVC3_2012.png" group-title="Portugal",TVC 3
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/334
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png" group-title="Portugal",TVC 4
-
-http://iptvpro.vision-new.org:8789/hdm2/hdm123456/335
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Portugal",AMC 
 
@@ -394,78 +568,6 @@ rtmp://62.210.55.60/stream3xVJ/3x08
 rtmp://62.210.55.60/stream3xVJ/3x19
 ------------------------
 
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26564
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
-http://thepk.co:2086/bigt127/4161962/51439
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
-http://thepk.co:2086/bigt127/4161962/51438
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2016/05/thumb_rtp2_00.jpg" group-title="Canais", RTP 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26563
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC
-http://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
-http://thepk.co:2086/bigt127/4161962/51432
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26558
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/200px-LogoSICold.png" group-title="Canais", SIC HD
-https://p29.quest123.top:8088/live/ficabruno/playlist.m3u8?id=98407&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
-http://video-auth8.iol.pt/live_tvi/live_tvi/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
-http://thepk.co:2086/bigt127/4161962/51404
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/13278
-#EXTINF:-1 tvg-logo="https://userscontent2.emaze.com/images/cee862d6-4180-4291-89da-2bc18ee3c4d3/174ba0e3609278ec3360fa322cf12672.png" group-title="Canais", TVI
-https://p29.quest123.top:8088/live/broxes/playlist.m3u8?id=98271&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-http://thepk.co:2086/bigt127/4161962/51477
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26590
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p07.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p29.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p11.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p03.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p30.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p30.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&wowzasessionid=7829489944&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/b6ee0856d65e9a8f738535f1726c3bfb.png" group-title="Canais", CMTV
-https://p02.quest123.top:8088/live/cmtvdasogra/playlist.m3u8?id=109837&wowzasessionid=7829489944&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://is.gd/oTy7qg" group-title="Canais", A Bola TV
-http://thepk.co:2086/bigt127/4161962/51491
-#EXTINF:-1 tvg-logo="https://is.gd/oTy7qg" group-title="Canais", A Bola TV
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26604
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-https://p07.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-http://thepk.co:2086/bigt127/4161962/51405
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/13277
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-https://p29.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-https://p02.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/50/Tvi_24.png" group-title="Canais", TVI 24
-https://p30.quest123.top:8088/live/chupamagaita/playlist.m3u8?id=96334&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
-http://thepk.co:2086/bigt127/4161962/51430
-#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26623
-#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
-https://p07.quest123.top:8088/live/motoratos/playlist.m3u8?id=92008&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://is.gd/LCNrAP" group-title="Canais", SIC Notícias
-https://p29.quest123.top:8088/live/motoratos/playlist.m3u8?id=92008&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 #EXTINF:-1 tvg-logo="https://is.gd/xUSDhs" group-title="Canais", CACA E PESCA
 http://thepk.co:2086/bigt127/4161962/51481
 #EXTINF:-1 tvg-logo="http://picon.webhop.net/logo/portugal/mtv_us.png" group-title="Canais", MTV Music (HD)
@@ -554,100 +656,6 @@ https://nl2.streamlive.to/freeabr/rgewr32aaqxrx1t/rtmp/rgewr32aaqxrx1t/chunks.m3
 https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://is.gd/ZTpDo0" group-title="Canais", MLB-Network-(SD)
 https://nl2.streamlive.to/freeabr/c0t2kgg3mmjqq8b/rtmp/c0t2kgg3mmjqq8b/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://is.gd/CtgQLN" group-title="Canais", CANAL 11 HD
-http://sl0.ddns.me:8000/namik77/77namik/203037
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26627
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://thepk.co:2086/bigt127/4161962/51428
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://tv.b4ucast.me/tv/7cTtkFd2m020180322/chunklist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://tv.b4ucast.me/tv/7cTtkFd2m020180322/playlist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p29.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=7867041283&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p02.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p07.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=3662107315&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26628
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://thepk.co:2086/bigt127/4161962/51427
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://tv.b4ucast.me/tv/X1cgbFLQIz20180322/chunklist_w179043672_tkaGxzZW5kdGltZT0xNTY2NjAyMjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZDh4WTF6OWk1WXRqakNreVhHY2hOUjFPVlpPR2RuTXZ1SENQWktvTGg4VT0=.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26629
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://thepk.co:2086/bigt127/4161962/51426
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://thepk.co:2086/bigt127/4161962/51426
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26630
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
-http://thepk.co:2086/bigt127/4161962/51425
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26631
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
-http://thepk.co:2086/bigt127/4161962/51424
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS NETWORK [USA]
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148456
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS MOSAICO
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148451
-#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148455
-#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148450
-#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
-http://thepk.co:2086/bigt127/4161962/51472
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://thepk.co:2086/bigt127/4161962/51471
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148449
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148454
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://thepk.co:2086/bigt127/4161962/51470
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148448
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148453
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://thepk.co:2086/bigt127/4161962/51469
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148447
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148452
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
-http://thepk.co:2086/bigt127/4161962/51468
-XTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148446
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
-http://thepk.co:2086/bigt127/4161962/51467
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148445
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26599
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26598
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://thepk.co:2086/bigt127/4161962/51484
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26578
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p29.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p30.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p02.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 
 
 ________________________
