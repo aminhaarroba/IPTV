@@ -67,6 +67,22 @@ https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27
 #EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
 https://p02.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 
+
+#EXTINF:-1,SPORT PORTUGAL 1
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g6/tv1pt.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 2
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g1/sport2port.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 2
+https://sport7.biz/lba/YjU1MmJmNjJlY2Q3MmU1YWFjZDA1OTYzNTFjMDlkNDE=/g1/sport2port.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 3
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g2/pt3sport.m3u8
+#EXTINF:-1,SPORT PORTUGAL 3
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g2/pt3sport.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 4
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g4/portugalsport4.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 5
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g8/ptsport5.m3u8?
+
 #EXTINF:-1,PT| Sport TV 1 HD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16741.m3u8
 #EXTINF:-1,|PT| SPORT TV 1 HD
@@ -1545,4 +1561,81 @@ http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28706
 
 #EXTINF:-1,PT: Benfica TV HD
 http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
+----------------------
 
+#EXTINF:-1,ARENA SPORT 1
+https://sport7.biz/lba/M2YxNDI4YzU0Y2Y2Y2QxODI4NGNiMTExNTVmNGM5YmE=/g6/arena1rs.m3u8?
+#EXTINF:-1,ARENA SPORT 2
+https://sport7.biz/lba/M2YxNDI4YzU0Y2Y2Y2QxODI4NGNiMTExNTVmNGM5YmE=/g7/arena2sport.m3u8?
+#EXTINF:-1,ARENA SPORT 3
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g1/sportarena3rs.m3u8?
+#EXTINF:-1,ARENA SPORT 4
+https://sport7.biz/lba/NDllMTQ1NTc5ZTFiMzAwZWYxODM3ZWQzMWY4OGY2OWU=/g3/arenaserbia4.m3u8?
+#EXTINF:-1,ARENA SPORT 5
+https://sport7.biz/lba/NDllMTQ1NTc5ZTFiMzAwZWYxODM3ZWQzMWY4OGY2OWU=/g7/ar5sport.m3u8?
+#EXTINF:-1,SUPER SPORT 2
+https://sport7.biz/lba/MzE2NjhlNjU4OTIxZTBkY2JmZGQzZjc4N2QyZDYxNjA=/g2/ss2al.m3u8?
+#EXTINF:-1,SUPER SPORT 3
+https://sport7.biz/lba/MzE2NjhlNjU4OTIxZTBkY2JmZGQzZjc4N2QyZDYxNjA=/g8/albaniasport3.m3u8?
+#EXTINF:-1,SUPER SPORT 4
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g10/super4sport.m3u8?
+#EXTINF:-1,BEIN 1 TURCO
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,BEIN 6
+https://2222.janjua.pw:8088/live/beino6sij/playlist.m3u8?id=89696&wowzasessionid=08085129&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+https://2221.janjua.pw:8088/live/stream_bein7hz/playlist.m3u8?id=89708&wowzasessionid=3572804153&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 5
+https://2221.janjua.pw:8088/live/stream_bein5az/playlist.m3u8?id=89760&wowzasessionid=3878170579&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 10
+https://2223.janjua.pw:8088/live/beinsports10hdaz/playlist.m3u8?id=89761&wowzasessionid=341392429&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 2
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g4/turbein2sport.m3u8?
+#EXTINF:-1,BEIN 3
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,DIGI 1
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g4/ds1ro.m3u8?
+#EXTINF:-1,DIGI 2
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g7/digisport2ro.m3u8?
+#EXTINF:-1,DIGI 3
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g7/digi3ro.m3u8?
+#EXTINF:-1,DIGI 4
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g1/rodigi4.m3u8?
+#EXTINF:-1,ARENASPORT 1
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g6/arena1rs.m3u8?
+#EXTINF:-1,ARENASPORT 2
+https://sport7.biz/lba/NWEzNjNmNDNjNzFiNzliMTBiNWNlYzUxNjI2NDkwM2Y=/g7/arena2sport.m3u8
+#EXTINF:-1,ARENASPORT 3
+https://sport7.biz/lba/NDdjY2M3MGM1YWMzMWJlYjg1ODcwMDMyMzI5ODE4YWE=/g1/sportarena3rs.m3u8
+#EXTINF:-1,ARENASPORT 4
+https://sport7.biz/lba/MmRjNjY4MGZhOGI3ODA0ZDVmMmNjMzQ1Nzg2ZTkyMWI=/g3/arenaserbia4.m3u8?
+#EXTINF:-1,ARENASPORT 5
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g7/ar5sport.m3u8
+#EXTINF:-1,Supersport1ALBANIA
+http://cdn.videosofsport1.live/hls/h-fnijp_H82RSPRzSBrmqw/1565643901/supersport.m3u8
+#EXTINF:-1,Supersport2ALBANIA
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g2/ss2al.m3u8
+#EXTINF:-1,Supersport3ALBANIA 
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g8/albaniasport3.m3u8?                              #EXTINF:-1,Supersport4ALBANIA                                                             
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g10/super4sport.m3u8? 
+#EXTINF:-1,TSN 
+ https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g7/ca1tsn.m3u8?                          
+#EXTINF:-1,FUTBOL
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g3/rusfootball.m3u8
+#EXTINF:-1, MOSTVIDEO TV HD
+http://wow.stib.com.ua:1935/tv/ch1/chunklist_w1393915426_b125000.m3u8
+#EXTINF:-1,FighCANAL + SPORT HDtBox 
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1,CANAL + SPORT HD
+https://sport7.biz/lba/MTMzOTkzYjkzMzUwMTMzZTNmN2I4OGNlY2IzNzY2NjA=/g5/plcanalplus.m3u8
+#EXTINF:-1,BEINSPORTSESPAÑA
+https://sport7.biz/lba/OWNmYWI2YzI4ZTI4ODRhMmFhNDZlZmQ0MmVlOTY3NjE=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,PREMIER SPORTS HD
+http://cdn.videosofsport1.live/hls/Qcm648jM7wgCxLfmOyxB0Q/1565646546/premiersport.m3u8 
+#EXTINF:-1,Bein Sports 1 HD
+https://sport7.biz/lba/YjU1MmJmNjJlY2Q3MmU1YWFjZDA1OTYzNTFjMDlkNDE=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,Abu DhabiSports2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8                                        
+#EXTINF:-1,Abu DhabiSports1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8                                        
+#EXTINF:-1,Sony Ten 1
+http://tv.b4ucast.me/tv/D6ChDKJZMF20180322/chunklist_w1364358750_tkaGxzZW5kdGltZT0xNTY1NjQ4ODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9X1MxdllXdUM0TEhhTU43STVyaVpxUGhzaXhiaERqcWtJblJmZVpROWpidz0=.m3u8
