@@ -1,5 +1,43 @@
 #EXTM3U
 
+#EXTINF:-1,SPORT TV 1 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49568.ts
+#EXTINF:-1,SPORT TV 2 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49567.ts
+#EXTINF:-1,SPORT TV 3 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49566.ts
+#EXTINF:-1,SPORT TV 4 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49565.ts
+#EXTINF:-1,SPORT TV 5 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49564.ts
+#EXTINF:-1,BENFICA TV 1 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49557.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49563.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49562.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49561.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49560.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49559.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49558.ts
+#EXTINF:-1,ABOLA TV PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49555.ts
+#EXTINF:-1,SPORTING TV PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49556.ts
+#EXTINF:-1,TVCINE 1 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49554.ts
+#EXTINF:-1,TVCINE 2 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49553.ts
+#EXTINF:-1,TVCINE 3 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49552.ts
+#EXTINF:-1,TVCINE 4 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49551.ts
+
+
 #EXTINF:0, Benfica TV
 rtmp://89.163.224.168:80/live/btv1
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BENFICA TV
