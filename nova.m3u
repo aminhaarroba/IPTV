@@ -1,1895 +1,628 @@
 #EXTM3U
 
-#EXTINF:-1, NOVAAAAAA
-
-#EXTINF:-1,PT_SPORT_TV_1
-http://www.q7t1.com:8000/live/bk2/bk2/501.ts
-#EXTINF:-1,PT_SPORT_TV_2
-http://www.q7t1.com:8000/live/bk2/bk2/500.ts
-#EXTINF:-1,PT_SPORT_TV_2_HD
-http://www.q7t1.com:8000/live/bk2/bk2/503.ts
-#EXTINF:-1,PT_SPORT_TV_3
-http://www.q7t1.com:8000/live/bk2/bk2/1135.ts
-#EXTINF:-1,PT_SPORT_TV_4
-http://www.q7t1.com:8000/live/bk2/bk2/1136.ts
-#EXTINF:-1,PT_SPORT_TV_5
-http://www.q7t1.com:8000/live/bk2/bk2/1137.ts
-#EXTINF:-1,PT_BTV_1_HD
-http://www.q7t1.com:8000/live/bk2/bk2/807.ts
-#EXTINF:-1,PT_BTV_2_HD
-http://www.q7t1.com:8000/live/bk2/bk2/806.ts
-#EXTINF:-1,PT_SPORTING_TV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1141.ts
-#EXTINF:-1,PT_CINEMUNDO
-http://www.q7t1.com:8000/live/bk2/bk2/507.ts
-#EXTINF:-1,PT_HOLLYWOOD
-http://www.q7t1.com:8000/live/bk2/bk2/1144.ts
-#EXTINF:-1,PT_TVCINE_1_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1145.ts
-#EXTINF:-1,PT_TVCINE_2_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1146.ts
-#EXTINF:-1,PT_TVCINE_3_HD
-http://www.q7t1.com:8000/live/bk2/bk2/886.ts
-#EXTINF:-1,PT_TVCINE_4_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1147.ts
-#EXTINF:-1,PT_TV_SERIES
-http://www.q7t1.com:8000/live/bk2/bk2/1152.ts
-#EXTINF:-1,PT_FOX_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1149.ts
-#EXTINF:-1,PT_FOX_LIFE_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1150.ts
-#EXTINF:-1,PT_FOX_CRIME_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1151.ts
-#EXTINF:-1,PT_FOX_MOVIES
-http://www.q7t1.com:8000/live/bk2/bk2/1148.ts
-#EXTINF:-1,PT_AXN_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1812.ts
-#EXTINF:-1,PT_AXN_BLACK_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1156.ts
-#EXTINF:-1,PT_AXN_WHITE_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1155.ts
-#EXTINF:-1,PT_VEVO_1_HD
-http://www.q7t1.com:8000/live/bk2/bk2/424.ts
-#EXTINF:-1,PT_VEVO_3_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1175.ts
-#EXTINF:-1,PT_VEVO_2_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1174.ts
-#EXTINF:-1,PT_MTV_DANCE
-http://www.q7t1.com:8000/live/bk2/bk2/805.ts
-#EXTINF:-1,PT_KISS_TV
-http://www.q7t1.com:8000/live/bk2/bk2/809.ts
-#EXTINF:-1,PT_MOTORS_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1193.ts
-#EXTINF:-1,PT_DISNEY_CHANNEL
-http://www.q7t1.com:8000/live/bk2/bk2/1162.ts
-#EXTINF:-1,PT_DISNEY_JUNIOR
-http://www.q7t1.com:8000/live/bk2/bk2/1213.ts
-#EXTINF:-1,PT_CANAL_PANDA
-http://www.q7t1.com:8000/live/bk2/bk2/1165.ts
-#EXTINF:-1,PT_BIGGS
-http://www.q7t1.com:8000/live/bk2/bk2/1166.ts
-#EXTINF:-1,PT_SIC_K
-http://www.q7t1.com:8000/live/bk2/bk2/1164.ts
-#EXTINF:-1,PT_CARTOON_NETWORK
-http://www.q7t1.com:8000/live/bk2/bk2/1161.ts
-#EXTINF:-1,PT_SIC_RADICAL
-http://www.q7t1.com:8000/live/bk2/bk2/1159.ts
-#EXTINF:-1,PT_CANAL_HISTORIA
-http://www.q7t1.com:8000/live/bk2/bk2/1183.ts
-#EXTINF:-1,PT_NATIONAL_GEOGRAPHIC_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1184.ts
-#EXTINF:-1,PT_NAT_GEO_WILD
-http://www.q7t1.com:8000/live/bk2/bk2/1182.ts
-#EXTINF:-1,PT_24_KITCHEN_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1187.ts
-#EXTINF:-1,PT_BBC_WORLD_NEWS
-http://www.q7t1.com:8000/live/bk2/bk2/1376.ts
-#EXTINF:-1,PT_MTV_HITS
-http://www.q7t1.com:8000/live/bk2/bk2/1380.ts
-#EXTINF:-1,PT_TPA
-http://www.q7t1.com:8000/live/bk2/bk2/1383.ts
-#EXTINF:-1,PT_TV_GLOBO_PREMIUN
-http://www.q7t1.com:8000/live/bk2/bk2/1388.ts
-#EXTINF:-1,PT_BENFICATV_2
-http://www.q7t1.com:8000/live/bk2/bk2/1418.ts
-#EXTINF:-1,PT_SIC_CARAS
-http://www.q7t1.com:8000/live/bk2/bk2/1422.ts
-#EXTINF:-1,PT_ECONOMICO_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1424.ts
-#EXTINF:-1,PT_JIM_JAM
-http://www.q7t1.com:8000/live/bk2/bk2/1423.ts
-#EXTINF:-1,PT_ODISSEIA
-http://www.q7t1.com:8000/live/bk2/bk2/1401.ts
-#EXTINF:-1,PT_TRAVEL_CHANNEL
-http://www.q7t1.com:8000/live/bk2/bk2/1402.ts
-#EXTINF:-1,PT_SYFY
-http://www.q7t1.com:8000/live/bk2/bk2/1412.ts
-#EXTINF:-1,PT_MOV_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1404.ts
-#EXTINF:-1,PT_EUROSPORT
-http://www.q7t1.com:8000/live/bk2/bk2/1413.ts
-#EXTINF:-1,PT_CHEALSEA_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1415.ts
-#EXTINF:-1,PT_RTP_MEMORIA
-http://www.q7t1.com:8000/live/bk2/bk2/1410.ts
-#EXTINF:-1,PT_CACAVIZION
-http://www.q7t1.com:8000/live/bk2/bk2/1411.ts
-#EXTINF:-1,PT_FX
-http://www.q7t1.com:8000/live/bk2/bk2/1408.ts
-#EXTINF:-1,PT_BENFICATV_1HD
-http://www.q7t1.com:8000/live/bk2/bk2/1421.ts
-#EXTINF:-1,PT_REAL_MADRID_TV
-http://www.q7t1.com:8000/live/bk2/bk2/1416.ts
-#EXTINF:-1,PT_CNN
-http://www.q7t1.com:8000/live/bk2/bk2/1392.ts
-#EXTINF:-1,PT_TV_RECORD
-http://www.q7t1.com:8000/live/bk2/bk2/1393.ts
-#EXTINF:-1,PT_TV_GLOBO
-http://www.q7t1.com:8000/live/bk2/bk2/1390.ts
-#EXTINF:-1,PT_NICKELODEON
-http://www.q7t1.com:8000/live/bk2/bk2/1394.ts
-#EXTINF:-1,PT_TVCINE_5_HD
-http://www.q7t1.com:8000/live/bk2/bk2/1395.ts
+#EXTINF:-1,SPORT TV 1 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49568.ts
+#EXTINF:-1,SPORT TV 2 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49567.ts
+#EXTINF:-1,SPORT TV 3 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49566.ts
+#EXTINF:-1,SPORT TV 4 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49565.ts
+#EXTINF:-1,SPORT TV 5 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49564.ts
+#EXTINF:-1,BENFICA TV 1 PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49557.ts
+#EXTINF:-1,ELEVEN SPORTS 1 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49563.ts
+#EXTINF:-1,ELEVEN SPORTS 2 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49562.ts
+#EXTINF:-1,ELEVEN SPORTS 3 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49561.ts
+#EXTINF:-1,ELEVEN SPORTS 4 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49560.ts
+#EXTINF:-1,ELEVEN SPORTS 5 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49559.ts
+#EXTINF:-1,ELEVEN SPORTS 6 HD PT MOBILE
+http://ictv.io:80/live/UvW5HwdGbu/fbhsytxfve/49558.ts
 
 
 
-
-******************************************
-
-#EXTINF:-1,SPORT TV 1
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/71.ts
-#EXTINF:-1,SPORT TV 1 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/72.ts
-#EXTINF:-1,SPORT TV 2
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/73.ts
-#EXTINF:-1,SPORT TV 2 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/74.ts
-#EXTINF:-1,SPORT TV 3
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/75.ts
-#EXTINF:-1,SPORT TV 3 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/158.ts
-#EXTINF:-1,SPORT TV 4
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/76.ts
-#EXTINF:-1,SPORT TV 4 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/77.ts
-#EXTINF:-1,SPORT TV 5
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/78.ts
-#EXTINF:-1,SPORT TV 5 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/159.ts
-#EXTINF:-1,BENFICA TV 1
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/79.ts
-#EXTINF:-1,BENFICA TV 1 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/80.ts
-#EXTINF:-1,BENFICA TV 2
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/95.ts
-#EXTINF:-1,BENFICA TV 2 HD
-http://ruben-mota.mine.nu:9511/live/Adelino/Adelino/156.ts
-*****************************************************************************************
-
-#EXTINF:-1,SPORTV1 HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/34.ts 
-    #EXTINF:-1,SPORT TV 1
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/13.ts 
-    #EXTINF:-1,SPORT TV 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/14.ts 
-    #EXTINF:-1,Sporttv3
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/15.ts 
-    #EXTINF:-1,Sporttv4
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/16.ts 
-    #EXTINF:-1,Sport TV 5 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/17.ts 
-    #EXTINF:-1,BenficaTV 1 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/18.ts 
-    #EXTINF:-1,BenficaTv 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/19.ts 
-
-******************************************************************************************
-
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/7252.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="Portugal",PT: SPORT TV 1
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/676.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/7253.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="Portugal",PT: SPORT TV 2
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/675.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/7254.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="Portugal",PT: SPORT TV 3
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/674.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="Portugal",PT: SPORT TV 4
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/673.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="Portugal",PT: SPORT TV 5
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/672.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT HD" tvg-logo="" group-title="Portugal",PT: EUROSPORT HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/681.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 1" tvg-logo="" group-title="Portugal",PT: Eurosport 1
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/629.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="" group-title="Portugal",PT: EUROSPORT 2 HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/682.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Eurosport 2" tvg-logo="" group-title="Portugal",PT: Eurosport 2
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/628.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BARCA TV" tvg-logo="" group-title="Portugal",PT: BARCA TV
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BENFICA TV 1 HD" tvg-logo="" group-title="Portugal",PT: BENFICA TV 1 HD
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/728.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: BENFICA TV 1" tvg-logo="" group-title="Portugal",PT: BENFICA TV 1
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/727.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PT: Chelsea TV" tvg-logo="" group-title="Portugal",PT: Chelsea TV
-http://iptv.alphacs.tv:8080/live/nT5CsDfpz8/c7BH6Pv76U/630.ts
-
-**********************************************************************************************************
+#EXTINF:0, Benfica TV
+rtmp://89.163.224.168:80/live/btv1
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BENFICA TV
+rtmp://89.163.224.168:80/live/btv1
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV HD
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/343
+#EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/benfica-tv/logo/logo-btv/medium.jpg" group-title="Portugal",BTV
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/342
 
 
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26599
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26598
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://thepk.co:2086/bigt127/4161962/51484
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26578
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p29.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p30.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
+https://p02.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+
+
+#EXTINF:-1,SPORT PORTUGAL 1
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g6/tv1pt.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 2
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g1/sport2port.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 2
+https://sport7.biz/lba/YjU1MmJmNjJlY2Q3MmU1YWFjZDA1OTYzNTFjMDlkNDE=/g1/sport2port.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 3
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g2/pt3sport.m3u8
+#EXTINF:-1,SPORT PORTUGAL 3
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g2/pt3sport.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 4
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g4/portugalsport4.m3u8?
+#EXTINF:-1,SPORT PORTUGAL 5
+https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g8/ptsport5.m3u8?
+
+#EXTINF:-1,PT| Sport TV 1 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16741.m3u8
+#EXTINF:-1,|PT| SPORT TV 1 HD
+http://vipgoldip.com:8080/cemali/20042018/68677
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 1
+rtmp://89.163.224.168:80/live/sporttv1
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 1
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/500.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26627
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://thepk.co:2086/bigt127/4161962/51428
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://tv.b4ucast.me/tv/7cTtkFd2m020180322/chunklist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+http://tv.b4ucast.me/tv/7cTtkFd2m020180322/playlist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p29.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=7867041283&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p02.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p07.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
+https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=3662107315&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
+
+
+#EXTINF:-1,PT| Sport TV 2 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16740.m3u8
+#EXTINF:-1,|PT| SPORT TV 2 HD
+http://vipgoldip.com:8080/cemali/20042018/68678
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 2
+rtmp://89.163.224.168:80/live/sporttv2
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 2
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/499.m3u8
+
+#EXTINF:-1,|PT| SPORT TV 3 HD
+http://vipgoldip.com:8080/cemali/20042018/68679
+#EXTINF:-1,PT| Sport TV 3 FHD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16739.m3u8
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 3
+rtmp://89.163.224.168:80/live/sporttv3
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 3
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/498.m3u8
+
+#EXTINF:-1,|PT| SPORT TV 4 HD
+http://vipgoldip.com:8080/cemali/20042018/68666
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 4
+https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 4
+http://iptv.iptivihd.com:8000/live/KADIR/KADIR/497.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 5
+rtmp://89.163.224.168:80/live/sporttv5
+#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 5
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/339
+#EXTINF:-1,|PT| SPORT TV 5 HD
+http://vipgoldip.com:8080/cemali/20042018/68680
+
+
+#EXTINF:-1 tvg-logo="https://is.gd/CtgQLN" group-title="Canais", CANAL 11 HD
+http://sl0.ddns.me:8000/namik77/77namik/203037#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26628
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://thepk.co:2086/bigt127/4161962/51427
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
+http://tv.b4ucast.me/tv/X1cgbFLQIz20180322/chunklist_w179043672_tkaGxzZW5kdGltZT0xNTY2NjAyMjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZDh4WTF6OWk1WXRqakNreVhHY2hOUjFPVlpPR2RuTXZ1SENQWktvTGg4VT0=.m3u8
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26629
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://thepk.co:2086/bigt127/4161962/51426
+#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
+http://thepk.co:2086/bigt127/4161962/51426
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26630
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
+http://thepk.co:2086/bigt127/4161962/51425
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26631
+#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
+http://thepk.co:2086/bigt127/4161962/51424
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS NETWORK [USA]
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148456
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS MOSAICO
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148451
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148455
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148450
+#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
+http://thepk.co:2086/bigt127/4161962/51472
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://thepk.co:2086/bigt127/4161962/51471
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148449
+#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148454
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://thepk.co:2086/bigt127/4161962/51470
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148448
+#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148453
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://thepk.co:2086/bigt127/4161962/51469
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148447
+#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148452
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
+http://thepk.co:2086/bigt127/4161962/51468
+XTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148446
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
+http://thepk.co:2086/bigt127/4161962/51467
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
+http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148445
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 1
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14901
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 2
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14895
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 3
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14899
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 4
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14898
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14897
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
+
+http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14896
+#EXTINF:-1 tvg-logo="https://is.gd/nZ02QT" group-title="Canais", ESPN (SD)
+https://nl2.streamlive.to/freeabr/dp2g1w4ip6v0zoc/rtmp/dp2g1w4ip6v0zoc/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/tKnBSW" group-title="Canais", ESPN Deportes (HD)
+https://nl2.streamlive.to/freeabr/ey3dguh79p0av8u/rtmp/ey3dguh79p0av8u/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/Y7kfV2" group-title="Canais", Fox Sports 1
+https://nl2.streamlive.to/freeabr/qkitvw3mlxceccd/rtmp/qkitvw3mlxceccd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/JdgJvV" group-title="Canais", Fox Sports 2
+https://nl2.streamlive.to/freeabr/n1gxv56475khftq/rtmp/n1gxv56475khftq/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/B30Pk4" group-title="Canais", Fox News (SD)
+https://nl2.streamlive.to/freeabr/w0mr10getvsikam/rtmp/w0mr10getvsikam/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/ZfsPLh" group-title="Canais", ESPN 2 (SD)
+https://nl2.streamlive.to/freeabr/5hd19kwxef5b59o/rtmp/5hd19kwxef5b59o/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/sSije1" group-title="Canais", NBA-TV-(SD)
+https://nl2.streamlive.to/freeabr/rgewr32aaqxrx1t/rtmp/rgewr32aaqxrx1t/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/DHFj1l" group-title="Canais", NBC-Sport-Network-(SD)
+https://nl2.streamlive.to/freeabr/fwiiknwpnokjic9/rtmp/fwiiknwpnokjic9/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://is.gd/ZTpDo0" group-title="Canais", MLB-Network-(SD)
+https://nl2.streamlive.to/freeabr/c0t2kgg3mmjqq8b/rtmp/c0t2kgg3mmjqq8b/chunks.m3u8
+#EXTINF:0,SP: ESPN Deportes HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/534.m3u8
+#EXTINF:0,SP: Univision Deportes HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/651.m3u8
+
+________________________
+
+
+
+#EXTINF:0,NFL #1 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37199.m3u8
+#EXTINF:0,NFL #2 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37200.m3u8
+#EXTINF:0,NFL #3 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37201.m3u8
+#EXTINF:0,NFL #4 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37202.m3u8
+#EXTINF:0,NFL #5 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37203.m3u8
+#EXTINF:0,NFL #6 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37204.m3u8
+#EXTINF:0,NFL #7 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37205.m3u8
+#EXTINF:0,NFL #8 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37206.m3u8
+#EXTINF:0,NFL #9 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37207.m3u8
+#EXTINF:0,NFL #10 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37208.m3u8
+#EXTINF:0,NFL #11 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37209.m3u8
+#EXTINF:0,NFL #12 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37210.m3u8
+#EXTINF:0,NFL #13 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37211.m3u8
+#EXTINF:0,NFL #14 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37212.m3u8
+#EXTINF:0,NFL #15 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/37213.m3u8
+#EXTINF:0,NFL #16 | 
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/40297.m3u8
+
+#EXTINF:0,AR: Bein Sport 1 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42529.m3u8
+#EXTINF:0,AR: Bein Sport 2 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42530.m3u8
+#EXTINF:0,AR: Bein Sport 3 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42531.m3u8
+#EXTINF:0,AR: Bein Sport 4 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42532.m3u8
+#EXTINF:0,AR: Bein Sport 5 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42533.m3u8
+#EXTINF:0,AR: Bein Sport 6 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42534.m3u8
+#EXTINF:0,AR: Bein Sport 7 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42535.m3u8
+#EXTINF:0,AR: Bein Sport 8 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42536.m3u8
+#EXTINF:0,AR: Bein Sport 9 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42537.m3u8
+#EXTINF:0,AR: Bein Sport 10 HD
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42538.m3u8
+#EXTINF:0,AR: Bein Sport 11
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42539.m3u8
+#EXTINF:0,AR: BeIN Sport 12
+http://89.187.181.239:25461/live/RENO87/AaBbCc54321/42540.m3u8
+
+
+
+------------------------
+#EXTINF:-1,PT: SPORT TV 1 FHD
+http://fast.iptv.cab:80/kyu/kyu/6072
+#EXTINF:-1,PT: Sport TV 1
+http://fast.iptv.cab:80/kyu/kyu/494
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://fast.iptv.cab:80/kyu/kyu/6071
+#EXTINF:-1,PT: SPORT TV 2 FSD
+http://fast.iptv.cab:80/kyu/kyu/6070
+#EXTINF:-1,PT: Sport TV 2
+http://fast.iptv.cab:80/kyu/kyu/495
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://fast.iptv.cab:80/kyu/kyu/6069
+#EXTINF:-1,PT: SPORT TV 3 FSD
+http://fast.iptv.cab:80/kyu/kyu/6068
+#EXTINF:-1,PT: SPORT TV 3
+http://fast.iptv.cab:80/kyu/kyu/1097
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://fast.iptv.cab:80/kyu/kyu/6067
+#EXTINF:-1,PT: SPORT TV 4
+http://fast.iptv.cab:80/kyu/kyu/1098
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://fast.iptv.cab:80/kyu/kyu/6073
+#EXTINF:-1,PT: SPORT TV 5
+http://fast.iptv.cab:80/kyu/kyu/1099
+#EXTINF:-1,PT: SPORT TV+ FHD
+http://fast.iptv.cab:80/kyu/kyu/6066
+#EXTINF:-1,PT: SPORT TV+
+http://fast.iptv.cab:80/kyu/kyu/1199
+#EXTINF:-1,PT: SPORTING FHD
+http://fast.iptv.cab:80/kyu/kyu/6063
+#EXTINF:-1,PT: SPORTING TV
+http://fast.iptv.cab:80/kyu/kyu/1162
+#EXTINF:-1,PT: BTV FHD
+http://fast.iptv.cab:80/kyu/kyu/6065
+#EXTINF:-1,PT: Benfica TV 1
+http://fast.iptv.cab:80/kyu/kyu/1198
+#EXTINF:-1,PT: EUROSPORT1 FHD
+http://fast.iptv.cab:80/kyu/kyu/6062
+#EXTINF:-1,PT: EUROSPORT 1
+http://fast.iptv.cab:80/kyu/kyu/1161
+#EXTINF:-1,PT: EUROSPORT2 FHD
+http://fast.iptv.cab:80/kyu/kyu/6061
+#EXTINF:-1,PT: EUROSPORT 2
+http://fast.iptv.cab:80/kyu/kyu/1160
+#EXTINF:-1,PT: TOROS FHD
+http://fast.iptv.cab:80/kyu/kyu/6060
+#EXTINF:-1,PT: KOMBAT SPORT FHD
+http://fast.iptv.cab:80/kyu/kyu/6059
+#EXTINF:-1,PT: KOMBAT SPORT
+http://fast.iptv.cab:80/kyu/kyu/4768
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://fast.iptv.cab:80/kyu/kyu/17811
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://fast.iptv.cab:80/kyu/kyu/17809
+#EXTINF:-1,PT: Eleven Sports 3 HD
+http://fast.iptv.cab:80/kyu/kyu/17807
+#EXTINF:-1,PT: Eleven Sports 4 HD
+http://fast.iptv.cab:80/kyu/kyu/17806
+
+---------------------------------
+
+#EXTINF:-1,|PT| RTP 1 HD (L)
+http://fpro.webvps.de:25443/manning/manning/27823
+#EXTINF:-1,|PT| RTP MADEIRA (L)
+http://fpro.webvps.de:25443/manning/manning/27819
+#EXTINF:-1,|PT| A BOLA TV (L)
+http://fpro.webvps.de:25443/manning/manning/27727
+#EXTINF:-1,|PT| BTV 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27675
+#EXTINF:-1,|PT| CM TV
+http://fpro.webvps.de:25443/manning/manning/22303
+#EXTINF:-1,|PT| CMTV (L)
+http://fpro.webvps.de:25443/manning/manning/27804
+#EXTINF:-1,|PT| SIC (L)
+http://fpro.webvps.de:25443/manning/manning/27812
+#EXTINF:-1,|PT| SIC MULHER (L)
+http://fpro.webvps.de:25443/manning/manning/27809
+#EXTINF:-1,|PT| SIC NOTICIAS (L)
+http://fpro.webvps.de:25443/manning/manning/27808
+#EXTINF:-1,|PT| SIC NOTICIAS FULLHD (L) +
+http://fpro.webvps.de:25443/manning/manning/27807
+
+#EXTINF:-1,|PT| ELEVEN SPORTS 1 HD
+http://fpro.webvps.de:25443/manning/manning/39209
+#EXTINF:-1,|PT| ELEVEN SPORTS 2 HD
+http://fpro.webvps.de:25443/manning/manning/39208
+#EXTINF:-1,|PT| ELEVEN SPORTS 3 HD
+http://fpro.webvps.de:25443/manning/manning/39207
+#EXTINF:-1,|PT| ELEVEN SPORTS 4 HD
+http://fpro.webvps.de:25443/manning/manning/39206
+#EXTINF:-1,|PT| ELEVEN SPORTS 5 HD
+http://fpro.webvps.de:25443/manning/manning/39205
+#EXTINF:-1,|PT| ELEVEN SPORTS 6 HD
+http://fpro.webvps.de:25443/manning/manning/39204
+#EXTINF:-1,|PT| SPORT TV  (L)
+http://fpro.webvps.de:25443/manning/manning/27683
+#EXTINF:-1,|PT| SPORT TV (L)
+http://fpro.webvps.de:25443/manning/manning/27696
+#EXTINF:-1,|PT| SPORT TV   FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27682
+#EXTINF:-1,|PT| SPORT TV 1 (L)
+http://fpro.webvps.de:25443/manning/manning/27694
+#EXTINF:-1,|PT| SPORT TV 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27681
+#EXTINF:-1,|PT| SPORT TV 2 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27680
+#EXTINF:-1,|PT| SPORT TV 3 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27679
+#EXTINF:-1,|PT| SPORT TV 4 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27678
+#EXTINF:-1,|PT| SPORT TV 5 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27677
+#EXTINF:-1,|PT| EUROSPORT 1 (L)
+http://fpro.webvps.de:25443/manning/manning/27714
+#EXTINF:-1,|PT| EUROSPORT 1 FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27674
+#EXTINF:-1,|PT| Sporting TV FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27676
+#EXTINF:-1,|PT| FIGHT NETWORK FULLHD (L)
+http://fpro.webvps.de:25443/manning/manning/27672
 
 
 
 
+------------------------------
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28659
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28658
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
+#EXTINF:-1,PT: Benfica TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
 
 
 
+-----------------------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PT: Portugal",PT: 100
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PT: Portugal",PT: ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+
+#EXTINF:-1,PT: BTV
+http://212.8.243.218:25461/sekai/sekai/36969
+#EXTINF:-1,PT: BTV FHD
+http://212.8.243.218:25461/sekai/sekai/36968
+#EXTINF:-1,PT: BTV HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36967
 
 
+#EXTINF:-1,PT: Eleven Sports 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36947
+#EXTINF:-1,PT: Eleven Sports 1 HD
+http://212.8.243.218:25461/sekai/sekai/36946
+#EXTINF:-1,PT: Eleven Sports 1 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36945
+#EXTINF:-1,PT: Eleven Sports 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36944
+#EXTINF:-1,PT: Eleven Sports 2 HD
+http://212.8.243.218:25461/sekai/sekai/36943
+
+#EXTINF:-1,PT: Eleven Sports 3 FHD
+http://212.8.243.218:25461/sekai/sekai/36941
+#EXTINF:-1,PT: Eleven Sports 4 FHD
+http://212.8.243.218:25461/sekai/sekai/36940
+#EXTINF:-1,PT: Eleven Sports 5 FHD
+http://212.8.243.218:25461/sekai/sekai/36939
+#EXTINF:-1,PT: Eleven Sports 6 FHD
+http://212.8.243.218:25461/sekai/sekai/36938
+
+#EXTINF:-1,PT: NBA
+http://212.8.243.218:25461/sekai/sekai/36900
+#EXTINF:-1,PT: NBA FHD
+http://212.8.243.218:25461/sekai/sekai/36899
+#EXTINF:-1,PT: Real Madrid TV
+http://212.8.243.218:25461/sekai/sekai/36888
 
 
+#EXTINF:-1,PT: Sport TV
+http://212.8.243.218:25461/sekai/sekai/36864
+#EXTINF:-1,PT: Sport TV  FHD
+http://212.8.243.218:25461/sekai/sekai/36863
+#EXTINF:-1,PT: Sport TV 1
+http://212.8.243.218:25461/sekai/sekai/36862
+#EXTINF:-1,PT: Sport TV 1 FHD
+http://212.8.243.218:25461/sekai/sekai/36861
+#EXTINF:-1,PT: Sport TV 1 HD
+http://212.8.243.218:25461/sekai/sekai/36860
+#EXTINF:-1,PT: Sport TV 1 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36859
+#EXTINF:-1,PT: Sport TV 2
+http://212.8.243.218:25461/sekai/sekai/36858
+#EXTINF:-1,PT: Sport TV 2 FHD
+http://212.8.243.218:25461/sekai/sekai/36857
+#EXTINF:-1,PT: Sport TV 2 HD
+http://212.8.243.218:25461/sekai/sekai/36856
+#EXTINF:-1,PT: Sport TV 2 HD (Low)
+http://212.8.243.218:25461/sekai/sekai/36855
+#EXTINF:-1,PT: Sport TV 3
+http://212.8.243.218:25461/sekai/sekai/36854
+#EXTINF:-1,PT: Sport TV 3 FHD
+http://212.8.243.218:25461/sekai/sekai/36853
+#EXTINF:-1,PT: Sport TV 3 HD
+http://212.8.243.218:25461/sekai/sekai/36852
+#EXTINF:-1,PT: Sport TV 4
+http://212.8.243.218:25461/sekai/sekai/36851
+#EXTINF:-1,PT: Sport TV 4 FHD
+http://212.8.243.218:25461/sekai/sekai/36850
+#EXTINF:-1,PT: Sport TV 4 HD
+http://212.8.243.218:25461/sekai/sekai/36849
+#EXTINF:-1,PT: Sport TV 4K UHD
+http://212.8.243.218:25461/sekai/sekai/36848
+#EXTINF:-1,PT: Sport TV 5
+http://212.8.243.218:25461/sekai/sekai/36847
+#EXTINF:-1,PT: Sport TV 5 FHD
+http://212.8.243.218:25461/sekai/sekai/36846
+#EXTINF:-1,PT: Sport TV 5 HD
+http://212.8.243.218:25461/sekai/sekai/36845
 
-#EXTINF:-1 tvg-logo="HOME22.png",[COLOR violet] APRESENTAÇÃO [/COLOR]
-https://cld.pt/dl/download/c317645a-c5d7-4702-a477-5e753a720044/APRESENTA%C3%87%C3%83O.mp4
-#EXTINF:-1 tvg-logo="Rouge-TV.png",[COLOR red] + CANAIS ? [/COLOR][COLOR blue] CLICK AQUI [/COLOR]
-https://cld.pt/dl/download/c1105af5-2363-4ff4-9f5e-a62d28654723/Publicidade.mp4
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO TV PORTUGUESA [/COLOR]
-https://cld.pt/dl/download/1684cc2a-9815-4431-bb22-cf66d4f1d93c/Grupo%20Canais%20Portugueses.mp4
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="RTP 1.png",[COLOR orange] RTP 1 [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="RTP 2.png",[COLOR orange] RTP 2 [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch3h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3 pageUrl=http://www.rtp.pt/play/direto/rtp2?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP INTERNACIONAL [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpinternacional?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="RTPi.pt" tvg-logo="RTP INTERNACIONAL.png",[COLOR orange] RTP 3 [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch64h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp3?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-logo="RTP AFRICA.png",[COLOR orange] RTP ÁFRICA [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch27h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpafrica?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="rtpmemoria.pt"tvg-logo="RTP MEMORIA.png",[COLOR orange] RTP MEMÓRIA [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch80h264 swfUrl=http://www.rtp.pt/play/player.swf?v3 live=1 pageUrl=http://www.rtp.pt/play/direto/rtpmemoria?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP MADEIRA [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtpmadeira?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="rtpn.pt" tvg-logo="RTP INFORMAÇÃO.png",[COLOR orange] RTP AÇORES [/COLOR]
-rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2rtpacores swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtprtpacores?mag swfVfy=1 live=1 timeout=15
-#EXTINF:-1 tvg-id="sic.pt" tvg-logo="SIC.png",[COLOR orange] SIC [/COLOR]
-http://84.75.246.171:8000/play/a00i
-#EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="SIC NOTICIAS.png",[COLOR orange] SIC NOTÍCIAS [/COLOR]
-http://84.75.246.171:8000/play/a00f
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="TVI.png",[COLOR orange] TVI [/COLOR]
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-logo="TVI 24.png",[COLOR orange] TVI 24 [/COLOR]
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:-1 tvg-id="TPA" tvg-logo="TPA.png",[COLOR orange] TPA [/COLOR]
-rtmp://fml.6F53.edgecastcdn.net/206F53 playpath=tpai512 swfUrl=http://www.tpai.tv/swf/jwplayer/player.swf?mag live=1 pageUrl=http://www.tpai.tv/live
-#EXTINF:-1 tvg-id="EconomicaTV.pt" tvg-logo="ECONÓMICO TV.png",[COLOR orange] ECONÓMICO TV [/COLOR]
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV GLOBO [/COLOR]
-http://art.nextv.ca:80/nextv/globo/index.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] RECORD [/COLOR]
-http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] CHEF TV [/COLOR]
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TBS BR HD [/COLOR]
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV CINE 1 [/COLOR]
-http://ksportiptv.com:1557/live/elvis/elvis/2178.m3u8
-#EXTINF:-1 tvg-logo="Globo SP.png",[COLOR orange] TV CINE 2 [/COLOR]
-http://ksportiptv.com:1557/live/elvis/elvis/2179.m3u8
-#EXTINF:-1 tvg-id="tvc.pt" tvg-logo="tcv.png",[COLOR orange] TV CABO VERDE [/COLOR]
-rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713&file=http://rd.videos.sapo.cv/o7sf94LpzBDc94GY3N4i/mov/24&live=rtmp://{$hostname}/live/rtc_teste&movref=http%3A%2F%2Fpt.online-television.net%2F952-rtc.html pageUrl=http://pt.online-television.net/952-rtc.html#.VImSJHu8q48 Conn=S:OK live=1
-#EXTINF:-1 tvg-logo="Rede TV HD.png",[COLOR orange] REDE TV [/COLOR]
-rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1
-#EXTINF:-1 tvg-logo="EURONEWS.png",[COLOR orange] EURONEWS PT [/COLOR]
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
-#EXTINF:-1,[COLOR orange] CANÇÃO NOVA [/COLOR]
-http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel01/_definst_/live/stream1.m3u8
-#EXTINF:-1,[COLOR orange] FASHION TV [/COLOR]
-http://188.93.95.25:80/fasiontv/index.m3u8
-#EXTINF:-1,[COLOR orange] FOOD NERWORK [/COLOR]
-http://185.73.239.250:8000/live/tatar/tatar/258.ts
-#EXTINF:-1,[COLOR orange] MOTORVISION TV [/COLOR]
-http://185.73.239.250:8000/live/tatar/tatar/215.ts
+---------------------------------------------
 
-#EXTINF:-1,Sport TV 1 HD
-http://mygameravatar.zapto.org:43666/live/test8/test9/543.ts
-#EXTINF:-1,Sport TV 1 HD
-http://mygameravatar.zapto.org:43666/live/test8/test9/543.m3u8
-#EXTINF:-1,Sport TV 2 HD
-http://mygameravatar.zapto.org:43666/live/test8/test9/544.ts
-#EXTINF:-1,Sport TV 3 HD
-http://mygameravatar.zapto.org:43666/live/test8/test9/545.ts
-#EXTINF:-1,Sport TV 4 HD
-http://mygameravatar.zapto.org:43666/live/test8/test9/546.ts
+#EXTINF:-1,PT: Sport  HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28660
+#EXTINF:-1,PT: Sport 1 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28659
+#EXTINF:-1,PT: Sport 2 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28658
+#EXTINF:-1,PT: Sport 3 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28657
+#EXTINF:-1,PT: Sport 4 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28656
+#EXTINF:-1,PT: Sport 5 HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28655
 
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR orange] SPORT TV 1 [/COLOR][COLOR blue] HD [/COLOR]
-http://37.187.164.175:8080/supersport/sportstv/308.ch
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="SPORT TV 1.png",[COLOR orange] SPORT TV 1/2º [/COLOR][COLOR blue] HD [/COLOR]
-http://ksportiptv.com:1557/live/elvis/elvis/2184.m3u8
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png",[COLOR orange] SPORT TV 2 [/COLOR][COLOR blue] HD [/COLOR]
-http://37.187.164.175:8080/supersport/sportstv/309.ch
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="SportTV 2.png",[COLOR orange] SPORT TV 2/2º [/COLOR][COLOR blue] HD [/COLOR]
-http://37.187.164.175:8080/11/globalsportsIPTV/309.ch
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png",[COLOR orange] BENFICA TV 1 [/COLOR][COLOR blue] SD [/COLOR]
-http://84.75.246.171:8000/play/a00c
-#EXTINF:-1 tvg-id="BenficaTV.pt" tvg-logo="bentv-ver2.png",[COLOR orange] BENFICA TV 2 [/COLOR][COLOR blue] SD [/COLOR]
-http://84.75.246.171:8000/play/a00d
- 
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO DESPORTO INTERNACIONAL [/COLOR]
-https://cld.pt/dl/download/d2013806-10ff-41fc-8890-727e036e1b11/Grupo%20Canais%20Desporto%20Internacionais.mp4
-#EXTINF:-1,[COLOR orange] NFL NETWORK [/COLOR]
-http://37.187.164.175:8080/USA/CAN/4.ch
-#EXTINF:-1,[COLOR orange] FOX SPORTS [/COLOR]
-http://37.187.164.175:8080/USA/CAN/151.ch
-#EXTINF:-1,[COLOR orange] ESPN [/COLOR]
-http://37.187.164.175:8080/USA/CAN/78.ch
-#EXTINF:-1,[COLOR orange] US NBC SPORT [/COLOR]
-http://37.187.164.175:8080/USA/CAN/270.ch
-#EXTINF:-1,[COLOR orange] SKY SPORTS 1 [/COLOR]
-http://149.202.68.106:8000/live/lello/lello/464.ts
-#EXTINF:-1,[COLOR orange] SKY SPORTS 2 [/COLOR]
-http://149.202.68.106:8000/live/lello/lello/465.ts
-#EXTINF:-1,[COLOR orange] SKYBUNDESLIGA 1 HD [/COLOR]
-http://149.202.68.106:8000/live/lello/lello/609.ts
-#EXTINF:-1,[COLOR orange]  BEIN SPORT 1 HD [/COLOR]
-http://pciptv.blogdns.com:34505/live/tallarico/tallarico/2014.ts
-#EXTINF:-1 tvg-logo="rai_sport.png",[COLOR orange] RAI SPORT 1 [/COLOR]
-mmsh://212.162.68.163:80/raisport+
-#EXTINF:-1 tvg-logo="Sports tv turkey.jpg",[COLOR orange] SPORTS TV TURKEY [/COLOR]
-http://stream.sportstv.com.tr:1935/sportstv/SportsTV3/hasbahca.m3u8
-#EXTINF:-1 tvg-logo="azteca deportes.png",[COLOR orange] AZTECA DEPORTES [/COLOR][COLOR blue] HD [/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="sport time 1.jpg",[COLOR orange] SPORT TIME TV 1 [/COLOR][COLOR blue] HD [/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
-#EXTINF:-1 tvg-logo="sport time 2.jpg",[COLOR orange] SPORT TIME TV 2 [/COLOR][COLOR blue] HD [/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1 tvg-logo="sport time 3.jpg",[COLOR orange] SPORT TIME TV 3 [/COLOR][COLOR blue] HD [/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 tvg-logo="sport time 4.png",[COLOR orange] SPORT TIME TV 4 [/COLOR][COLOR blue] HD [/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 tvg-logo="sport time 5.png",[COLOR orange]SPORT TIME TV 5 [/COLOR][COLOR blue] HD [/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 tvg-logo="Auto_motor_sport_channel_logo.png",[COLOR orange] AUTO SPORT TV [/COLOR]
-mms://100automoto.tv/100livesport
-#EXTINF:-1 tvg-logo="eusp-ver2.png",[COLOR orange] EUROSPORT 1 [/COLOR]
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:-1 tvg-logo="digit_alb_autor.png",[COLOR orange] AUTO MOTO TV [/COLOR]
-mms://100automoto.tv/100gaz
-#EXTINF:-1,[COLOR orange] C + LIGA HD [/COLOR]
-http://37.187.164.175:8080/11/globalsportsIPTV/22.ch
- 
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO MUSICA [/COLOR]
-https://cld.pt/dl/download/cab7fe64-4ed4-44ab-89c8-135a1d5ecf88/Grupo%20Canais%20Musica.mp4
-#EXTINF:-1 tvg-logo="m6.png",[COLOR orange] M6 MUSIC [/COLOR]
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
-#EXTINF:-1 tvg-logo="dreamtv.png",[COLOR orange] DREAM TV [/COLOR]
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 1 [/COLOR][COLOR blue] HD [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 2 [/COLOR][COLOR blue] HD [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="VEVO.png",[COLOR orange] VEVO 3 [/COLOR][COLOR blue] HD [/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1 tvg-logo="DANCEFLOOR.jpg",[COLOR orange] DANCEFLOOR [/COLOR][COLOR blue] HD [/COLOR]
-http://www.djing.com/tv/dancefloor.m3u8
-#EXTINF:-1 tvg-logo="kiss tv music.png",[COLOR orange] KISS TV MUSIC [/COLOR]
-http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="polo_tv_pl_party.png",[COLOR orange] POLO PARTY TV [/COLOR]
-http://stream.smcloud.net/live2/polo_party/polo_party_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="polo_tv_pl_party.png",[COLOR orange] MTV DANCE [/COLOR]
-http://s2.edem.tv/iptv/DG3SKB7NEKMAYG/558/index.m3u8
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO CARTOONS [/COLOR]
-https://cld.pt/dl/download/27257462-9374-493e-85fc-24c366648aae/Grupo%20Canais%20Cartoons.mp4
-#EXTINF:-1,[COLOR orange] DISNEY JUNIOR [/COLOR]
-http://pciptv.blogdns.com:34505/live/tallarico/tallarico/1409.ts
+#EXTINF:-1,PT: Benfica TV HD
+http://m3u.hydr0.io:25461/RENO87/AaBbCc54321/28711
+----------------------
 
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO INTERNACIONAIS [/COLOR]
-https://cld.pt/dl/download/9f266e45-74a7-4ce4-823b-f7c6a7dc7f85/Grupo%20Canais%20Internacionais.mp4
-#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] CNN [/COLOR]
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] BLOOMBERG [/COLOR]
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:-1 tvg-logo="Azteca-Noticias.png",[COLOR orange] AZTECA NOTICIAS [/COLOR]
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8#MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="proyecto 40.png",[COLOR orange] PROYECTO 40 [/COLOR]
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1 tvg-logo="Travel Channel.png",[COLOR orange] TRAVEL TV [/COLOR]
-rtmp://87.106.219.140/live//myStream_2
-#EXTINF:-1 tvg-logo="London-Live.png",[COLOR orange] LONDON LIVE [/COLOR][COLOR blue] HD [/COLOR]
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
-#EXTINF:-1 tvg-logo="abc_news_logo.jpg",[COLOR orange] ABC NEWS [/COLOR]
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?
-#EXTINF:-1 tvg-logo="hitbox.png",[COLOR orange] HITBOX GAME PC [/COLOR][COLOR blue] HD [/COLOR]
-http://api.hitbox.tv/player/hls/ectvlol.m3u8
-
-#EXTINF:-1 tvg-logo="GRUPO.png",[COLOR blue] GRUPO SEX 18+ [/COLOR]
-https://cld.pt/dl/download/7f623809-a06b-4e72-b19a-31d55c8932da/Grupo%20Canais%20Sex%2018%20%2B.mp4
-#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] CANDY TV [/COLOR][COLOR red] 18+ [/COLOR]
-http://cdn-01.bonus-tv.ru/TVB7/candy/track_1_1500/playlist.m3u8
-#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] BRAZZERS [/COLOR][COLOR red] 18+ [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] OLALA [/COLOR][COLOR red] 18+ [/COLOR]
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1 tvg-logo="hot shots 18+.jpg",[COLOR orange] JUST SEX [/COLOR][COLOR red] 18+ [/COLOR]
-http://46.182.25.34:1935/tv/1420/playlist.m3u8
-**************************************************************************************
-
-#EXTINF:-1,RTP 1
-http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/118.ts 
-    #EXTINF:-1,RTP 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/119.ts 
-    #EXTINF:-1,Sic
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/3.ts 
-    #EXTINF:-1,Tvi
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/4.ts 
-    #EXTINF:-1,Tvi Ficcao
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/8.ts 
-    #EXTINF:-1,Tvi Reality
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/125.ts 
-    #EXTINF:-1,CM TV
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/75.ts 
-    #EXTINF:-1,Tvi24
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/7.ts 
-    #EXTINF:-1,Sic Noticias
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/6.ts 
-    #EXTINF:-1,RTP 3
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/138.ts 
-    #EXTINF:-1,Rtp Madeira
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/62.ts 
-    #EXTINF:-1,Rtp Acores
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/63.ts 
-    #EXTINF:-1,Tv Record
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/74.ts 
-    #EXTINF:-1,Globo Portugal
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/128.ts 
-    #EXTINF:-1,Globo Premium
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/59.ts 
-    #EXTINF:-1,A Bola Tv
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/11.ts 
-    #EXTINF:-1,SPORTV1 HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/34.ts 
-    #EXTINF:-1,SPORT TV 1
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/13.ts 
-    #EXTINF:-1,SPORT TV 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/14.ts 
-    #EXTINF:-1,Sporttv3
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/15.ts 
-    #EXTINF:-1,Sporttv4
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/16.ts 
-    #EXTINF:-1,Sport TV 5 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/17.ts 
-    #EXTINF:-1,BenficaTV 1 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/18.ts 
-    #EXTINF:-1,BenficaTv 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/19.ts 
-    #EXTINF:-1,Sportting TV
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/47.ts 
-    #EXTINF:-1,Porto Canal
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/9.ts 
-    #EXTINF:-1,Real Madrid TV
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/130.ts 
-    #EXTINF:-1,Chelsea TV
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/129.ts 
-    #EXTINF:-1,Pfc
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/20.ts 
-    #EXTINF:-1,Eurosport 1
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/21.ts 
-    #EXTINF:-1,Eurosport 2
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/22.ts 
-    #EXTINF:-1,MotorsTv
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/46.ts 
-    #EXTINF:-1,MOTORVISION
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/88.ts 
-    #EXTINF:-1,Toros Tv
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/48.ts 
-    #EXTINF:-1,Caça e Pesca
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/49.ts 
-    #EXTINF:-1,Cazavision
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/93.ts 
-    #EXTINF:-1,Tvcine 1 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/30.ts 
-    #EXTINF:-1,Tvcine 2 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/31.ts 
-    #EXTINF:-1,Tvcine 3 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/32.ts 
-    #EXTINF:-1,Tvcine 4 Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/33.ts 
-    #EXTINF:-1,Hollywod
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/35.ts 
-    #EXTINF:-1,Cinemundo
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/141.ts 
-    #EXTINF:-1,Mov
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/127.ts 
-    #EXTINF:-1,Axn Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/27.ts 
-    #EXTINF:-1,Axn Black Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/28.ts 
-    #EXTINF:-1,Axn Withe Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/29.ts 
-    #EXTINF:-1,Fox HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/23.ts 
-    #EXTINF:-1,Fox Crime Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/25.ts 
-    #EXTINF:-1,Fox Life Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/26.ts 
-    #EXTINF:-1,FOX Movies
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/133.ts 
-    #EXTINF:-1,Tv Series Full HD
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/71.ts 
-    #EXTINF:-1,Syfy
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/44.ts 
-    #EXTINF:-1,Disney Junior
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/55.ts 
-    #EXTINF:-1,Disney Channel
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/53.ts 
-    #EXTINF:-1,NICKELODEON
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/24.ts 
-    #EXTINF:-1,Cartoon Network
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/142.ts 
-    #EXTINF:-1,Canal Panda
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/36.ts 
-    #EXTINF:-1,Sic K
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/37.ts 
-    #EXTINF:-1,Biggs
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/86.ts 
-    #EXTINF:-1,Jim Jam
-    http://revendedor.amxiptv.club:8000/live/amilcar/amilcar/38.ts
-
-
-********************************************************
-
-#EXTINF:-1,beinHD_Sports_HD1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/699.ch
-#EXTINF:-1,beinHD_Sports_HD2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/700.ch
-#EXTINF:-1,beinHD_Sports_HD3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/701.ch
-#EXTINF:-1,beinHD_Sports_HD4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/702.ch
-#EXTINF:-1,beinHD_Sports_HD5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/703.ch
-#EXTINF:-1,beinHD_Sports_HD6
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/704.ch
-#EXTINF:-1,beinHD_Sports_HD7
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/705.ch
-#EXTINF:-1,beinHD_Sports_HD8
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/706.ch
-#EXTINF:-1,beinHD_Sports_HD9
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/707.ch
-#EXTINF:-1,beinHD_Sports_HD10
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/708.ch
-#EXTINF:-1,beinHD_Sports_HD11
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/709.ch
-#EXTINF:-1,beinHD_Sports_HD12
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/710.ch
-#EXTINF:-1,beinHD_Sports_HD13
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/711.ch
-#EXTINF:-1,beinHD_Sports_HD14
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/712.ch
-#EXTINF:-1,beinHD_Sports_HD15
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/713.ch
-#EXTINF:-1,beinHD_Sports_HD16
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/714.ch
-#EXTINF:-1,beinHD Sport 1 FR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/715.ch
-#EXTINF:-1,beinHD Sport 2 FR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/716.ch
-#EXTINF:-1,Baraem
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/698.ch
-#EXTINF:-1,MBC3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/669.ch
-#EXTINF:-1,SPACETOON
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/750.ch
-#EXTINF:-1,FATAFEAT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/697.ch
-#EXTINF:-1,TOYOR-ALJANAH
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/884.ch
-#EXTINF:-1,MBC-1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/667.ch
-#EXTINF:-1,MBC2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/668.ch
-#EXTINF:-1,MBC4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/670.ch
-#EXTINF:-1,MBCAction
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/671.ch
-#EXTINF:-1,MBCBollywood
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/676.ch
-#EXTINF:-1,MBCDRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/673.ch
-#EXTINF:-1,MBCMAX
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/672.ch
-#EXTINF:-1,MBC_MASR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/674.ch
-#EXTINF:-1,MBC_Masr2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/675.ch
-#EXTINF:-1,NATIONAL1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/659.ch
-#EXTINF:-1,NATIONAL2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/660.ch
-#EXTINF:-1,hannibal
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/664.ch
-#EXTINF:-1,NESMA-tv
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/662.ch
-#EXTINF:-1,TELVZA_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/665.ch
-#EXTINF:-1,ELHIWAR_ETTOUNSI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/658.ch
-#EXTINF:-1,TUNISNA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/661.ch
-#EXTINF:-1,al-janoubeya
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/726.ch
-#EXTINF:-1,ATTESSIA-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/847.ch
-#EXTINF:-1,AL_MUTAWASIT-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/663.ch
-#EXTINF:-1,TNN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/952.ch
-#EXTINF:-1,FIRST-tv
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/666.ch
-#EXTINF:-1,Panorama-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/683.ch
-#EXTINF:-1,Panorama-Drama2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/682.ch
-#EXTINF:-1,Sky-News-Arabia
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1029.ch
-#EXTINF:-1,Panorama_Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1052.ch
-#EXTINF:-1,Panorama_Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1053.ch
-#EXTINF:-1,Rotana
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/684.ch
-#EXTINF:-1,Rotana_Cinema_EGY
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/687.ch
-#EXTINF:-1,Rotana_Cinema_KSA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/686.ch
-#EXTINF:-1,Rotana_Classic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/688.ch
-#EXTINF:-1,Rotana_Clip
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/685.ch
-#EXTINF:-1,Cairo-Aflam
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/720.ch
-#EXTINF:-1,Cairo-cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/718.ch
-#EXTINF:-1,Cairo-Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/719.ch
-#EXTINF:-1,AD-DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/731.ch
-#EXTINF:-1,Cairo-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/723.ch
-#EXTINF:-1,Cairo-Mosalsalat
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/722.ch
-#EXTINF:-1,Cairo-Zaman
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/721.ch
-#EXTINF:-1,Zee_Alwan
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/753.ch
-#EXTINF:-1,EKHBARIYA-AL-SORIYA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/729.ch
-#EXTINF:-1,NOUREL-SHAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/730.ch
-#EXTINF:-1,Layaly-Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/727.ch
-#EXTINF:-1,SAMA-SYRIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/725.ch
-#EXTINF:-1,ZEE-AFLAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/752.ch
-#EXTINF:-1,B4U_Aflam
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/759.ch
-#EXTINF:-1,Oscar-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/724.ch
-#EXTINF:-1,Rotana_Khalijiah
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/689.ch
-#EXTINF:-1,Rotana-Masriya
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/690.ch
-#EXTINF:-1,Aflam_1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/678.ch
-#EXTINF:-1,Aflam_2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/679.ch
-#EXTINF:-1,ART_Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/677.ch
-#EXTINF:-1,Hekayat
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/680.ch
-#EXTINF:-1,Hekayat_2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/681.ch
-#EXTINF:-1,CBC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/696.ch
-#EXTINF:-1,CBC+2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/691.ch
-#EXTINF:-1,CBC-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/695.ch
-#EXTINF:-1,CBC-Extra
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/693.ch
-#EXTINF:-1,CBC-Sofra
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/694.ch
-#EXTINF:-1,CBC-Two
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/692.ch
-#EXTINF:-1,AL-JAZEERA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/765.ch
-#EXTINF:-1,Al-Jazeera-Mubasher
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/980.ch
-#EXTINF:-1,AlMagharibia-Two
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1149.ch
-#EXTINF:-1,Al-Arabiya
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/770.ch
-#EXTINF:-1,AlArabiya-Hadath
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/769.ch
-#EXTINF:-1,AL-HAQIQA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1151.ch
-#EXTINF:-1,Nile_news
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/938.ch
-#EXTINF:-1,Al-Mayadeen
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1150.ch
-#EXTINF:-1,CNBC-ARABIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1152.ch
-#EXTINF:-1,EuroNews
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/788.ch
-#EXTINF:-1,BBC-ARABIC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1148.ch
-#EXTINF:-1,Iqraa
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/781.ch
-#EXTINF:-1,AL-Insen
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1146.ch
-#EXTINF:-1,MAKKAH_LIVE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/814.ch
-#EXTINF:-1,Menhag-Alnbowa
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1144.ch
-#EXTINF:-1,SAUDI_SONNA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/813.ch
-#EXTINF:-1,AL_Resala
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/780.ch
-#EXTINF:-1,BFM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/564.ch
-#EXTINF:-1,BFMBUSINESS
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/579.ch
-#EXTINF:-1,CANAL+
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/594.ch
-#EXTINF:-1,CANAL+_CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/591.ch
-#EXTINF:-1,CANAL+_DECALE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/590.ch
-#EXTINF:-1,CANAL+FAMILY
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/592.ch
-#EXTINF:-1,CANAL+sport
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/771.ch
-#EXTINF:-1,INFOSPORT+
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/587.ch
-#EXTINF:-1,CINE+_CLUB
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/593.ch
-#EXTINF:-1,CINE+_PREMIER
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/583.ch
-#EXTINF:-1,Cine+_Classic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/657.ch
-#EXTINF:-1,Cine+_Emotion
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/647.ch
-#EXTINF:-1,Cine+_Frisson
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/652.ch
-#EXTINF:-1,Planete+_Thalassa
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/654.ch
-#EXTINF:-1,PLANETE+
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/582.ch
-#EXTINF:-1,PLANETE+_A&E
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/586.ch
-#EXTINF:-1,National_Geographic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/653.ch
-#EXTINF:-1,Discovery_Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/649.ch
-#EXTINF:-1,USHAIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/655.ch
-#EXTINF:-1,MCS
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/573.ch
-#EXTINF:-1,serie_club
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/650.ch
-#EXTINF:-1,Paris_Premiere
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/950.ch
-#EXTINF:-1,TEVA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/585.ch
-#EXTINF:-1,D17
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/572.ch
-#EXTINF:-1,D8
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/563.ch
-#EXTINF:-1,TMC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/569.ch
-#EXTINF:-1,W9
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/575.ch
-#EXTINF:-1,TF1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/581.ch
-#EXTINF:-1,m6
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/571.ch
-#EXTINF:-1,FR2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/565.ch
-#EXTINF:-1,FR3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/566.ch
-#EXTINF:-1,FR4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/567.ch
-#EXTINF:-1,FR5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/568.ch
-#EXTINF:-1,FRO
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/570.ch
-#EXTINF:-1,IDF1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/577.ch
-#EXTINF:-1,ITELE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/576.ch
-#EXTINF:-1,FRANCE24-FRENCH
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/595.ch
-#EXTINF:-1,LCI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/588.ch
-#EXTINF:-1,TV5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/943.ch
-#EXTINF:-1,JUNE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/951.ch
-#EXTINF:-1,GULLI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/578.ch
-#EXTINF:-1,6ter
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1178.ch
-#EXTINF:-1,ARTE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1182.ch
-#EXTINF:-1,Canal_31
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1179.ch
-#EXTINF:-1,Equipe_21
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1180.ch
-#EXTINF:-1,HD1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1181.ch
-#EXTINF:-1,LCP
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1184.ch
-#EXTINF:-1,NT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1183.ch
-#EXTINF:-1,RMC_DECOUVERTE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1177.ch
-#EXTINF:-1,Disney_Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/651.ch
-#EXTINF:-1,JIMMY
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/648.ch
-#EXTINF:-1,NRJ12
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/580.ch
-#EXTINF:-1,AD-ALEMARAT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/735.ch
-#EXTINF:-1,AD-SPORT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/733.ch
-#EXTINF:-1,AD-Sport2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/734.ch
-#EXTINF:-1,AD_ALOULA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/732.ch
-#EXTINF:-1,SHNPOO-AFLAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/728.ch
-#EXTINF:-1,AD-NatGeo
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/736.ch
-#EXTINF:-1,AL-MAGHRIBIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/747.ch
-#EXTINF:-1,AL-SHARJAH
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/744.ch
-#EXTINF:-1,Algerie3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/751.ch
-#EXTINF:-1,ALHAYAT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/743.ch
-#EXTINF:-1,Alhurra
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/742.ch
-#EXTINF:-1,BBC_Arabic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/741.ch
-#EXTINF:-1,DUBAI-ONE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/737.ch
-#EXTINF:-1,DUBAI-SPORT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/738.ch
-#EXTINF:-1,DUBAITV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/739.ch
-#EXTINF:-1,FRANCE24-ARAB
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/748.ch
-#EXTINF:-1,Mehwer
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/746.ch
-#EXTINF:-1,MUSIC_PLUS
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/749.ch
-#EXTINF:-1,Qatar
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/745.ch
-#EXTINF:-1,SAMADUBAI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/740.ch
-#EXTINF:-1,Al-Hayat-Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/762.ch
-#EXTINF:-1,B4U-PLUS
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/760.ch
-#EXTINF:-1,LBC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/761.ch
-#EXTINF:-1,Lebanon-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1143.ch
-#EXTINF:-1,MELODY-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1134.ch
-#EXTINF:-1,Arabica-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1135.ch
-#EXTINF:-1,Hawacom
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1140.ch
-#EXTINF:-1,NBN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1139.ch
-#EXTINF:-1,Sumaria
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1138.ch
-#EXTINF:-1,HEYA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1141.ch
-#EXTINF:-1,FUTURE_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/972.ch
-#EXTINF:-1,RT-ARAB
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1145.ch
-#EXTINF:-1,Teleliban
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1153.ch
-#EXTINF:-1,ZEIN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1147.ch
-#EXTINF:-1,mtv_lebanon
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/836.ch
-#EXTINF:-1,AL_MANAR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/974.ch
-#EXTINF:-1,JADEED
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1132.ch
-#EXTINF:-1,Melody_Classic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/763.ch
-#EXTINF:-1,Nile_Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/758.ch
-#EXTINF:-1,NILE-SPORT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/778.ch
-#EXTINF:-1,Nile_Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/754.ch
-#EXTINF:-1,Nile_Family
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/756.ch
-#EXTINF:-1,Nile_Life
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/755.ch
-#EXTINF:-1,Al-Jazeera-Documentary
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/783.ch
-#EXTINF:-1,AWTAR-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/767.ch
-#EXTINF:-1,LANA-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/766.ch
-#EXTINF:-1,NOOR-DUBAI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/768.ch
-#EXTINF:-1,AJMAN-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/777.ch
-#EXTINF:-1,AL-Hadath
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/787.ch
-#EXTINF:-1,Al-Nahar
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/786.ch
-#EXTINF:-1,Alhayat_2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/773.ch
-#EXTINF:-1,AlNahar-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/774.ch
-#EXTINF:-1,AL_EYMAN_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/779.ch
-#EXTINF:-1,CN-ARABIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/785.ch
-#EXTINF:-1,Dream2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/772.ch
-#EXTINF:-1,ENNAHAR-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/776.ch
-#EXTINF:-1,Jeem-CartoonArabia
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/784.ch
-#EXTINF:-1,MBC-PRO-SP1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/789.ch
-#EXTINF:-1,MBC-PRO-SP2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/790.ch
-#EXTINF:-1,MBC-PRO-SP3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/791.ch
-#EXTINF:-1,MBC-PRO-SP4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/792.ch
-#EXTINF:-1,Resalat_ALIslam
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/782.ch
-#EXTINF:-1,SHANABO-ZAMAN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/775.ch
-#EXTINF:-1,kabel-eins
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1161.ch
-#EXTINF:-1,ProSieben
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1158.ch
-#EXTINF:-1,RTL
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1159.ch
-#EXTINF:-1,RTL2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1160.ch
-#EXTINF:-1,SAT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1157.ch
-#EXTINF:-1,time_comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/812.ch
-#EXTINF:-1,2M_Maroc
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/850.ch
-#EXTINF:-1,ALGHAD-ALARABI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/842.ch
-#EXTINF:-1,Althanya
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/846.ch
-#EXTINF:-1,al_nahar_alyawm
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/838.ch
-#EXTINF:-1,Dzair_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/843.ch
-#EXTINF:-1,Echorouk-News
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/844.ch
-#EXTINF:-1,EL-DJAZAIRIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/849.ch
-#EXTINF:-1,EL-WATANDZ
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/845.ch
-#EXTINF:-1,Ennahar-Laki
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/841.ch
-#EXTINF:-1,FOX
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/882.ch
-#EXTINF:-1,Fox_Movies
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/883.ch
-#EXTINF:-1,HOGAR-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/848.ch
-#EXTINF:-1,Samira-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/840.ch
-#EXTINF:-1,Sky_Action_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/863.ch
-#EXTINF:-1,Sky_Comedy_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/862.ch
-#EXTINF:-1,Sky_Thriller
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/856.ch
-#EXTINF:-1,Sky_Disney_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/854.ch
-#EXTINF:-1,Sky_DramaRom_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/857.ch
-#EXTINF:-1,Sky_Family_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/860.ch
-#EXTINF:-1,Sky_Greats_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/858.ch
-#EXTINF:-1,Sky_Prem+1_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/855.ch
-#EXTINF:-1,Sky_Monsters_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/861.ch
-#EXTINF:-1,Sky_Sports_2_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/852.ch
-#EXTINF:-1,Sky_Sports_5_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/853.ch
-#EXTINF:-1,CBS_Drama_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/868.ch
-#EXTINF:-1,CBS_Reality+_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/867.ch
-#EXTINF:-1,horror_channel_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/866.ch
-#EXTINF:-1,ITV2_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/870.ch
-#EXTINF:-1,ITV4_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/871.ch
-#EXTINF:-1,ITVBE_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/872.ch
-#EXTINF:-1,ITV_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/869.ch
-#EXTINF:-1,Sky2_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/890.ch
-#EXTINF:-1,Sky_Thriller_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/885.ch
-#EXTINF:-1,UMP_Movies_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/886.ch
-#EXTINF:-1,Universal+1_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/887.ch
-#EXTINF:-1,H2_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/888.ch
-#EXTINF:-1,ITV+1_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/891.ch
-#EXTINF:-1,Syfy+1_UK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/889.ch
-#EXTINF:-1,B4U_Aflam_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/878.ch
-#EXTINF:-1,B4U_Movies_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/875.ch
-#EXTINF:-1,B4U_Music_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/876.ch
-#EXTINF:-1,B4U_PLUS_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/877.ch
-#EXTINF:-1,SONY_MAX_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/881.ch
-#EXTINF:-1,Zee_Living_HINDI
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/873.ch
-#EXTINF:-1,Alerth-Alnbawi
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/895.ch
-#EXTINF:-1,AYAAT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/894.ch
-#EXTINF:-1,Kaifa_islam
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/897.ch
-#EXTINF:-1,OSN_ACTION
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/912.ch
-#EXTINF:-1,OSN_ACTION2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/913.ch
-#EXTINF:-1,OSN_ALSAFWA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/910.ch
-#EXTINF:-1,OSN_ALYOUM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/902.ch
-#EXTINF:-1,OSN_CINEMA1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/903.ch
-#EXTINF:-1,OSN_CINEMA2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/904.ch
-#EXTINF:-1,OSN-Nat-Geo-Wild
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/922.ch
-#EXTINF:-1,OSN_FANN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/911.ch
-#EXTINF:-1,OSN_FIRST
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/917.ch
-#EXTINF:-1,OSN_MBCDRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/906.ch
-#EXTINF:-1,OSN_MOVIES
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/914.ch
-#EXTINF:-1,OSN_MOVIES_DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/918.ch
-#EXTINF:-1,OSN_MOVIES_DRAMA2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/919.ch
-#EXTINF:-1,OSN_MOVIES_FESTIVA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/920.ch
-#EXTINF:-1,OSN_MOVIES_KIDS
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/915.ch
-#EXTINF:-1,OSN_MOVIES_KIDS2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/921.ch
-#EXTINF:-1,OSN_PREMIERE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/916.ch
-#EXTINF:-1,OSN_SERIES
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/905.ch
-#EXTINF:-1,OSN_YAHALA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/907.ch
-#EXTINF:-1,OSN_YAHALA_DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/908.ch
-#EXTINF:-1,OSN_YAHALA_SHABAB
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/909.ch
-#EXTINF:-1,time_cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/835.ch
-#EXTINF:-1,TIME-COMEDY
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1023.ch
-#EXTINF:-1,AHRAM-CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1004.ch
-#EXTINF:-1,AlKahera-Wal-Nas+2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1014.ch
-#EXTINF:-1,TIME_ACTION
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1066.ch
-#EXTINF:-1,Cima-Shobra
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/981.ch
-#EXTINF:-1,cima
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/973.ch
-#EXTINF:-1,Takbeer_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/896.ch
-#EXTINF:-1,ALFATH_Quran
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/946.ch
-#EXTINF:-1,AL_BAIT_BAITAK_CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/948.ch
-#EXTINF:-1,AL_MAJD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/941.ch
-#EXTINF:-1,BEIRUT_CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/947.ch
-#EXTINF:-1,DREAM1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/949.ch
-#EXTINF:-1,DW-TV-ARABIA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/942.ch
-#EXTINF:-1,FUNoon
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/935.ch
-#EXTINF:-1,KWAIT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/940.ch
-#EXTINF:-1,Mazzika
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/945.ch
-#EXTINF:-1,Panorama-FOOD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/944.ch
-#EXTINF:-1,Medi1_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/939.ch
-#EXTINF:-1,Nile_Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/937.ch
-#EXTINF:-1,MAGHREB24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/976.ch
-#EXTINF:-1,SYRIAN-DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/977.ch
-#EXTINF:-1,Zaitouna
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/979.ch
-#EXTINF:-1,ALGERIE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1001.ch
-#EXTINF:-1,Al-Nahar+2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1042.ch
-#EXTINF:-1,Alhayat-Muslsalat
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1013.ch
-#EXTINF:-1,Echorouk-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1118.ch
-#EXTINF:-1,Echourouk-BENNA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1142.ch
-#EXTINF:-1,heddaf
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1137.ch
-#EXTINF:-1,ALMASRAWIA-AFLAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1024.ch
-#EXTINF:-1,al-nahar-nour
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1120.ch
-#EXTINF:-1,AlHayah_Alaan
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/987.ch
-#EXTINF:-1,AL-MASSAR-AL-OULA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1016.ch
-#EXTINF:-1,STAR-AFLAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1046.ch
-#EXTINF:-1,AL-Amaken-Drama
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1041.ch
-#EXTINF:-1,Dolly_Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1048.ch
-#EXTINF:-1,Faraeen
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1072.ch
-#EXTINF:-1,SAMA-CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1034.ch
-#EXTINF:-1,Moga_Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1090.ch
-#EXTINF:-1,Nahar Sport
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/999.ch
-#EXTINF:-1,Sada El Balad
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1075.ch
-#EXTINF:-1,Sada El Balad+
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1076.ch
-#EXTINF:-1,STAR-CINEMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1005.ch
-#EXTINF:-1,STAR-CINEMA1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1007.ch
-#EXTINF:-1,Imagine_Movies
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1065.ch
-#EXTINF:-1,Al-Kahera-walNas
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/991.ch
-#EXTINF:-1,Abu-Dhabi
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1133.ch
-#EXTINF:-1,AL-ALAM
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1136.ch
-#EXTINF:-1,RAI1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1185.ch
-#EXTINF:-1,RAI2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1186.ch
-#EXTINF:-1,RAI3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1187.ch
-#EXTINF:-1,RAI4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1188.ch
-#EXTINF:-1,RAI-SPORT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1193.ch
-#EXTINF:-1,RAI-SPORT2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1194.ch
-#EXTINF:-1,Rai-Gulp
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1189.ch
-#EXTINF:-1,Rai-movie
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1192.ch
-#EXTINF:-1,Rai-Scuola
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1190.ch
-#EXTINF:-1,Rai-storia
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1191.ch
-#EXTINF:-1,IT: Sky Cinema  1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1202.ch
-#EXTINF:-1,ITALIA1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1195.ch
-#EXTINF:-1,CANALE5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1196.ch
-#EXTINF:-1,RETE4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1197.ch
-#EXTINF:-1,IT: Sky Arte HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1198.ch
-#EXTINF:-1,IT: Sky Atlantic HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1199.ch
-#EXTINF:-1,IT: Sky Cinema 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1201.ch
-#EXTINF:-1,IT: Sky Atlantic  1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1200.ch
-#EXTINF:-1,Ashrooq-SUDAN
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1165.ch
-#EXTINF:-1,BLUE_NILE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1164.ch
-#EXTINF:-1,Dabanga-Sudan
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1166.ch
-#EXTINF:-1,SUDAN-TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1162.ch
-#EXTINF:-1,SUDAN_SPORT
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1163.ch
-#EXTINF:-1,2STV_AFRICA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1171.ch
-#EXTINF:-1,Africa_Cable
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1172.ch
-#EXTINF:-1,Gabon_TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1174.ch
-#EXTINF:-1,mauritania
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1175.ch
-#EXTINF:-1,ORTM_AFRIQUE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1167.ch
-#EXTINF:-1,RTS_AFRICA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1170.ch
-#EXTINF:-1,telecongo
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1176.ch
-#EXTINF:-1,Tfm_senegal
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1168.ch
-#EXTINF:-1,tpai_AFRICA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1169.ch
-#EXTINF:-1,TV_CONGO
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1173.ch
-#EXTINF:-1,BEIN_SPORT16
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/968.ch
-#EXTINF:-1,BEIN_SPORT1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/953.ch
-#EXTINF:-1,BEIN_SPORT10
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/962.ch
-#EXTINF:-1,BEIN_SPORT11
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/963.ch
-#EXTINF:-1,BEIN_SPORT12
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/964.ch
-#EXTINF:-1,BEIN_SPORT13
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/965.ch
-#EXTINF:-1,BEIN_SPORT14
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/966.ch
-#EXTINF:-1,BEIN_SPORT15
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/967.ch
-#EXTINF:-1,BEIN_SPORT2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/954.ch
-#EXTINF:-1,BEIN_SPORT3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/955.ch
-#EXTINF:-1,BEIN_SPORT4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/956.ch
-#EXTINF:-1,BEIN_SPORT5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/957.ch
-#EXTINF:-1,BEIN_SPORT6
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/958.ch
-#EXTINF:-1,BEIN_SPORT7
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/959.ch
-#EXTINF:-1,BEIN_SPORT8
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/960.ch
-#EXTINF:-1,BEIN_SPORT9
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/961.ch
-#EXTINF:-1,==========Germany==========
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1329.ch
-#EXTINF:-1,AR: OSN Cinema 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1453.ch
-#EXTINF:-1,AR: OSN Cinema 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1454.ch
-#EXTINF:-1,AR: OSN Discovery Science
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1452.ch
-#EXTINF:-1,AR: OSN First HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1451.ch
-#EXTINF:-1,AR: OSN Hahala HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1450.ch
-#EXTINF:-1,AR: OSN MBC  DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1449.ch
-#EXTINF:-1,AR: OSN MOVIE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1448.ch
-#EXTINF:-1,AR: OSN MOVIE ACTION
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1446.ch
-#EXTINF:-1,AR: OSN MOVIE ACTION 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1447.ch
-#EXTINF:-1,AR: OSN Movie Premiere
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1445.ch
-#EXTINF:-1,AR: OSN Movies Box Office 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1443.ch
-#EXTINF:-1,AR: OSN Movies Box Office 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1444.ch
-#EXTINF:-1,AR: OSN Movies Drama HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1442.ch
-#EXTINF:-1,AR: OSN Movies Festival
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1441.ch
-#EXTINF:-1,AR: OSN Movies First More HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1440.ch
-#EXTINF:-1,AR: OSN Movies Kids
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1439.ch
-#EXTINF:-1,AR: OSN Movies stAR: HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1438.ch
-#EXTINF:-1,AR: OSN On Demand
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1437.ch
-#EXTINF:-1,AR: OSN StAR: World
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1436.ch
-#EXTINF:-1,AR: OSN YA HALA DRAMA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1435.ch
-#EXTINF:-1,AR: OSN Ya Hala Shabab
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1434.ch
-#EXTINF:-1,AR: OSN YAHALA
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1433.ch
-#EXTINF:-1,DE DMAX HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1340.ch
-#EXTINF:-1,DE Ndr HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1339.ch
-#EXTINF:-1,DE PRO 7 MAXX HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1338.ch
-#EXTINF:-1,DE Sixx HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1337.ch
-#EXTINF:-1,DE Super RTL HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1336.ch
-#EXTINF:-1,DE: 13th Street
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1432.ch
-#EXTINF:-1,DE: A E DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1431.ch
-#EXTINF:-1,DE: ANIXE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1430.ch
-#EXTINF:-1,DE: ARD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1341.ch
-#EXTINF:-1,DE: AXN Action
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1429.ch
-#EXTINF:-1,DE: Classica
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1428.ch
-#EXTINF:-1,DE: Classica Deutschland
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1386.ch
-#EXTINF:-1,DE: Deluxe Music HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1385.ch
-#EXTINF:-1,DE: Discovery Channel DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1427.ch
-#EXTINF:-1,DE: Discovery Science HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1335.ch
-#EXTINF:-1,DE: Disney Cinemagic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1384.ch
-#EXTINF:-1,DE: Disney Junior DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1426.ch
-#EXTINF:-1,DE: Disney XD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1425.ch
-#EXTINF:-1,DE: DisneyCH DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1424.ch
-#EXTINF:-1,DE: Eurosport HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1356.ch
-#EXTINF:-1,DE: FOX
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1423.ch
-#EXTINF:-1,DE: Fox Serie DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1422.ch
-#EXTINF:-1,DE: Heimatkanal
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1420.ch
-#EXTINF:-1,DE: HISTORY HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1355.ch
-#EXTINF:-1,DE: Jukebox
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1419.ch
-#EXTINF:-1,DE: Junior
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1418.ch
-#EXTINF:-1,DE: Kabel 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1383.ch
-#EXTINF:-1,DE: Kabel Eins
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1382.ch
-#EXTINF:-1,DE: Kika
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1421.ch
-#EXTINF:-1,DE: KinoweltTV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1417.ch
-#EXTINF:-1,DE: MGM DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1416.ch
-#EXTINF:-1,DE: Motorvision TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1381.ch
-#EXTINF:-1,DE: N-TV HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1380.ch
-#EXTINF:-1,DE: N24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1354.ch
-#EXTINF:-1,DE: Nat GEO
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1415.ch
-#EXTINF:-1,DE: NatGeo Wild DE
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1414.ch
-#EXTINF:-1,DE: Nick Jr
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1413.ch
-#EXTINF:-1,DE: Passion
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1379.ch
-#EXTINF:-1,DE: Pro Sieben HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1378.ch
-#EXTINF:-1,DE: Pro Sieben Maxx HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1377.ch
-#EXTINF:-1,DE: RomanceTV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1412.ch
-#EXTINF:-1,DE: RTL Crime
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1411.ch
-#EXTINF:-1,DE: RTL HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1376.ch
-#EXTINF:-1,DE: RTL LIVING
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1410.ch
-#EXTINF:-1,DE: RTL NITRO
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1409.ch
-#EXTINF:-1,DE: RTL Passion
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1408.ch
-#EXTINF:-1,DE: RTL1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1407.ch
-#EXTINF:-1,DE: RTL2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1406.ch
-#EXTINF:-1,DE: Sat 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1375.ch
-#EXTINF:-1,DE: SIXX HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1405.ch
-#EXTINF:-1,DE: Sky Action
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1404.ch
-#EXTINF:-1,DE: Sky Atlantic
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1403.ch
-#EXTINF:-1,DE: Sky Bundesliga 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1369.ch
-#EXTINF:-1,DE: Sky Bundesliga 1 weekend only
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1370.ch
-#EXTINF:-1,DE: Sky Bundesliga 2 weekend only
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1371.ch
-#EXTINF:-1,DE: Sky Bundesliga 3 weekend only
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1372.ch
-#EXTINF:-1,DE: Sky Bundesliga 4 weekend only
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1373.ch
-#EXTINF:-1,DE: Sky Bundesliga 5 weekend only
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1374.ch
-#EXTINF:-1,DE: Sky Cinema
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1402.ch
-#EXTINF:-1,DE: Sky Cinema 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1401.ch
-#EXTINF:-1,DE: Sky Cinema24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1400.ch
-#EXTINF:-1,DE: Sky Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1399.ch
-#EXTINF:-1,DE: Sky Emotion
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1398.ch
-#EXTINF:-1,DE: Sky Fan Zone HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1334.ch
-#EXTINF:-1,DE: Sky Hits
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1397.ch
-#EXTINF:-1,DE: Sky Krimi
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1396.ch
-#EXTINF:-1,DE: Sky Nostalgie
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1395.ch
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1353.ch
-#EXTINF:-1,DE: SKY SELECT 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1352.ch
-#EXTINF:-1,DE: SKY SELECT 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1351.ch
-#EXTINF:-1,DE: SKY SELECT 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1350.ch
-#EXTINF:-1,DE: SKY SELECT 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1349.ch
-#EXTINF:-1,DE: SKY SELECT 6 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1348.ch
-#EXTINF:-1,DE: SKY SELECT 7 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1347.ch
-#EXTINF:-1,DE: SKY SELECT 8 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1346.ch
-#EXTINF:-1,DE: Sky Sport 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1365.ch
-#EXTINF:-1,DE: Sky Sport 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1364.ch
-#EXTINF:-1,DE: Sky Sport 1.
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1366.ch
-#EXTINF:-1,DE: Sky Sport 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1362.ch
-#EXTINF:-1,DE: Sky Sport 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1361.ch
-#EXTINF:-1,DE: Sky Sport 2.
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1363.ch
-#EXTINF:-1,DE: Sky Sport Austria
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1367.ch
-#EXTINF:-1,DE: Sky Sport News
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1360.ch
-#EXTINF:-1,DE: Sky Sport News HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1359.ch
-#EXTINF:-1,DE: SKYDEBU1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1394.ch
-#EXTINF:-1,DE: SKYDESPAU
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1393.ch
-#EXTINF:-1,DE: Sony TV HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1333.ch
-#EXTINF:-1,DE: Spiegel Geschichte
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1392.ch
-#EXTINF:-1,DE: Sport 1  HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1357.ch
-#EXTINF:-1,DE: SPORT 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1358.ch
-#EXTINF:-1,DE: Sport 1 US HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1368.ch
-#EXTINF:-1,DE: Sportdigital HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1332.ch
-#EXTINF:-1,DE: Sports 1 USA HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1331.ch
-#EXTINF:-1,DE: SUPER RTL
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1391.ch
-#EXTINF:-1,DE: Syfy HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1390.ch
-#EXTINF:-1,DE: TAGESSCHAU 24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1345.ch
-#EXTINF:-1,DE: TLC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1389.ch
-#EXTINF:-1,DE: TNT Film
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1388.ch
-#EXTINF:-1,DE: TNT Serie
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1387.ch
-#EXTINF:-1,DE: Vox HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1344.ch
-#EXTINF:-1,DE: WDR HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1330.ch
-#EXTINF:-1,DE: ZDF
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1343.ch
-#EXTINF:-1,DE: ZDF KULTUR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1342.ch
-#EXTINF:-1,IT:  History HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1271.ch
-#EXTINF:-1,IT:  Sky Sport F1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1235.ch
-#EXTINF:-1,IT: Alice
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1286.ch
-#EXTINF:-1,IT: Animal Planet
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1270.ch
-#EXTINF:-1,IT: AXN HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1285.ch
-#EXTINF:-1,IT: BBC
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1284.ch
-#EXTINF:-1,IT: Calcio 6 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1230.ch
-#EXTINF:-1,IT: Canale 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1223.ch
-#EXTINF:-1,IT: Cartonito
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1283.ch
-#EXTINF:-1,IT: CartoonNetwork
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1280.ch
-#EXTINF:-1,IT: Crime Investigation HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1273.ch
-#EXTINF:-1,IT: Discovery Sci HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1249.ch
-#EXTINF:-1,IT: Discovery Travel Living HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1272.ch
-#EXTINF:-1,IT: Discovery World
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1274.ch
-#EXTINF:-1,IT: Disney channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1279.ch
-#EXTINF:-1,IT: Disney Junior
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1282.ch
-#EXTINF:-1,IT: Disney XD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1281.ch
-#EXTINF:-1,IT: DMAX
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1222.ch
-#EXTINF:-1,IT: E!
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1269.ch
-#EXTINF:-1,IT: Eurosport 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1243.ch
-#EXTINF:-1,IT: Fineliving
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1268.ch
-#EXTINF:-1,IT: Focus
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1267.ch
-#EXTINF:-1,IT: Fox  1 hd
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1212.ch
-#EXTINF:-1,IT: Fox Animation HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1217.ch
-#EXTINF:-1,IT: Fox Comedy HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1214.ch
-#EXTINF:-1,IT: Fox Crime HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1215.ch
-#EXTINF:-1,IT: Fox HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1211.ch
-#EXTINF:-1,IT: Fox life HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1213.ch
-#EXTINF:-1,IT: Fox Sports HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1216.ch
-#EXTINF:-1,IT: Gambero Rosso HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1250.ch
-#EXTINF:-1,IT: Inter Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1244.ch
-#EXTINF:-1,IT: Italia 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1278.ch
-#EXTINF:-1,IT: Italian Fishing TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1221.ch
-#EXTINF:-1,IT: ITV Italia
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1224.ch
-#EXTINF:-1,IT: Juventus Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1246.ch
-#EXTINF:-1,IT: La7 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1251.ch
-#EXTINF:-1,IT: La7d HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1220.ch
-#EXTINF:-1,IT: Mediaset Canale 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1288.ch
-#EXTINF:-1,IT: Mediaset extra
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1289.ch
-#EXTINF:-1,IT: Mediaset italia 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1219.ch
-#EXTINF:-1,IT: Mediaset TOP crime
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1287.ch
-#EXTINF:-1,IT: Milan Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1245.ch
-#EXTINF:-1,IT: MTV8
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1266.ch
-#EXTINF:-1,IT: NatGeo HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1275.ch
-#EXTINF:-1,IT: NatGeo People HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1276.ch
-#EXTINF:-1,IT: NatGeo Wild HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1277.ch
-#EXTINF:-1,IT: Premium Action 24 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1302.ch
-#EXTINF:-1,IT: Premium Action HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1218.ch
-#EXTINF:-1,IT: Premium Calcio
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1304.ch
-#EXTINF:-1,IT: Premium Calcio 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1305.ch
-#EXTINF:-1,IT: Premium Calcio 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1306.ch
-#EXTINF:-1,IT: Premium Calcio 3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1307.ch
-#EXTINF:-1,IT: Premium Calcio 4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1308.ch
-#EXTINF:-1,IT: Premium Calcio 5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1309.ch
-#EXTINF:-1,IT: Premium Calcio 6
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1310.ch
-#EXTINF:-1,IT: Premium Calcio 7
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1311.ch
-#EXTINF:-1,IT: Premium Calcio HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1303.ch
-#EXTINF:-1,IT: Premium Cinema 2 24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1301.ch
-#EXTINF:-1,IT: Premium Cinema 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1300.ch
-#EXTINF:-1,IT: Premium Cinema 24 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1298.ch
-#EXTINF:-1,IT: Premium Cinema HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1297.ch
-#EXTINF:-1,IT: Premium Comedy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1293.ch
-#EXTINF:-1,IT: Premium Crime   24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1294.ch
-#EXTINF:-1,IT: Premium Discovery HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1290.ch
-#EXTINF:-1,IT: Premium Emotion
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1296.ch
-#EXTINF:-1,IT: Premium Energy
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1295.ch
-#EXTINF:-1,IT: Premium Joi
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1299.ch
-#EXTINF:-1,IT: Premium Sport HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1292.ch
-#EXTINF:-1,IT: Premium Stories
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1291.ch
-#EXTINF:-1,IT: Premium Studio Universal
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1264.ch
-#EXTINF:-1,IT: Prima Fila 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1312.ch
-#EXTINF:-1,IT: Prima Fila 10 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1322.ch
-#EXTINF:-1,IT: Prima Fila 11 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1321.ch
-#EXTINF:-1,IT: Prima Fila 12 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1323.ch
-#EXTINF:-1,IT: Prima Fila 13 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1324.ch
-#EXTINF:-1,IT: Prima Fila 14 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1325.ch
-#EXTINF:-1,IT: Prima Fila 15 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1326.ch
-#EXTINF:-1,IT: Prima Fila 16 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1327.ch
-#EXTINF:-1,IT: Prima Fila 17 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1328.ch
-#EXTINF:-1,IT: Prima Fila 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1313.ch
-#EXTINF:-1,IT: Prima Fila 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1314.ch
-#EXTINF:-1,IT: Prima Fila 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1315.ch
-#EXTINF:-1,IT: Prima Fila 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1316.ch
-#EXTINF:-1,IT: Prima Fila 6 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1317.ch
-#EXTINF:-1,IT: Prima Fila 7 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1318.ch
-#EXTINF:-1,IT: Prima Fila 8 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1319.ch
-#EXTINF:-1,IT: Prima Fila 9 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1320.ch
-#EXTINF:-1,IT: Rai 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1256.ch
-#EXTINF:-1,IT: Rai 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1257.ch
-#EXTINF:-1,IT: Rai 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1258.ch
-#EXTINF:-1,IT: Rai 4
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1259.ch
-#EXTINF:-1,IT: Rai 5
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1260.ch
-#EXTINF:-1,IT: Rai Gulp
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1254.ch
-#EXTINF:-1,IT: Rai Movie
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1253.ch
-#EXTINF:-1,IT: Rai Premium
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1255.ch
-#EXTINF:-1,IT: Rai Sport 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1252.ch
-#EXTINF:-1,IT: Rete 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1261.ch
-#EXTINF:-1,IT: Roma Channel
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1247.ch
-#EXTINF:-1,IT: RSI La1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1262.ch
-#EXTINF:-1,IT: Sky Calcio 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1225.ch
-#EXTINF:-1,IT: Sky Calcio 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1226.ch
-#EXTINF:-1,IT: Sky Calcio 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1227.ch
-#EXTINF:-1,IT: Sky Calcio 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1228.ch
-#EXTINF:-1,IT: Sky Calcio 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1229.ch
-#EXTINF:-1,IT: Sky Calcio 7 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1231.ch
-#EXTINF:-1,IT: Sky Calcio 8 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1232.ch
-#EXTINF:-1,IT: Sky Calcio 9 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1233.ch
-#EXTINF:-1,IT: Sky Cinema Classic HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1209.ch
-#EXTINF:-1,IT: Sky Cinema Comedy HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1203.ch
-#EXTINF:-1,IT: Sky Cinema Cult HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1204.ch
-#EXTINF:-1,IT: Sky Cinema Family  1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1206.ch
-#EXTINF:-1,IT: Sky Cinema Family HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1205.ch
-#EXTINF:-1,IT: Sky Cinema HITS HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1208.ch
-#EXTINF:-1,IT: Sky Cinema Max HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1207.ch
-#EXTINF:-1,IT: Sky Cinema Passion HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1210.ch
-#EXTINF:-1,IT: Sky Sport 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1236.ch
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1237.ch
-#EXTINF:-1,IT: Sky Sport 24 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1239.ch
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1238.ch
-#EXTINF:-1,IT: Sky Sport motogp HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1234.ch
-#EXTINF:-1,IT: Sky TG 24
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1265.ch
-#EXTINF:-1,IT: Sky Uno HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1248.ch
-#EXTINF:-1,IT: Sport Italia
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1240.ch
-#EXTINF:-1,IT: Super
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1263.ch
-#EXTINF:-1,IT: Super Tennis HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1241.ch
-#EXTINF:-1,IT: Supercalcio HD.
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1242.ch
-#EXTINF:-1,TR: CARTONNETWORK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1492.ch
-#EXTINF:-1,TR: Cartoon Network
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1491.ch
-#EXTINF:-1,TR: CNN Turk
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1478.ch
-#EXTINF:-1,TR: Discovery Sc
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1484.ch
-#EXTINF:-1,TR: Disney Channel HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1483.ch
-#EXTINF:-1,TR: DISNEY JUNIOR
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1482.ch
-#EXTINF:-1,TR: DREAM TURK
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1481.ch
-#EXTINF:-1,TR: Haber Turk
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1473.ch
-#EXTINF:-1,TR: KANAL D HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1480.ch
-#EXTINF:-1,TR: KANALTURK HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1479.ch
-#EXTINF:-1,TR: LIGTV 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1477.ch
-#EXTINF:-1,TR: LIGTV 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1476.ch
-#EXTINF:-1,TR: LIGTV 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1475.ch
-#EXTINF:-1,TR: LIGTV 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1474.ch
-#EXTINF:-1,TR: Moviemax Festival
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1472.ch
-#EXTINF:-1,TR: Moviemax Stars
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1470.ch
-#EXTINF:-1,TR: Moviemax_Family
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1469.ch
-#EXTINF:-1,TR: Moviemax_Premiere
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1468.ch
-#EXTINF:-1,TR: Planet Cocuk
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1467.ch
-#EXTINF:-1,TR: Planet Mutfak
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1466.ch
-#EXTINF:-1,TR: SALON 1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1465.ch
-#EXTINF:-1,TR: SALON 2
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1464.ch
-#EXTINF:-1,TR: SALON 3
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1463.ch
-#EXTINF:-1,TR: SHOW TV
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1462.ch
-#EXTINF:-1,TR: Sinema 1 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1456.ch
-#EXTINF:-1,TR: Sinema 2 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1471.ch
-#EXTINF:-1,TR: Sinema 3 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1490.ch
-#EXTINF:-1,TR: Sinema 4 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1489.ch
-#EXTINF:-1,TR: Sinema 5 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1488.ch
-#EXTINF:-1,TR: Sinema 6 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1487.ch
-#EXTINF:-1,TR: Sinema 7 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1486.ch
-#EXTINF:-1,TR: Sinema 8 HD
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1485.ch
-#EXTINF:-1,TR: Sinema Korku
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1461.ch
-#EXTINF:-1,TR: Sinema TV Aile
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1460.ch
-#EXTINF:-1,TR: Sinema tv Aksiyon
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1459.ch
-#EXTINF:-1,TR: Sinema_Gold
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1458.ch
-#EXTINF:-1,TR: Sinema_Platin
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1457.ch
-#EXTINF:-1,TR:Loca_1
-http://37.187.24.177:80/Hamadil1xa138/Hamadil1xa138/1455.ch
-
+#EXTINF:-1,ARENA SPORT 1
+https://sport7.biz/lba/M2YxNDI4YzU0Y2Y2Y2QxODI4NGNiMTExNTVmNGM5YmE=/g6/arena1rs.m3u8?
+#EXTINF:-1,ARENA SPORT 2
+https://sport7.biz/lba/M2YxNDI4YzU0Y2Y2Y2QxODI4NGNiMTExNTVmNGM5YmE=/g7/arena2sport.m3u8?
+#EXTINF:-1,ARENA SPORT 3
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g1/sportarena3rs.m3u8?
+#EXTINF:-1,ARENA SPORT 4
+https://sport7.biz/lba/NDllMTQ1NTc5ZTFiMzAwZWYxODM3ZWQzMWY4OGY2OWU=/g3/arenaserbia4.m3u8?
+#EXTINF:-1,ARENA SPORT 5
+https://sport7.biz/lba/NDllMTQ1NTc5ZTFiMzAwZWYxODM3ZWQzMWY4OGY2OWU=/g7/ar5sport.m3u8?
+#EXTINF:-1,SUPER SPORT 2
+https://sport7.biz/lba/MzE2NjhlNjU4OTIxZTBkY2JmZGQzZjc4N2QyZDYxNjA=/g2/ss2al.m3u8?
+#EXTINF:-1,SUPER SPORT 3
+https://sport7.biz/lba/MzE2NjhlNjU4OTIxZTBkY2JmZGQzZjc4N2QyZDYxNjA=/g8/albaniasport3.m3u8?
+#EXTINF:-1,SUPER SPORT 4
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g10/super4sport.m3u8?
+#EXTINF:-1,BEIN 1 TURCO
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,BEIN 6
+https://2222.janjua.pw:8088/live/beino6sij/playlist.m3u8?id=89696&wowzasessionid=08085129&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+https://2221.janjua.pw:8088/live/stream_bein7hz/playlist.m3u8?id=89708&wowzasessionid=3572804153&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 5
+https://2221.janjua.pw:8088/live/stream_bein5az/playlist.m3u8?id=89760&wowzasessionid=3878170579&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 10
+https://2223.janjua.pw:8088/live/beinsports10hdaz/playlist.m3u8?id=89761&wowzasessionid=341392429&pk=5cc173fb2b5b79c9ca365d8a6ab2d0fbb0ded2e4c4c84fb8866b53864b504543
+#EXTINF:-1,BEIN 2
+https://sport7.biz/lba/Y2QzYzY5NGQ1ODgzMzZjNmMxZTcyZGIyNDg0OTczZGI=/g4/turbein2sport.m3u8?
+#EXTINF:-1,BEIN 3
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,DIGI 1
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g4/ds1ro.m3u8?
+#EXTINF:-1,DIGI 2
+https://sportbar.biz/lba/N2MyNzE0YjM4OTBiN2I5YjA5OGQwMTg1OGRjNmU3YzM=/g7/digisport2ro.m3u8?
+#EXTINF:-1,DIGI 3
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g7/digi3ro.m3u8?
+#EXTINF:-1,DIGI 4
+https://sport7.biz/lba/MjFlNjI5NGM2YmY0ZTdhOGU4OTg1ZDJmOWJhNjNlMWM=/g1/rodigi4.m3u8?
+#EXTINF:-1,ARENASPORT 1
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g6/arena1rs.m3u8?
+#EXTINF:-1,ARENASPORT 2
+https://sport7.biz/lba/NWEzNjNmNDNjNzFiNzliMTBiNWNlYzUxNjI2NDkwM2Y=/g7/arena2sport.m3u8
+#EXTINF:-1,ARENASPORT 3
+https://sport7.biz/lba/NDdjY2M3MGM1YWMzMWJlYjg1ODcwMDMyMzI5ODE4YWE=/g1/sportarena3rs.m3u8
+#EXTINF:-1,ARENASPORT 4
+https://sport7.biz/lba/MmRjNjY4MGZhOGI3ODA0ZDVmMmNjMzQ1Nzg2ZTkyMWI=/g3/arenaserbia4.m3u8?
+#EXTINF:-1,ARENASPORT 5
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g7/ar5sport.m3u8
+#EXTINF:-1,Supersport1ALBANIA
+http://cdn.videosofsport1.live/hls/h-fnijp_H82RSPRzSBrmqw/1565643901/supersport.m3u8
+#EXTINF:-1,Supersport2ALBANIA
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g2/ss2al.m3u8
+#EXTINF:-1,Supersport3ALBANIA 
+https://sport7.biz/lba/NWExYmZmZmUyOGIyM2NjZDU1YTM2YzkyNmNjOWE5ZmM=/g8/albaniasport3.m3u8? 
+#EXTINF:-1,Supersport4ALBANIA                                                             
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g10/super4sport.m3u8? 
+#EXTINF:-1,TSN 
+ https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g7/ca1tsn.m3u8?                          
+#EXTINF:-1,FUTBOL
+https://sportbar.biz/lba/MjQzNWRmZTAxMDQ4ODhlNTE4YzdhZGM0YmEyOWUxZWU=/g3/rusfootball.m3u8
+#EXTINF:-1, MOSTVIDEO TV HD
+http://wow.stib.com.ua:1935/tv/ch1/chunklist_w1393915426_b125000.m3u8
+#EXTINF:-1,FighCANAL + SPORT HDtBox 
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1,CANAL + SPORT HD
+https://sport7.biz/lba/MTMzOTkzYjkzMzUwMTMzZTNmN2I4OGNlY2IzNzY2NjA=/g5/plcanalplus.m3u8
+#EXTINF:-1,BEINSPORTSESPAÑA
+https://sport7.biz/lba/OWNmYWI2YzI4ZTI4ODRhMmFhNDZlZmQ0MmVlOTY3NjE=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,PREMIER SPORTS HD
+http://cdn.videosofsport1.live/hls/Qcm648jM7wgCxLfmOyxB0Q/1565646546/premiersport.m3u8 
+#EXTINF:-1,Bein Sports 1 HD
+https://sport7.biz/lba/YjU1MmJmNjJlY2Q3MmU1YWFjZDA1OTYzNTFjMDlkNDE=/g5/beinsport1tur.m3u8?
+#EXTINF:-1,Abu DhabiSports2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8                                        
+#EXTINF:-1,Abu DhabiSports1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8                                        
+#EXTINF:-1,Sony Ten 1
+http://tv.b4ucast.me/tv/D6ChDKJZMF20180322/chunklist_w1364358750_tkaGxzZW5kdGltZT0xNTY1NjQ4ODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9X1MxdllXdUM0TEhhTU43STVyaVpxUGhzaXhiaERqcWtJblJmZVpROWpidz0=.m3u8
