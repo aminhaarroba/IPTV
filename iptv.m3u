@@ -3,6 +3,15 @@
 #EXTINF:0, Benfica TV
 rtmp://89.163.224.168:80/live/btv1
 
+#EXTINF:-1,PT| Sport TV 1 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16741.m3u8
+#EXTINF:-1,PT| Sport TV 2 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16740.m3u8
+#EXTINF:-1,PT| Sport TV 3 FHD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16739.m3u8
+#EXTINF:-1,PT| Sport TV Plus  HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16738.m3u8
+
 #EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium",SIC SD
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium",SIC NOTÍCIAS SD
