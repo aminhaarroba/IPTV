@@ -11,24 +11,6 @@ http://iptvpro.vision-new.org:8789/hdm2/hdm123456/343
 http://iptvpro.vision-new.org:8789/hdm2/hdm123456/342
 
 
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26599
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26598
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://thepk.co:2086/bigt127/4161962/51484
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV HD
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26578
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p29.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p30.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p07.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo_new.png" group-title="Canais",Benfica TV
-https://p02.quest123.top:8088/live/macacotv/playlist.m3u8?id=109836&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
 
 
 #EXTINF:-1,SPORT PORTUGAL 1
@@ -48,123 +30,34 @@ https://sport7.biz/lba/YjkzZWQyMWVjYjViNzkxMmUwZTE1MTJiM2EwYjE4MTU=/g8/ptsport5.
 
 #EXTINF:-1,PT| Sport TV 1 HD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16741.m3u8
-#EXTINF:-1,|PT| SPORT TV 1 HD
-http://vipgoldip.com:8080/cemali/20042018/68677
+
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 1
 rtmp://89.163.224.168:80/live/sporttv1
 #EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 1
 http://iptv.iptivihd.com:8000/live/KADIR/KADIR/500.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26627
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://thepk.co:2086/bigt127/4161962/51428
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://tv.b4ucast.me/tv/7cTtkFd2m020180322/chunklist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-http://tv.b4ucast.me/tv/7cTtkFd2m020180322/playlist_w1520442057_tkaGxzZW5kdGltZT0xNTY3MjExODIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9OUZKeEVwTmZDa1B1VmUyVFJLRVpLZGhLOFhqVTV6WjB4YjBtbTc5blhNaz0=.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p29.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=7867041283&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p02.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p07.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013758962993385478/aC9v2ETQ.jpg" group-title="Canais",Sport TV 1
-https://p30.quest123.top:8088/live/egr5445/playlist.m3u8?id=109835&wowzasessionid=3662107315&pk=992725b27957f834cd53f06d77708028305ca3a87e31ca40b8a2528a330cf1b7
-
 
 #EXTINF:-1,PT| Sport TV 2 HD
 http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16740.m3u8
-#EXTINF:-1,|PT| SPORT TV 2 HD
-http://vipgoldip.com:8080/cemali/20042018/68678
+
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 2
 rtmp://89.163.224.168:80/live/sporttv2
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 2
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/499.m3u8
 
-#EXTINF:-1,|PT| SPORT TV 3 HD
-http://vipgoldip.com:8080/cemali/20042018/68679
-#EXTINF:-1,PT| Sport TV 3 FHD
-http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16739.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 3
 rtmp://89.163.224.168:80/live/sporttv3
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 3
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/498.m3u8
 
-#EXTINF:-1,|PT| SPORT TV 4 HD
-http://vipgoldip.com:8080/cemali/20042018/68666
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 4
-https://ul.cdn946.net:8443/hls/oh66wnqhpbdcy.m3u8?s=Kzq_daAyt6ejfYRi2nh2UA&e=1562105938
-#EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 4
-http://iptv.iptivihd.com:8000/live/KADIR/KADIR/497.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Portugal",SPORT TV 5
 rtmp://89.163.224.168:80/live/sporttv5
 #EXTINF:-1 tvg-logo="https://infocul.pt/wp-content/uploads/2017/09/sport-tv.jpg" group-title="Portugal",Sport Tv 5
 http://iptvpro.vision-new.org:8789/hdm2/hdm123456/339
-#EXTINF:-1,|PT| SPORT TV 5 HD
-http://vipgoldip.com:8080/cemali/20042018/68680
 
 
-#EXTINF:-1 tvg-logo="https://is.gd/CtgQLN" group-title="Canais", CANAL 11 HD
-http://sl0.ddns.me:8000/namik77/77namik/203037#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26628
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://thepk.co:2086/bigt127/4161962/51427
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 2
-http://tv.b4ucast.me/tv/X1cgbFLQIz20180322/chunklist_w179043672_tkaGxzZW5kdGltZT0xNTY2NjAyMjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9ZDh4WTF6OWk1WXRqakNreVhHY2hOUjFPVlpPR2RuTXZ1SENQWktvTGg4VT0=.m3u8
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26629
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://thepk.co:2086/bigt127/4161962/51426
-#EXTINF:-1 tvg-logo="https://www.sporttv.pt/img/share_v2.png" group-title="Canais",Sport TV 3
-http://thepk.co:2086/bigt127/4161962/51426
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26630
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/af6d80c7adb4d3c90f3cf5bc79d99d27.png" group-title="Canais",Sport TV 4
-http://thepk.co:2086/bigt127/4161962/51425
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/26631
-#EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/c56d4660acec07474dbd93d3f884c7d3.png" group-title="Canais",Sport TV 5
-http://thepk.co:2086/bigt127/4161962/51424
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS NETWORK [USA]
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148456
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1034265088977334272/U16aO0DF_reasonably_small.jpg" group-title="Canais",ELEVEN SPORTS MOSAICO
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148451
-#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148455
-#EXTINF:-1 tvg-logo="https://ia802804.us.archive.org/15/items/ElevenSports1/eleven%20sports%201.png" group-title="Canais",Eleven 1
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148450
 
-
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://thepk.co:2086/bigt127/4161962/51471
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148449
-#EXTINF:-1 tvg-logo="https://is.gd/pbycU6" group-title="Canais",Eleven 2
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148454
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://thepk.co:2086/bigt127/4161962/51470
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148448
-#EXTINF:-1 tvg-logo="https://is.gd/ASd9rM" group-title="Canais",Eleven 3
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148453
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://thepk.co:2086/bigt127/4161962/51469
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148447
-#EXTINF:-1 tvg-logo="https://is.gd/lbJrQ8" group-title="Canais",Eleven 4
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148452
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
-http://thepk.co:2086/bigt127/4161962/51468
-XTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1558.png" group-title="Canais",Eleven 5
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148446
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
-http://thepk.co:2086/bigt127/4161962/51467
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-eleven-sports-6-pt-1559.png" group-title="Canais",Eleven 6
-http://qqtv.nl:8080/RB2XM5Nvcu/U6BbntTJ31/148445
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN SPORTS 1
 
@@ -189,16 +82,11 @@ http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14897
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Portugal",ELEVEN ?
 
 http://iptvpro.vision-new.org:8789/hdm2/hdm123456/14896
+
+
 --- FILMES ----
 
-#EXTINF:-1,|PT| TV CINE 1
-http://vipgoldip.com:8080/cemali/20042018/68669
-#EXTINF:-1,|PT| TV GLOBO
-http://vipgoldip.com:8080/cemali/20042018/68670
-#EXTINF:-1,|PT| TVCINE  2
-http://vipgoldip.com:8080/cemali/20042018/68681
-#EXTINF:-1,|PT| TVCINE 3
-http://vipgoldip.com:8080/cemali/20042018/68671
+
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/TVC1_2012.png" group-title="Portugal",TVC 1
 
@@ -215,6 +103,7 @@ http://iptvpro.vision-new.org:8789/hdm2/hdm123456/334
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/TVC4_2012.png" group-title="Portugal",TVC 4
 
 http://iptvpro.vision-new.org:8789/hdm2/hdm123456/335
+
 ------VARIOS PT-------
 
 #EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2018/08/thumb_rtp1HD00.jpg" group-title="Canais", RTP 1
